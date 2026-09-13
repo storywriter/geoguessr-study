@@ -1,0 +1,4 @@
+*.csv -text whitespace=cr-at-eol
+data/*.geojson linguist-generated=true
+data/*regions.json linguist-generated=true
+output/* linguist-generated=true

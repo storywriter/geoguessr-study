@@ -1,0 +1,10 @@
+area,iso3,year,muslim_percent,denominator_ja,note_ja,source_id
+Zanzibar,TZA,2023,99,地域人口,推計、概数,IRF-TZA
+Kelantan,MYS,2020,95.5,州人口,国勢調査,DOSM2020
+BARMM2020,PHL,2020,90.9,2020年当時のBARMM世帯人口,現在の行政区分と異なる,PSA2020
+Western Cape,ZAF,2022,5.2,州人口,ケープタウン市の値ではない,ZAF2022
+Toronto city,CAN,2021,9.6,市の私的世帯人口,都市圏の値ではない,STATCAN2021
+Greater Sydney,AUS,2021,6.3,都市圏人口,地区・女性の値ではない,ABS2021
+Tower Hamlets,GBR,2021,39.9,local authorityの全住民,ロンドン市全体の値ではない,ONS2021
+Blackburn with Darwen,GBR,2021,35.0,local authorityの全住民,ブラックバーン中心部だけの値ではない,ONS2021
+Kishanganj district,IND,2011,67.98,地区人口,国勢調査の二次転載,CENSUS2011_KISHANGANJ

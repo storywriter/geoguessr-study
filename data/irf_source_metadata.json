@@ -1,0 +1,231 @@
+{
+  "AZE": {
+    "status": "not_found"
+  },
+  "BEN": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111827.html",
+    "title": "2023 Report on International Religious Freedom: Benin",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/benin/"
+  },
+  "BGR": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111833.html",
+    "title": "2023 Report on International Religious Freedom: Bulgaria",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/bulgaria/"
+  },
+  "BRN": {
+    "status": "error"
+  },
+  "CIV": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111846.html",
+    "title": "2023 Report on International Religious Freedom: Côte d’Ivoire",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/cote-divoire/"
+  },
+  "CMR": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111838.html",
+    "title": "2023 Report on International Religious Freedom: Cameroon",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/cameroon/"
+  },
+  "DJI": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111853.html",
+    "title": "2023 Report on International Religious Freedom: Djibouti",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/djibouti/"
+  },
+  "ERI": {
+    "status": "not_found"
+  },
+  "ESP": {
+    "status": "not_found"
+  },
+  "ETH": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111862.html",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/ethiopia/"
+  },
+  "GEO": {
+    "status": "not_found"
+  },
+  "GHA": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111871.html",
+    "title": "2023 Report on International Religious Freedom: Ghana",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/ghana/"
+  },
+  "GIN": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111874.html",
+    "title": "2023 Report on International Religious Freedom: Guinea",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/guinea/"
+  },
+  "GNB": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111875.html",
+    "title": "2023 Report on International Religious Freedom: Guinea-Bissau",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/guinea-bissau/"
+  },
+  "GRC": {
+    "status": "not_found"
+  },
+  "IRQ": {
+    "status": "not_found"
+  },
+  "ISR": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111884.html",
+    "title": "2023 Report on International Religious Freedom: Israel, West Bank and Gaza: Israel",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/israel-west-bank-and-gaza/"
+  },
+  "KEN": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111896.html",
+    "title": "2023 Report on International Religious Freedom: Kenya",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/kenya/"
+  },
+  "KGZ": {
+    "status": "not_found"
+  },
+  "KHM": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111837.html",
+    "title": "2023 Report on International Religious Freedom: Cambodia",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/cambodia/"
+  },
+  "LBN": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111903.html",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/lebanon/"
+  },
+  "LBY": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111906.html",
+    "title": "2023 Report on International Religious Freedom: Libya",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/libya/"
+  },
+  "MDG": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111913.html",
+    "title": "2023 Report on International Religious Freedom: Madagascar",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/madagascar/"
+  },
+  "MKD": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111934.html",
+    "title": "2023 Report on International Religious Freedom: North Macedonia",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/north-macedonia/"
+  },
+  "MMR": {
+    "status": "not_found"
+  },
+  "MNE": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111924.html",
+    "title": "2023 Report on International Religious Freedom: Montenegro",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/montenegro/"
+  },
+  "MOZ": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111926.html",
+    "title": "2023 Report on International Religious Freedom: Mozambique",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/mozambique/"
+  },
+  "MRT": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111919.html",
+    "title": "2023 Report on International Religious Freedom: Mauritania",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/mauritania/"
+  },
+  "MWI": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111914.html",
+    "title": "2023 Report on International Religious Freedom: Malawi",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/malawi/"
+  },
+  "MYS": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111915.html",
+    "title": "2023 Report on International Religious Freedom: Malaysia",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/malaysia/"
+  },
+  "NGA": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111576.html",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/nigeria/"
+  },
+  "NPL": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111928.html",
+    "title": "2023 Report on International Religious Freedom: Nepal",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/nepal/"
+  },
+  "OMN": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111936.html",
+    "title": "2023 Report on International Religious Freedom: Oman",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/oman/"
+  },
+  "PSE": {
+    "status": "error"
+  },
+  "RUS": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111573.html",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/russia/"
+  },
+  "SDN": {
+    "status": "not_found"
+  },
+  "SRB": {
+    "status": "not_found"
+  },
+  "SYR": {
+    "status": "error"
+  },
+  "TCD": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111841.html",
+    "title": "2023 Report on International Religious Freedom: Chad",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/chad/"
+  },
+  "TGO": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111973.html",
+    "title": "2023 Report on International Religious Freedom: Togo",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/togo/"
+  },
+  "THA": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111971.html",
+    "title": "2023 Report on International Religious Freedom: Thailand",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/thailand/"
+  },
+  "TZA": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111970.html",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/tanzania/"
+  },
+  "UGA": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111977.html",
+    "title": "2023 Report on International Religious Freedom: Uganda",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/uganda/"
+  },
+  "UZB": {
+    "status": "not_found"
+  },
+  "YEM": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111986.html",
+    "title": "2023 Report on International Religious Freedom: Yemen",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/yemen/"
+  },
+  "ZAF": {
+    "status": "retrieved",
+    "mirror_url": "https://www.ecoi.net/en/document/2111956.html",
+    "title": "2023 Report on International Religious Freedom: South Africa",
+    "original_url": "https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/south-africa/"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "source_id": "TEIKOKU",
+  "base_download": "https://www.teikokushoin.co.jp/map/download_check/6",
+  "base_sha256": "dfeae674284f8a1fc984c47a6ad9d25a78ba00632944be2af9085ef471053d10",
+  "width": 9921,
+  "height": 7016,
+  "projected_crs": "EPSG:3395",
+  "pixel_origin": [
+    4763.0,
+    3511.0
+  ],
+  "pixels_per_projected_metre": 0.00015750461314895608,
+  "formula": "x_px = x0 + scale * easting; y_px = y0 - scale * northing; origin upper left",
+  "control_points": [
+    {
+      "lon": 0,
+      "lat": 0,
+      "observed_pixel": [
+        4763,
+        3511
+      ],
+      "projected_pixel": [
+        4763.0,
+        3511.0
+      ],
+      "residual_pixels": 0.0
+    },
+    {
+      "lon": 30,
+      "lat": 0,
+      "observed_pixel": [
+        5289,
+        3511
+      ],
+      "projected_pixel": [
+        5289.0,
+        3511.0
+      ],
+      "residual_pixels": 0.0
+    },
+    {
+      "lon": 180,
+      "lat": 0,
+      "observed_pixel": [
+        7919,
+        3511
+      ],
+      "projected_pixel": [
+        7919.0,
+        3511.0
+      ],
+      "residual_pixels": 0.0
+    },
+    {
+      "lon": 0,
+      "lat": 30,
+      "observed_pixel": [
+        4763,
+        2962
+      ],
+      "projected_pixel": [
+        4763.0,
+        2962.5391551911985
+      ],
+      "residual_pixels": 0.5391551911984607
+    },
+    {
+      "lon": 0,
+      "lat": 60,
+      "observed_pixel": [
+        4763,
+        2193.5
+      ],
+      "projected_pixel": [
+        4763.0,
+        2193.8364002370536
+      ],
+      "residual_pixels": 0.33640023705356725
+    },
+    {
+      "lon": 0,
+      "lat": -30,
+      "observed_pixel": [
+        4763,
+        4059
+      ],
+      "projected_pixel": [
+        4763.0,
+        4059.4608448088015
+      ],
+      "residual_pixels": 0.46084480880153933
+    },
+    {
+      "lon": 0,
+      "lat": -60,
+      "observed_pixel": [
+        4763,
+        4827.5
+      ],
+      "projected_pixel": [
+        4763.0,
+        4828.163599762946
+      ],
+      "residual_pixels": 0.6635997629464327
+    }
+  ],
+  "warning": "Natural Earth outlines and the publisher map may differ. These are approximate overlays, not traced publisher boundaries."
+}

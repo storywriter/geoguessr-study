@@ -1,0 +1,6318 @@
+[
+  {
+    "id": "EGY-all",
+    "iso3": "EGY",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "ナイル川沿い・デルタの生活圏が中心。全国のムスリム女性への2010年調査で、いつも62%、大抵21%が頭を覆うと回答。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "エジプト",
+    "un_region_ja": "北アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "PEW_DRESS2010"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "95.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2011; 2010;2020",
+    "map_number": 1
+  },
+  {
+    "id": "DZA-all",
+    "iso3": "DZA",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "北部の地中海沿岸に人口が集中。宗教人口は多いが、着用率を同じ数字とはみなさない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "アルジェリア",
+    "un_region_ja": "北アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "98.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 2
+  },
+  {
+    "id": "MAR-all",
+    "iso3": "MAR",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "北部・西部の都市や農村が主な生活圏。頭を覆わない女性も多く、都市・観光地と集落で差がある。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "モロッコ",
+    "un_region_ja": "北アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.7",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 3
+  },
+  {
+    "id": "TUN-all",
+    "iso3": "TUN",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "北部・東部沿岸の生活圏。ムスリム人口の多さだけで「高い」とは判定しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "チュニジア",
+    "un_region_ja": "北アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 4
+  },
+  {
+    "id": "LBY-all",
+    "iso3": "LBY",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "北部の地中海沿岸の生活圏を主に想定。広大な南部砂漠の塗色は人口密度を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-LBY"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "リビア",
+    "un_region_ja": "北アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-LBY"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020; 2023",
+    "map_number": 5
+  },
+  {
+    "id": "SDN-all",
+    "iso3": "SDN",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "ナイル川沿い、北部・東部・西部のムスリム生活圏。避難・人口移動が大きく、資料年と撮影年に注意。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-SDN"
+    ],
+    "country_ja": "スーダン",
+    "un_region_ja": "北アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "98.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 6
+  },
+  {
+    "id": "ESH-all",
+    "iso3": "ESH",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "西サハラの住民生活圏。頭を覆うメルハファ等との混同があるため、ヒジャブ単独については保守的な評価。帰属係争があり地図は境界を確定するものではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "西サハラ",
+    "un_region_ja": "北アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 7
+  },
+  {
+    "id": "MRT-all",
+    "iso3": "MRT",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "北西アフリカの大西洋岸から内陸。メルハファなど地域衣装との混同があるため、ヒジャブ単独については保守的な評価。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-MRT"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "モーリタニア",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-MRT"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020; 2023",
+    "map_number": 8
+  },
+  {
+    "id": "SEN-all",
+    "iso3": "SEN",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "西端のダカールを含む広い生活圏。首を覆わない頭巻きや未着用もあり、宗教人口比率から着用率を決めない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "セネガル",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "97.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 9
+  },
+  {
+    "id": "GMB-all",
+    "iso3": "GMB",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "セネガルに囲まれた細長い国の全域。頭巻きとの見分けが必要。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ガンビア",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "97.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 10
+  },
+  {
+    "id": "NER-all",
+    "iso3": "NER",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "住民の多い南部、ナイジェリア国境沿いが中心。北部砂漠の面積と遭遇機会は比例しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ニジェール",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "98.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 11
+  },
+  {
+    "id": "MLI-all",
+    "iso3": "MLI",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "南西部のバマコ周辺からニジェール川沿い、北部の町。地域衣装の頭布も多く、一律の着用率はない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "マリ共和国",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "94.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 12
+  },
+  {
+    "id": "BFA-all",
+    "iso3": "BFA",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "特に北部・東部、首都のムスリム生活圏。伝統的な頭巻きを含めて判定しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ブルキナファソ",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "67.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 13
+  },
+  {
+    "id": "GIN-north",
+    "iso3": "GIN",
+    "area_ja": "北部・中部・西部（南東部の森林地帯を除く）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        -15.2,
+        9.1,
+        -8.0,
+        12.8
+      ]
+    },
+    "explanation": "北部・中部・海岸部のムスリム生活圏。南東部の森林地域は宗教構成が異なる。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-GIN"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ギニア",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-GIN"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "86.8",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 14
+  },
+  {
+    "id": "GNB-interior",
+    "iso3": "GNB",
+    "area_ja": "北東部・東部（セネガル／ギニア国境寄り）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        -15.25,
+        11.1,
+        -13.5,
+        12.75
+      ]
+    },
+    "explanation": "内陸のムスリム居住地域を学習用に大きく囲った範囲。沿岸全体の着用率を示さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-GNB"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ギニアビサウ",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-GNB"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "56.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 15
+  },
+  {
+    "id": "SLE-all",
+    "iso3": "SLE",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "北部・東部を含むムスリム生活圏。宗教が混在し、一般的な頭巻きも見られる。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "シエラレオネ",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "80.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 16
+  },
+  {
+    "id": "CIV-north",
+    "iso3": "CIV",
+    "area_ja": "北部（マリ・ブルキナファソ国境寄り）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        -8.7,
+        8.0,
+        -2.4,
+        10.8
+      ]
+    },
+    "explanation": "北部にムスリム人口が多い。南部にも居住しているので北部に限定できる手掛かりではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-CIV"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "コートジボワール",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-CIV"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "46.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 17
+  },
+  {
+    "id": "CIV-abidjan",
+    "iso3": "CIV",
+    "area_ja": "南部アビジャンの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -4.03,
+        5.35
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-CIV"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "コートジボワール",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-CIV"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "46.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 18
+  },
+  {
+    "id": "GHA-north",
+    "iso3": "GHA",
+    "area_ja": "北部（タマレ周辺とその北）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        -2.9,
+        8.55,
+        0.6,
+        11.2
+      ]
+    },
+    "explanation": "北部のムスリム生活圏。北部全域が同じ宗教・服装ではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-GHA"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ガーナ",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-GHA"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "19.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 19
+  },
+  {
+    "id": "GHA-accra",
+    "iso3": "GHA",
+    "area_ja": "南部アクラのゾンゴ地区など",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -0.21,
+        5.57
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-GHA"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ガーナ",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-GHA"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "19.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 20
+  },
+  {
+    "id": "TGO-north",
+    "iso3": "TGO",
+    "area_ja": "北部（ブルキナファソ国境寄り）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        -0.2,
+        9.1,
+        1.5,
+        11.2
+      ]
+    },
+    "explanation": "北部のムスリム生活圏を大まかに示す。宗教の混在と一般の頭巻きに注意。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-TGO"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "トーゴ",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-TGO"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "16.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 21
+  },
+  {
+    "id": "BEN-north",
+    "iso3": "BEN",
+    "area_ja": "北部・北東部（ニジェール／ナイジェリア国境寄り）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Alibori",
+        "Borgou",
+        "Donga"
+      ]
+    },
+    "explanation": "ムスリム人口の多い北部・北東部をまとめたもの。各県内にも宗教の混在がある。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-BEN"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ベナン",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-BEN"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "31.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 22
+  },
+  {
+    "id": "NGA-north",
+    "iso3": "NGA",
+    "area_ja": "北部（北西部と北東部の中心域）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Sokoto",
+        "Zamfara",
+        "Kebbi",
+        "Katsina",
+        "Kano",
+        "Jigawa",
+        "Yobe",
+        "Borno",
+        "Bauchi",
+        "Gombe"
+      ]
+    },
+    "explanation": "北西部・北東部ではイスラム教が優勢。2010年の全国ムスリム女性調査では、いつも53%、大抵16%が頭を覆う。北部全住民がムスリムという意味ではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-NGA"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ナイジェリア",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-NGA",
+      "PEW_DRESS2010"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "56.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2011; 2010;2020; 2023",
+    "map_number": 23
+  },
+  {
+    "id": "NGA-transition",
+    "iso3": "NGA",
+    "area_ja": "中北部・北東部南縁（アブジャ周辺など）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Kaduna",
+        "Niger",
+        "Kwara",
+        "Nassarawa",
+        "Federal Capital Territory",
+        "Adamawa",
+        "Taraba"
+      ]
+    },
+    "explanation": "キリスト教・イスラム教が混在する移行帯。カドゥナ州の北部と南部にも差がある。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-NGA"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ナイジェリア",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-NGA",
+      "PEW_DRESS2010"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "56.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2011; 2010;2020; 2023",
+    "map_number": 24
+  },
+  {
+    "id": "NGA-southwest",
+    "iso3": "NGA",
+    "area_ja": "南西部（ラゴス・イバダン周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Lagos",
+        "Ogun",
+        "Oyo",
+        "Osun"
+      ]
+    },
+    "explanation": "南西部にもムスリムが多く住む。ヒジャブを見て直ちに北部と決めない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-NGA"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ナイジェリア",
+    "un_region_ja": "西アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-NGA",
+      "PEW_DRESS2010"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "56.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2011; 2010;2020; 2023",
+    "map_number": 25
+  },
+  {
+    "id": "TCD-north",
+    "iso3": "TCD",
+    "area_ja": "北部・中部（首都ンジャメナを含む）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        13.4,
+        11.6,
+        24.1,
+        23.5
+      ]
+    },
+    "explanation": "イスラム教人口が多い北部・中部。南部にはキリスト教・伝統宗教の人口が多い。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-TCD"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "チャド",
+    "un_region_ja": "中部アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-TCD"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "56.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 26
+  },
+  {
+    "id": "CMR-north",
+    "iso3": "CMR",
+    "area_ja": "北部の細長い部分（ナイジェリア／チャド寄り）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        12.0,
+        7.0,
+        16.3,
+        13.1
+      ]
+    },
+    "explanation": "北部にムスリム人口が集中するが一様ではない。南部の熱帯都市も完全な除外はできない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-CMR"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "カメルーン",
+    "un_region_ja": "中部アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-CMR"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "25.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 27
+  },
+  {
+    "id": "SOM-all",
+    "iso3": "SOM",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "東アフリカの角の住民生活圏。ソマリランドを含めた地理的表示。長い覆い・ジルバブ・顔の覆いを伴うこともある。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "SOM_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ソマリア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "SOM_DRESS"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.8",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2009–2010; 2010;2020",
+    "map_number": 28
+  },
+  {
+    "id": "DJI-all",
+    "iso3": "DJI",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "紅海入口の小国。ソマリ系・アファル系の生活圏で頭を覆う服装が見られる。数値は宗教人口で、着用率の全国実測値は未取得。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-DJI"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ジブチ",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-DJI"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "97.7",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020; 2023",
+    "map_number": 29
+  },
+  {
+    "id": "ERI-lowlands",
+    "iso3": "ERI",
+    "area_ja": "西部の低地と紅海沿岸",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Gash Barka",
+        "Anseba",
+        "Semenawi Keyih Bahri",
+        "Debubawi Keyih Bahri"
+      ]
+    },
+    "explanation": "ムスリム人口は低地・沿岸に多い。中央のアスマラ周辺の高地を除いた大まかな行政地域。県内にも高地や宗教の混在がある。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-ERI"
+    ],
+    "country_ja": "エリトリア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "51.7",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020",
+    "map_number": 30
+  },
+  {
+    "id": "ETH-east",
+    "iso3": "ETH",
+    "area_ja": "東部（ソマリア国境寄り）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Somali"
+      ]
+    },
+    "explanation": "ソマリ州のムスリム生活圏。全国平均をこの地域の率として使わない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-ETH"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "エチオピア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-ETH"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "36.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 31
+  },
+  {
+    "id": "ETH-northeast",
+    "iso3": "ETH",
+    "area_ja": "北東部（ジブチ・エリトリア国境寄りの低地）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Afar"
+      ]
+    },
+    "explanation": "アファル低地のムスリム生活圏。高原側のキリスト教徒の頭布との混同に注意。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-ETH"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "エチオピア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-ETH"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "36.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 32
+  },
+  {
+    "id": "ETH-southeast",
+    "iso3": "ETH",
+    "area_ja": "東中部・南東部（ハラール周辺から南へ）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        39,
+        6,
+        43,
+        10
+      ]
+    },
+    "explanation": "ハラール周辺とオロミア州東部・南東部の一部。長方形を国境で切った概略で、宗教境界ではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-ETH"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "エチオピア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-ETH"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "36.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 33
+  },
+  {
+    "id": "KEN-northeast",
+    "iso3": "KEN",
+    "area_ja": "北東部（ソマリア国境沿い）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "North-Eastern"
+      ]
+    },
+    "explanation": "ムスリムが多いソマリア国境側。旧州境を使った大まかな表示。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-KEN"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ケニア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-KEN"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "10.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 34
+  },
+  {
+    "id": "KEN-coast",
+    "iso3": "KEN",
+    "area_ja": "南東部の海岸（モンバサ～ラム）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        39.2,
+        -4.9,
+        41.9,
+        -1.6
+      ]
+    },
+    "explanation": "スワヒリ海岸のムスリム生活圏。海岸州の内陸すべてに同じ傾向があるとは限らない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-KEN"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ケニア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-KEN"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "10.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 35
+  },
+  {
+    "id": "KEN-nairobi",
+    "iso3": "KEN",
+    "area_ja": "中南部ナイロビ東部の一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        36.86,
+        -1.28
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-KEN"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ケニア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-KEN"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "10.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 36
+  },
+  {
+    "id": "TZA-zanzibar",
+    "iso3": "TZA",
+    "area_ja": "東部沖の島々（ザンジバル・ペンバ）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Zanzibar South and Central",
+        "Kaskazini-Unguja",
+        "Zanzibar West",
+        "Kusini-Pemba",
+        "Kaskazini-Pemba"
+      ]
+    },
+    "explanation": "ザンジバルはムスリム約99%との推計。沿岸本土と区別して覚える。",
+    "statistics": [
+      [
+        "MANUAL",
+        "Zanzibar"
+      ]
+    ],
+    "sources": [
+      "IRF-TZA"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "タンザニア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "IRF-TZA",
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "Zanzibar",
+        "iso3": "TZA",
+        "year": "2023",
+        "muslim_percent": "99",
+        "denominator_ja": "地域人口",
+        "note_ja": "推計、概数",
+        "source_id": "IRF-TZA"
+      }
+    ],
+    "national_muslim_percent": "29.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 37
+  },
+  {
+    "id": "TZA-coast",
+    "iso3": "TZA",
+    "area_ja": "東部の海岸（ダルエスサラーム周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Tanga",
+        "Pwani",
+        "Dar-Es-Salaam",
+        "Lindi",
+        "Mtwara"
+      ]
+    },
+    "explanation": "本土のインド洋沿岸にムスリム生活圏が続く。州の内陸は混在する。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-TZA"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "タンザニア",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-TZA"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "29.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 38
+  },
+  {
+    "id": "MOZ-north",
+    "iso3": "MOZ",
+    "area_ja": "北部（タンザニア国境・北東海岸）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Cabo Delgado",
+        "Niassa",
+        "Nampula"
+      ]
+    },
+    "explanation": "北部のムスリム人口が多い地域。宗教分布と一般的な頭巻きは分ける。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-MOZ"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "モザンビーク",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-MOZ"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "19.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 39
+  },
+  {
+    "id": "MWI-south",
+    "iso3": "MWI",
+    "area_ja": "南部（マラウイ湖の南端周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        34.6,
+        -15.6,
+        35.8,
+        -13.5
+      ]
+    },
+    "explanation": "マンゴチ・マチンガなど南部のムスリム生活圏。湖全周や国全域を意味しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-MWI"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "マラウイ",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-MWI"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "11.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 40
+  },
+  {
+    "id": "UGA-kampala",
+    "iso3": "UGA",
+    "area_ja": "南部カンパラの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        32.58,
+        0.32
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-UGA"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ウガンダ",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-UGA"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "11.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 41
+  },
+  {
+    "id": "COM-all",
+    "iso3": "COM",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "インド洋のコモロ諸島。頭を覆うシロマニなど地域衣装もあり、一般のヒジャブと形が異なる。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "コモロ",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "98.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 42
+  },
+  {
+    "id": "MYT-island",
+    "iso3": "MYT",
+    "area_ja": "マヨット島（アフリカ東岸沖）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        45.0,
+        -13.1,
+        45.4,
+        -12.55
+      ]
+    },
+    "explanation": "国連M49では東アフリカの独立した統計地域。フランス本土の傾向と混同しない。頭布の形に注意。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "マヨット（フランス）",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "98.8",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020",
+    "map_number": 43
+  },
+  {
+    "id": "MUS-port-louis",
+    "iso3": "MUS",
+    "area_ja": "北西部ポートルイスの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        57.5,
+        -20.16
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "モーリシャス",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "17.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 44
+  },
+  {
+    "id": "MDG-mahajanga",
+    "iso3": "MDG",
+    "area_ja": "北西部マハジャンガの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        46.32,
+        -15.72
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-MDG"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "マダガスカル",
+    "un_region_ja": "東アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-MDG"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "1.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 45
+  },
+  {
+    "id": "ZAF-cape-town",
+    "iso3": "ZAF",
+    "area_ja": "南西端ケープタウンのボーカープ周辺",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        18.41,
+        -33.92
+      ]
+    },
+    "explanation": "西ケープ州のムスリム人口は2022年に5.2%。州全体を塗らず、歴史的なムスリム地区の位置を点で示す。",
+    "statistics": [
+      [
+        "MANUAL",
+        "Western Cape"
+      ]
+    ],
+    "sources": [
+      "ZAF2022"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "南アフリカ共和国",
+    "un_region_ja": "南部アフリカ",
+    "source_ids": [
+      "ZAF2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "Western Cape",
+        "iso3": "ZAF",
+        "year": "2022",
+        "muslim_percent": "5.2",
+        "denominator_ja": "州人口",
+        "note_ja": "ケープタウン市の値ではない",
+        "source_id": "ZAF2022"
+      }
+    ],
+    "national_muslim_percent": "1.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 46
+  },
+  {
+    "id": "ZAF-durban",
+    "iso3": "ZAF",
+    "area_ja": "東岸ダーバンの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        31.02,
+        -29.86
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-ZAF"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "南アフリカ共和国",
+    "un_region_ja": "南部アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-ZAF"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "1.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 47
+  },
+  {
+    "id": "ZAF-johannesburg",
+    "iso3": "ZAF",
+    "area_ja": "北東部ヨハネスブルクの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        28.0,
+        -26.21
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-ZAF"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "南アフリカ共和国",
+    "un_region_ja": "南部アフリカ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-ZAF"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "1.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 48
+  },
+  {
+    "id": "IRN-all",
+    "iso3": "IRN",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "国連M49では南アジア。頭を覆う法的要件がある一方、実際の着用や取り締まりには時期・都市差がある。法律だけを着用率とはみなさない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FCDO-IRN"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "イラン",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "PEW2025",
+      "FCDO-IRN"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.8",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020; 2026",
+    "map_number": 49
+  },
+  {
+    "id": "AFG-all",
+    "iso3": "AFG",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "頭髪・身体を覆う服装が広く想定されるが、ブルカや顔の覆いをヒジャブと同一の着用率にしない。2021年以降と過去画像で環境が異なる。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FCDO-AFG"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "アフガニスタン",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "PEW2025",
+      "FCDO-AFG"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020; 2026",
+    "map_number": 50
+  },
+  {
+    "id": "PAK-all",
+    "iso3": "PAK",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "全国のムスリム女性調査（2010年）で、いつも32%、大抵29%が頭を覆う。ドゥパッタなど緩い頭布もあり、頭布一枚で判定しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "パキスタン",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "PEW2025",
+      "PEW_DRESS2010"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "96.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2011; 2010;2020",
+    "map_number": 51
+  },
+  {
+    "id": "BGD-all",
+    "iso3": "BGD",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "低地の住民生活圏に広く候補がある。サリーの布などヒジャブ以外の覆いもあるため、一律の高率とはしない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "バングラデシュ",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "91.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 52
+  },
+  {
+    "id": "MDV-all",
+    "iso3": "MDV",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "住民島とマレを想定。観光リゾート島の服装を住民島に一般化しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FCDO-MDV"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "モルディブ",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "PEW2025",
+      "FCDO-MDV"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "94.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020; 2026",
+    "map_number": 53
+  },
+  {
+    "id": "IND-kashmir",
+    "iso3": "IND",
+    "area_ja": "最北部（スリナガル周辺のカシミール盆地）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        73.9,
+        33.4,
+        75.7,
+        34.8
+      ]
+    },
+    "explanation": "ムスリム人口が非常に多い盆地。地区別のヒジャブ着用率は未取得なので保守的に「やや高い」。旧州全域やラダックまで同色にしない。",
+    "statistics": [
+      [
+        "IND",
+        "Srinagar"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "District - Srinagar",
+        "state_code": "01",
+        "district_code": "010",
+        "year": "2011",
+        "population": "1236829",
+        "muslims": "1177342",
+        "muslim_percent": "95.1904",
+        "women": "585705",
+        "muslim_women": "572098",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-01.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "map_number": 54
+  },
+  {
+    "id": "IND-upper-ganges",
+    "iso3": "IND",
+    "area_ja": "北部（デリーの北東～東、ガンジス川上流の平野）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        77.15,
+        28.2,
+        79.6,
+        30.1
+      ]
+    },
+    "explanation": "ウッタル・プラデーシュ州西部のムスリムが多い地区。州全体の比率を個別地区の比率に置き換えない。",
+    "statistics": [
+      [
+        "IND",
+        "State - UTTAR PRADESH"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "State - UTTAR PRADESH",
+        "state_code": "09",
+        "district_code": "000",
+        "year": "2011",
+        "population": "199812341",
+        "muslims": "38483967",
+        "muslim_percent": "19.2601",
+        "women": "95331831",
+        "muslim_women": "18616653",
+        "source_id": "IND_C01",
+        "input_file": "india-c01.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "map_number": 55
+  },
+  {
+    "id": "IND-delhi",
+    "iso3": "IND",
+    "area_ja": "北部デリー周辺（旧市街・北東部など）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        77.23,
+        28.66
+      ]
+    },
+    "explanation": "デリー全体とムスリムが多い地区には差がある。北東地区の統計をデリー全域に広げない。",
+    "statistics": [
+      [
+        "IND",
+        "North East"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "District - North East",
+        "state_code": "07",
+        "district_code": "092",
+        "year": "2011",
+        "population": "2241624",
+        "muslims": "657585",
+        "muslim_percent": "29.3352",
+        "women": "1053199",
+        "muslim_women": "312022",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-07.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 56
+  },
+  {
+    "id": "IND-lucknow",
+    "iso3": "IND",
+    "area_ja": "北部ラクナウ周辺",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        80.95,
+        26.85
+      ]
+    },
+    "explanation": "都市内にムスリム生活圏がある。過去のイスラム王朝の首都という歴史だけで周辺全域を「高い」にしない。",
+    "statistics": [
+      [
+        "IND",
+        "State - UTTAR PRADESH"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "State - UTTAR PRADESH",
+        "state_code": "09",
+        "district_code": "000",
+        "year": "2011",
+        "population": "199812341",
+        "muslims": "38483967",
+        "muslim_percent": "19.2601",
+        "women": "95331831",
+        "muslim_women": "18616653",
+        "source_id": "IND_C01",
+        "input_file": "india-c01.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 57
+  },
+  {
+    "id": "IND-bihar-east",
+    "iso3": "IND",
+    "area_ja": "東部（バングラデシュの北西側、ビハール州東端）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        87.1,
+        25.3,
+        88.3,
+        26.7
+      ]
+    },
+    "explanation": "キシャンガンジなどの人口集積。北東部全体ではなく、バングラデシュの北西側を覚える。",
+    "statistics": [
+      [
+        "MANUAL",
+        "Kishanganj district"
+      ]
+    ],
+    "sources": [
+      "CENSUS2011_KISHANGANJ",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "CENSUS2011_KISHANGANJ",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "Kishanganj district",
+        "iso3": "IND",
+        "year": "2011",
+        "muslim_percent": "67.98",
+        "denominator_ja": "地区人口",
+        "note_ja": "国勢調査の二次転載",
+        "source_id": "CENSUS2011_KISHANGANJ"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "map_number": 58
+  },
+  {
+    "id": "IND-bengal",
+    "iso3": "IND",
+    "area_ja": "東部（バングラデシュ国境の西側）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        87.6,
+        21.6,
+        89.2,
+        25.65
+      ]
+    },
+    "explanation": "西ベンガル州の東寄りの地区。国境全線がムスリム多数という意味ではなく、コルカタなどにも混在する。",
+    "statistics": [
+      [
+        "IND",
+        "Murshidabad"
+      ],
+      [
+        "IND",
+        "Maldah"
+      ],
+      [
+        "IND",
+        "Nadia"
+      ],
+      [
+        "IND",
+        "South Twenty Four Parganas"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "District - Murshidabad",
+        "state_code": "19",
+        "district_code": "333",
+        "year": "2011",
+        "population": "7103807",
+        "muslims": "4707573",
+        "muslim_percent": "66.2683",
+        "women": "3476243",
+        "muslim_women": "2310324",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-19.xls"
+      },
+      {
+        "area": "District - Maldah",
+        "state_code": "19",
+        "district_code": "332",
+        "year": "2011",
+        "population": "3988845",
+        "muslims": "2045151",
+        "muslim_percent": "51.2718",
+        "women": "1937304",
+        "muslim_women": "997513",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-19.xls"
+      },
+      {
+        "area": "District - Nadia",
+        "state_code": "19",
+        "district_code": "336",
+        "year": "2011",
+        "population": "5167600",
+        "muslims": "1382682",
+        "muslim_percent": "26.7568",
+        "women": "2513832",
+        "muslim_women": "675301",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-19.xls"
+      },
+      {
+        "area": "District - South Twenty Four Parganas",
+        "state_code": "19",
+        "district_code": "343",
+        "year": "2011",
+        "population": "8161961",
+        "muslims": "2903075",
+        "muslim_percent": "35.5684",
+        "women": "3988183",
+        "muslim_women": "1424674",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-19.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "map_number": 59
+  },
+  {
+    "id": "IND-assam",
+    "iso3": "IND",
+    "area_ja": "北東部（バングラデシュ北側の低地）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        89.6,
+        25.2,
+        92.2,
+        26.6
+      ]
+    },
+    "explanation": "アッサム州の西部低地・バングラデシュに近い側。北東インドの山地全体へ広げない。",
+    "statistics": [
+      [
+        "IND",
+        "Dhubri"
+      ],
+      [
+        "IND",
+        "Goalpara"
+      ],
+      [
+        "IND",
+        "Barpeta"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "District - Dhubri",
+        "state_code": "18",
+        "district_code": "301",
+        "year": "2011",
+        "population": "1949258",
+        "muslims": "1553023",
+        "muslim_percent": "79.6725",
+        "women": "951410",
+        "muslim_women": "759422",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-18.xls"
+      },
+      {
+        "area": "District - Goalpara",
+        "state_code": "18",
+        "district_code": "302",
+        "year": "2011",
+        "population": "1008183",
+        "muslims": "579929",
+        "muslim_percent": "57.5222",
+        "women": "494891",
+        "muslim_women": "283270",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-18.xls"
+      },
+      {
+        "area": "District - Barpeta",
+        "state_code": "18",
+        "district_code": "303",
+        "year": "2011",
+        "population": "1693622",
+        "muslims": "1198036",
+        "muslim_percent": "70.7381",
+        "women": "826618",
+        "muslim_women": "581360",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-18.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "map_number": 60
+  },
+  {
+    "id": "IND-malabar",
+    "iso3": "IND",
+    "area_ja": "南西部（コジコード周辺～その北・南の海岸）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        74.85,
+        10.7,
+        76.5,
+        12.8
+      ]
+    },
+    "explanation": "北ケララのマラバール海岸。コジコードの英語旧称はカリカットで、東部のコルカタ（カルカッタ）とは別都市。マラップラムなど地区差がある。",
+    "statistics": [
+      [
+        "IND",
+        "Kozhikode"
+      ],
+      [
+        "IND",
+        "Malappuram"
+      ],
+      [
+        "IND",
+        "Kannur"
+      ],
+      [
+        "IND",
+        "Kasaragod"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "KOZHIKODE",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "KOZHIKODE",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "District - Kozhikode",
+        "state_code": "32",
+        "district_code": "591",
+        "year": "2011",
+        "population": "3086293",
+        "muslims": "1211131",
+        "muslim_percent": "39.2423",
+        "women": "1615351",
+        "muslim_women": "646642",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-32.xls"
+      },
+      {
+        "area": "District - Malappuram",
+        "state_code": "32",
+        "district_code": "592",
+        "year": "2011",
+        "population": "4112920",
+        "muslims": "2888849",
+        "muslim_percent": "70.2384",
+        "women": "2152592",
+        "muslim_women": "1527278",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-32.xls"
+      },
+      {
+        "area": "District - Kannur",
+        "state_code": "32",
+        "district_code": "589",
+        "year": "2011",
+        "population": "2523003",
+        "muslims": "742483",
+        "muslim_percent": "29.4285",
+        "women": "1341557",
+        "muslim_women": "407260",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-32.xls"
+      },
+      {
+        "area": "District - Kasaragod",
+        "state_code": "32",
+        "district_code": "588",
+        "year": "2011",
+        "population": "1307375",
+        "muslims": "486913",
+        "muslim_percent": "37.2436",
+        "women": "678762",
+        "muslim_women": "257947",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-32.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "map_number": 61
+  },
+  {
+    "id": "IND-lakshadweep",
+    "iso3": "IND",
+    "area_ja": "南西沖の小島群（ラクシャドウィープ）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Lakshadweep"
+      ]
+    },
+    "explanation": "ケララ州沖の島々。人口構成はムスリム多数だが島別のヒジャブ着用率は未取得なので保守的に「やや高い」。",
+    "statistics": [
+      [
+        "IND",
+        "State - LAKSHADWEEP"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "State - LAKSHADWEEP",
+        "state_code": "31",
+        "district_code": "000",
+        "year": "2011",
+        "population": "64473",
+        "muslims": "62268",
+        "muslim_percent": "96.58",
+        "women": "31350",
+        "muslim_women": "31102",
+        "source_id": "IND_C01",
+        "input_file": "india-c01.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "map_number": 62
+  },
+  {
+    "id": "IND-hyderabad",
+    "iso3": "IND",
+    "area_ja": "南中部ハイデラバード旧市街周辺",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        78.47,
+        17.36
+      ]
+    },
+    "explanation": "デカン高原内陸の独立した候補。南西海岸のコジコードとは離れている。",
+    "statistics": [
+      [
+        "IND",
+        "State - ANDHRA PRADESH"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "State - ANDHRA PRADESH",
+        "state_code": "28",
+        "district_code": "000",
+        "year": "2011",
+        "population": "84580777",
+        "muslims": "8082412",
+        "muslim_percent": "9.5558",
+        "women": "42138631",
+        "muslim_women": "3996499",
+        "source_id": "IND_C01",
+        "input_file": "india-c01.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 63
+  },
+  {
+    "id": "IND-mumbai",
+    "iso3": "IND",
+    "area_ja": "西岸ムンバイの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        72.84,
+        18.98
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [
+      [
+        "IND",
+        "Mumbai"
+      ],
+      [
+        "IND",
+        "Mumbai Suburban"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "District - Mumbai",
+        "state_code": "27",
+        "district_code": "519",
+        "year": "2011",
+        "population": "3085411",
+        "muslims": "773173",
+        "muslim_percent": "25.059",
+        "women": "1400803",
+        "muslim_women": "331525",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-27.xls"
+      },
+      {
+        "area": "District - Mumbai Suburban",
+        "state_code": "27",
+        "district_code": "518",
+        "year": "2011",
+        "population": "9356962",
+        "muslims": "1795788",
+        "muslim_percent": "19.192",
+        "women": "4325639",
+        "muslim_women": "814956",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-27.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 64
+  },
+  {
+    "id": "IND-bhopal",
+    "iso3": "IND",
+    "area_ja": "中部ボパールの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        77.4,
+        23.26
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [
+      [
+        "IND",
+        "State - MADHYA PRADESH"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "State - MADHYA PRADESH",
+        "state_code": "23",
+        "district_code": "000",
+        "year": "2011",
+        "population": "72626809",
+        "muslims": "4774695",
+        "muslim_percent": "6.5743",
+        "women": "35014503",
+        "muslim_women": "2319863",
+        "source_id": "IND_C01",
+        "input_file": "india-c01.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 65
+  },
+  {
+    "id": "IND-bengaluru",
+    "iso3": "IND",
+    "area_ja": "南部ベンガルールの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        77.59,
+        12.97
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [
+      [
+        "IND",
+        "Bangalore"
+      ]
+    ],
+    "sources": [
+      "IND_C01",
+      "PEW_IND_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インド",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "IND_C01",
+      "PEW_IND_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "District - Bangalore",
+        "state_code": "29",
+        "district_code": "572",
+        "year": "2011",
+        "population": "9621551",
+        "muslims": "1248294",
+        "muslim_percent": "12.9739",
+        "women": "4598890",
+        "muslim_women": "599966",
+        "source_id": "IND_C01",
+        "input_file": "india-c01-29.xls"
+      }
+    ],
+    "national_muslim_percent": "15.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2011; 2019–2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 66
+  },
+  {
+    "id": "NPL-terai",
+    "iso3": "NPL",
+    "area_ja": "南部の低地（インド国境沿いの中西部・東部）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "polygon",
+      "coordinates": [
+        [
+          80.8,
+          28.5
+        ],
+        [
+          81.4,
+          28.25
+        ],
+        [
+          82.2,
+          28.05
+        ],
+        [
+          83.5,
+          27.85
+        ],
+        [
+          84.5,
+          27.65
+        ],
+        [
+          85.5,
+          27.1
+        ],
+        [
+          86.5,
+          26.95
+        ],
+        [
+          87.6,
+          26.8
+        ],
+        [
+          87.6,
+          26.25
+        ],
+        [
+          83.0,
+          26.4
+        ],
+        [
+          80.8,
+          27.0
+        ],
+        [
+          80.8,
+          28.5
+        ]
+      ]
+    },
+    "explanation": "タライ低地のムスリム居住集落。地形に沿って手描きした概略で、集落の正確な境界ではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-NPL"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ネパール",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-NPL"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "5.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "手描きの概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 67
+  },
+  {
+    "id": "LKA-east",
+    "iso3": "LKA",
+    "area_ja": "東部海岸（トリンコマリー～アンパラ）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Trikuṇāmalaya",
+        "Maḍakalapuva",
+        "Ampāra"
+      ]
+    },
+    "explanation": "2024年の宗教別人口はトリンコマリー46.5%、アンパラ45.6%、バッティカロア27.1%。東部全域で女性の多数が着用するとの実測値ではない。",
+    "statistics": [
+      [
+        "LKA",
+        "Trincomalee"
+      ],
+      [
+        "LKA",
+        "Ampara"
+      ],
+      [
+        "LKA",
+        "Batticaloa"
+      ]
+    ],
+    "sources": [
+      "LKA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "スリランカ",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "LKA2024",
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "Trincomalee",
+        "year": "2024",
+        "muslim_percent": "46.5",
+        "source_id": "LKA2024",
+        "source_page": "96"
+      },
+      {
+        "area": "Ampara",
+        "year": "2024",
+        "muslim_percent": "45.6",
+        "source_id": "LKA2024",
+        "source_page": "96"
+      },
+      {
+        "area": "Batticaloa",
+        "year": "2024",
+        "muslim_percent": "27.1",
+        "source_id": "LKA2024",
+        "source_page": "96"
+      }
+    ],
+    "national_muslim_percent": "10.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2024",
+    "map_number": 68
+  },
+  {
+    "id": "LKA-northwest",
+    "iso3": "LKA",
+    "area_ja": "北西部海岸（プッタラム～マンナール）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Puttalama",
+        "Mannārama"
+      ]
+    },
+    "explanation": "離れた東海岸と別に覚える。2024年のムスリム人口はプッタラム21.6%、マンナール27.4%。",
+    "statistics": [
+      [
+        "LKA",
+        "Puttalam"
+      ],
+      [
+        "LKA",
+        "Mannar"
+      ]
+    ],
+    "sources": [
+      "LKA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "スリランカ",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "LKA2024",
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "Puttalam",
+        "year": "2024",
+        "muslim_percent": "21.6",
+        "source_id": "LKA2024",
+        "source_page": "96"
+      },
+      {
+        "area": "Mannar",
+        "year": "2024",
+        "muslim_percent": "27.4",
+        "source_id": "LKA2024",
+        "source_page": "96"
+      }
+    ],
+    "national_muslim_percent": "10.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2024",
+    "map_number": 69
+  },
+  {
+    "id": "LKA-colombo",
+    "iso3": "LKA",
+    "area_ja": "西部コロンボの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        79.86,
+        6.93
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [
+      [
+        "LKA",
+        "Colombo"
+      ]
+    ],
+    "sources": [
+      "LKA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "スリランカ",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "LKA2024",
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "Colombo",
+        "year": "2024",
+        "muslim_percent": "12.6",
+        "source_id": "LKA2024",
+        "source_page": "96"
+      }
+    ],
+    "national_muslim_percent": "10.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2024",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 70
+  },
+  {
+    "id": "LKA-kandy",
+    "iso3": "LKA",
+    "area_ja": "中部キャンディ周辺の一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        80.63,
+        7.29
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [
+      [
+        "LKA",
+        "Kandy"
+      ]
+    ],
+    "sources": [
+      "LKA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "スリランカ",
+    "un_region_ja": "南アジア",
+    "source_ids": [
+      "LKA2024",
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "Kandy",
+        "year": "2024",
+        "muslim_percent": "15.3",
+        "source_id": "LKA2024",
+        "source_page": "96"
+      }
+    ],
+    "national_muslim_percent": "10.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2024",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 71
+  },
+  {
+    "id": "IDN-sumatra",
+    "iso3": "IDN",
+    "area_ja": "西部スマトラ島（北端アチェ・西部・南部など）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Aceh",
+        "Sumatera Barat",
+        "Riau",
+        "Jambi",
+        "Sumatera Selatan",
+        "Bengkulu",
+        "Lampung",
+        "Bangka-Belitung",
+        "Kepulauan Riau"
+      ]
+    },
+    "explanation": "ムスリム多数の州をまとめる。北スマトラ州のバタク高地などを一括で同色にしない。",
+    "statistics": [],
+    "sources": [
+      "BPS2010",
+      "ISEAS2022"
+    ],
+    "clothing_sources": [
+      "ISEAS2022"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インドネシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "BPS2010",
+      "ISEAS2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "11. NANGGROE ACEH DARUSSALAM",
+        "year": "2010",
+        "muslims": "4413244",
+        "population": "4494410",
+        "muslim_percent": "98.1941",
+        "muslim_women": "2208935",
+        "women": "2245458",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "13. SUMATERA BARAT",
+        "year": "2010",
+        "muslims": "4721924",
+        "population": "4846909",
+        "muslim_percent": "97.4213",
+        "muslim_women": "2383355",
+        "women": "2442532",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "14. RIAU",
+        "year": "2010",
+        "muslims": "4872873",
+        "population": "5538367",
+        "muslim_percent": "87.9839",
+        "muslim_women": "2367848",
+        "women": "2685199",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "15. JAMBI",
+        "year": "2010",
+        "muslims": "2950195",
+        "population": "3092265",
+        "muslim_percent": "95.4056",
+        "muslim_women": "1444115",
+        "women": "1511155",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "16. SUMATERA SELATAN",
+        "year": "2010",
+        "muslims": "7218951",
+        "population": "7450394",
+        "muslim_percent": "96.8935",
+        "muslim_women": "3547420",
+        "women": "3657747",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "17. BENGKULU",
+        "year": "2010",
+        "muslims": "1669081",
+        "population": "1715518",
+        "muslim_percent": "97.2931",
+        "muslim_women": "816791",
+        "women": "838359",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "18. LAMPUNG",
+        "year": "2010",
+        "muslims": "7264783",
+        "population": "7608405",
+        "muslim_percent": "95.4837",
+        "muslim_women": "3525307",
+        "women": "3691783",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "19. KEPULAUAN BANGKA BELITUNG",
+        "year": "2010",
+        "muslims": "1088791",
+        "population": "1223296",
+        "muslim_percent": "89.0047",
+        "muslim_women": "523374",
+        "women": "588202",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "21. KEPULAUAN RIAU",
+        "year": "2010",
+        "muslims": "1332201",
+        "population": "1679163",
+        "muslim_percent": "79.3372",
+        "muslim_women": "644570",
+        "women": "817019",
+        "source_id": "BPS2010"
+      }
+    ],
+    "national_muslim_percent": "87.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010; 2010;2020; 2022",
+    "map_number": 72
+  },
+  {
+    "id": "IDN-north-sumatra",
+    "iso3": "IDN",
+    "area_ja": "スマトラ島北部（メダン周辺を含む北スマトラ州）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Sumatera Utara"
+      ]
+    },
+    "explanation": "州全体は宗教が混在する。トバ湖周辺・西沖の島々と東岸の都市で差が大きい。",
+    "statistics": [],
+    "sources": [
+      "BPS2010",
+      "ISEAS2022"
+    ],
+    "clothing_sources": [
+      "ISEAS2022"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インドネシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "BPS2010",
+      "ISEAS2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "12. SUMATERA UTARA",
+        "year": "2010",
+        "muslims": "8579830",
+        "population": "12982204",
+        "muslim_percent": "66.0892",
+        "muslim_women": "4271867",
+        "women": "6498850",
+        "source_id": "BPS2010"
+      }
+    ],
+    "national_muslim_percent": "87.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010; 2010;2020; 2022",
+    "map_number": 73
+  },
+  {
+    "id": "IDN-java",
+    "iso3": "IDN",
+    "area_ja": "南西部ジャワ島（ジャカルタを含む）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Jawa Barat",
+        "Jawa Tengah",
+        "Jawa Timur",
+        "Jakarta Raya",
+        "Banten",
+        "Yogyakarta"
+      ]
+    },
+    "explanation": "インドネシアの人口集積の中心。全国ムスリム女性調査の通常着用61.9%（2022年）を参照するが、各州の実測率ではない。",
+    "statistics": [],
+    "sources": [
+      "BPS2010",
+      "ISEAS2022"
+    ],
+    "clothing_sources": [
+      "ISEAS2022"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インドネシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "BPS2010",
+      "ISEAS2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "32. JAWA BARAT",
+        "year": "2010",
+        "muslims": "41763592",
+        "population": "43053732",
+        "muslim_percent": "97.0034",
+        "muslim_women": "20514284",
+        "women": "21146692",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "33. JAWA TENGAH",
+        "year": "2010",
+        "muslims": "31328341",
+        "population": "32382657",
+        "muslim_percent": "96.7442",
+        "muslim_women": "15760158",
+        "women": "16291545",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "35. JAWA TIMUR",
+        "year": "2010",
+        "muslims": "36113396",
+        "population": "37476757",
+        "muslim_percent": "96.3621",
+        "muslim_women": "18292350",
+        "women": "18973241",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "31. DKI JAKARTA",
+        "year": "2010",
+        "muslims": "8200796",
+        "population": "9607787",
+        "muslim_percent": "85.3557",
+        "muslim_women": "4029695",
+        "women": "4736849",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "36. BANTEN",
+        "year": "2010",
+        "muslims": "10065783",
+        "population": "10632166",
+        "muslim_percent": "94.6729",
+        "muslim_women": "4909175",
+        "women": "5193018",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "34. DI YOGYAKARTA",
+        "year": "2010",
+        "muslims": "3179129",
+        "population": "3457491",
+        "muslim_percent": "91.949",
+        "muslim_women": "1608283",
+        "women": "1748581",
+        "source_id": "BPS2010"
+      }
+    ],
+    "national_muslim_percent": "87.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010; 2010;2020; 2022",
+    "map_number": 74
+  },
+  {
+    "id": "IDN-lombok",
+    "iso3": "IDN",
+    "area_ja": "南部のロンボク島・スンバワ島（バリの東隣）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Nusa Tenggara Barat"
+      ]
+    },
+    "explanation": "バリ島と、さらに東のフローレス島・ティモール島を同一視しない。",
+    "statistics": [],
+    "sources": [
+      "BPS2010",
+      "ISEAS2022"
+    ],
+    "clothing_sources": [
+      "ISEAS2022"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インドネシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "BPS2010",
+      "ISEAS2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "52. NUSA TENGGARA BARAT",
+        "year": "2010",
+        "muslims": "4341284",
+        "population": "4500212",
+        "muslim_percent": "96.4684",
+        "muslim_women": "2238605",
+        "women": "2316566",
+        "source_id": "BPS2010"
+      }
+    ],
+    "national_muslim_percent": "87.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010; 2010;2020; 2022",
+    "map_number": 75
+  },
+  {
+    "id": "IDN-borneo-se",
+    "iso3": "IDN",
+    "area_ja": "ボルネオ島の南部・東部",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Kalimantan Selatan",
+        "Kalimantan Timur"
+      ]
+    },
+    "explanation": "南部・東部の州。州内の森林集落や少数宗教地域には差がある。旧東カリマンタン州の範囲には現在の北カリマンタン州を含む。",
+    "statistics": [],
+    "sources": [
+      "BPS2010",
+      "ISEAS2022"
+    ],
+    "clothing_sources": [
+      "ISEAS2022"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インドネシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "BPS2010",
+      "ISEAS2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "63. KALIMANTAN SELATAN",
+        "year": "2010",
+        "muslims": "3505846",
+        "population": "3626616",
+        "muslim_percent": "96.6699",
+        "muslim_women": "1734212",
+        "women": "1790406",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "64. KALIMANTAN TIMUR",
+        "year": "2010",
+        "muslims": "3033705",
+        "population": "3553143",
+        "muslim_percent": "85.3809",
+        "muslim_women": "1440635",
+        "women": "1681453",
+        "source_id": "BPS2010"
+      }
+    ],
+    "national_muslim_percent": "87.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010; 2010;2020; 2022",
+    "map_number": 76
+  },
+  {
+    "id": "IDN-borneo-wc",
+    "iso3": "IDN",
+    "area_ja": "ボルネオ島の西部・中部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Kalimantan Barat",
+        "Kalimantan Tengah"
+      ]
+    },
+    "explanation": "ムスリム・キリスト教徒などが混在。海岸都市と内陸で差がある。",
+    "statistics": [],
+    "sources": [
+      "BPS2010",
+      "ISEAS2022"
+    ],
+    "clothing_sources": [
+      "ISEAS2022"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インドネシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "BPS2010",
+      "ISEAS2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "61. KALIMANTAN BARAT",
+        "year": "2010",
+        "muslims": "2603318",
+        "population": "4395983",
+        "muslim_percent": "59.2204",
+        "muslim_women": "1288058",
+        "women": "2149080",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "62. KALIMANTAN TENGAH",
+        "year": "2010",
+        "muslims": "1643715",
+        "population": "2212089",
+        "muslim_percent": "74.306",
+        "muslim_women": "785347",
+        "women": "1058346",
+        "source_id": "BPS2010"
+      }
+    ],
+    "national_muslim_percent": "87.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010; 2010;2020; 2022",
+    "map_number": 77
+  },
+  {
+    "id": "IDN-sulawesi",
+    "iso3": "IDN",
+    "area_ja": "中央東部スラウェシ島（北東端を除く）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Sulawesi Selatan",
+        "Sulawesi Barat",
+        "Sulawesi Tenggara",
+        "Sulawesi Tengah",
+        "Gorontalo"
+      ]
+    },
+    "explanation": "ムスリム多数の州だが、トラジャ高地など州内の宗教差が大きいため保守的に「やや高い」。北東端のマナド周辺を除く。",
+    "statistics": [],
+    "sources": [
+      "BPS2010",
+      "ISEAS2022"
+    ],
+    "clothing_sources": [
+      "ISEAS2022"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インドネシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "BPS2010",
+      "ISEAS2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "73. SULAWESI SELATAN",
+        "year": "2010",
+        "muslims": "7200938",
+        "population": "8034776",
+        "muslim_percent": "89.6221",
+        "muslim_women": "3699785",
+        "women": "4110345",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "76. SULAWESI BARAT",
+        "year": "2010",
+        "muslims": "957735",
+        "population": "1158651",
+        "muslim_percent": "82.6595",
+        "muslim_women": "480073",
+        "women": "577125",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "74. SULAWESI TENGGARA",
+        "year": "2010",
+        "muslims": "2126126",
+        "population": "2232586",
+        "muslim_percent": "95.2315",
+        "muslim_women": "1060868",
+        "women": "1110760",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "72. SULAWESI TENGAH",
+        "year": "2010",
+        "muslims": "2047959",
+        "population": "2635009",
+        "muslim_percent": "77.7211",
+        "muslim_women": "1001701",
+        "women": "1284165",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "75. GORONTALO",
+        "year": "2010",
+        "muslims": "1017396",
+        "population": "1040164",
+        "muslim_percent": "97.8111",
+        "muslim_women": "507477",
+        "women": "518250",
+        "source_id": "BPS2010"
+      }
+    ],
+    "national_muslim_percent": "87.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010; 2010;2020; 2022",
+    "map_number": 78
+  },
+  {
+    "id": "IDN-maluku",
+    "iso3": "IDN",
+    "area_ja": "東部マルク諸島",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Maluku",
+        "Maluku Utara"
+      ]
+    },
+    "explanation": "島ごとの宗教差が大きい。パプア全体をムスリム地域として塗らない。",
+    "statistics": [],
+    "sources": [
+      "BPS2010",
+      "ISEAS2022"
+    ],
+    "clothing_sources": [
+      "ISEAS2022"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インドネシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "BPS2010",
+      "ISEAS2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "81. MALUKU",
+        "year": "2010",
+        "muslims": "776130",
+        "population": "1533506",
+        "muslim_percent": "50.6115",
+        "muslim_women": "383092",
+        "women": "758029",
+        "source_id": "BPS2010"
+      },
+      {
+        "area": "82. MALUKU UTARA",
+        "year": "2010",
+        "muslims": "771110",
+        "population": "1038087",
+        "muslim_percent": "74.2818",
+        "muslim_women": "378310",
+        "women": "506694",
+        "source_id": "BPS2010"
+      }
+    ],
+    "national_muslim_percent": "87.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010; 2010;2020; 2022",
+    "map_number": 79
+  },
+  {
+    "id": "IDN-bali-denpasar",
+    "iso3": "IDN",
+    "area_ja": "南部バリ島デンパサールの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        115.22,
+        -8.66
+      ]
+    },
+    "explanation": "バリ島はヒンドゥー教徒が多数。ムスリム居住地区の補足候補を点で示し、島全体は無着色とする。",
+    "statistics": [],
+    "sources": [
+      "BPS2010",
+      "ISEAS2022"
+    ],
+    "clothing_sources": [
+      "ISEAS2022"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "インドネシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "BPS2010",
+      "ISEAS2022",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "87.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010; 2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 80
+  },
+  {
+    "id": "MYS-peninsula-east",
+    "iso3": "MYS",
+    "area_ja": "マレー半島の北部・東岸",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Kelantan",
+        "Terengganu",
+        "Kedah",
+        "Perlis",
+        "Pahang"
+      ]
+    },
+    "explanation": "クランタン州では2020年にムスリム95.5%。半島の北東部を特に覚える。数値は宗教人口。",
+    "statistics": [
+      [
+        "MANUAL",
+        "Kelantan"
+      ]
+    ],
+    "sources": [
+      "DOSM2020",
+      "MYS_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "マレーシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "DOSM2020",
+      "MYS_DRESS",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [
+      {
+        "area": "Kelantan",
+        "iso3": "MYS",
+        "year": "2020",
+        "muslim_percent": "95.5",
+        "denominator_ja": "州人口",
+        "note_ja": "国勢調査",
+        "source_id": "DOSM2020"
+      }
+    ],
+    "national_muslim_percent": "64.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2015; 2020",
+    "map_number": 81
+  },
+  {
+    "id": "MYS-peninsula-west",
+    "iso3": "MYS",
+    "area_ja": "マレー半島の西岸・南部（クアラルンプール周辺など）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Perak",
+        "Pulau Pinang",
+        "Selangor",
+        "Kuala Lumpur",
+        "Putrajaya",
+        "Negeri Sembilan",
+        "Melaka",
+        "Johor"
+      ]
+    },
+    "explanation": "都市ごとにムスリム・仏教徒・ヒンドゥー教徒などが混在。北東部と同率にしない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "MYS_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "マレーシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025",
+      "MYS_DRESS"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "64.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2015",
+    "map_number": 82
+  },
+  {
+    "id": "MYS-sabah",
+    "iso3": "MYS",
+    "area_ja": "ボルネオ島北東部（サバ州）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Sabah",
+        "Labuan"
+      ]
+    },
+    "explanation": "海岸部のムスリム生活圏と内陸の宗教構成には差がある。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-MYS",
+      "MYS_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "マレーシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-MYS",
+      "MYS_DRESS"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "64.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2015; 2023",
+    "map_number": 83
+  },
+  {
+    "id": "MYS-kuching",
+    "iso3": "MYS",
+    "area_ja": "ボルネオ島北西部クチンの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        110.34,
+        1.56
+      ]
+    },
+    "explanation": "サラワク州全域は塗らず、都市のムスリム生活圏を補足する。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-MYS",
+      "MYS_DRESS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "マレーシア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-MYS",
+      "MYS_DRESS"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "64.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2015; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 84
+  },
+  {
+    "id": "BRN-all",
+    "iso3": "BRN",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "ボルネオ島北岸の小国。頭を覆うトゥドゥンが見られる生活圏。外国人や宗教少数派まで一律ではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-BRN"
+    ],
+    "country_ja": "ブルネイ",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "82.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 85
+  },
+  {
+    "id": "THA-deep-south",
+    "iso3": "THA",
+    "area_ja": "最南部（マレーシア国境近く）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Pattani",
+        "Yala",
+        "Narathiwat",
+        "Satun"
+      ]
+    },
+    "explanation": "マレー系ムスリムが多い南端。半島南部全域が同じ宗教構成ではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-THA"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "タイ王国",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-THA"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "4.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 86
+  },
+  {
+    "id": "THA-andaman",
+    "iso3": "THA",
+    "area_ja": "南部の西海岸（クラビー・パンガー・プーケット周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Krabi",
+        "Phangnga",
+        "Phuket",
+        "Trang"
+      ]
+    },
+    "explanation": "ムスリムの生活圏と観光地・仏教徒の集落が混在する。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-THA"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "タイ王国",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-THA"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "4.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 87
+  },
+  {
+    "id": "THA-bangkok",
+    "iso3": "THA",
+    "area_ja": "中部バンコク東部などの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        100.62,
+        13.76
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-THA"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "タイ王国",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-THA"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "4.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 88
+  },
+  {
+    "id": "PHL-mindanao",
+    "iso3": "PHL",
+    "area_ja": "南部ミンダナオ島の西寄り（コタバト・マラウィ周辺）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Lanao del Sur",
+        "Maguindanao"
+      ]
+    },
+    "explanation": "旧BARMM集計のムスリム人口は90.9%（2020年、世帯人口）。ミンダナオ島全体を塗らない。",
+    "statistics": [
+      [
+        "MANUAL",
+        "BARMM2020"
+      ]
+    ],
+    "sources": [
+      "PSA2020"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "フィリピン",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PSA2020",
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "BARMM2020",
+        "iso3": "PHL",
+        "year": "2020",
+        "muslim_percent": "90.9",
+        "denominator_ja": "2020年当時のBARMM世帯人口",
+        "note_ja": "現在の行政区分と異なる",
+        "source_id": "PSA2020"
+      }
+    ],
+    "national_muslim_percent": "6.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2020",
+    "map_number": 89
+  },
+  {
+    "id": "PHL-sulu",
+    "iso3": "PHL",
+    "area_ja": "南西端の島列（バシラン・スールー・タウィタウィ）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Basilan",
+        "Sulu",
+        "Tawi-Tawi"
+      ]
+    },
+    "explanation": "ミンダナオからボルネオへ伸びる島々。2020年の地域集計と現在の行政区分には差がある。",
+    "statistics": [
+      [
+        "MANUAL",
+        "BARMM2020"
+      ]
+    ],
+    "sources": [
+      "PSA2020"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "フィリピン",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PSA2020",
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "BARMM2020",
+        "iso3": "PHL",
+        "year": "2020",
+        "muslim_percent": "90.9",
+        "denominator_ja": "2020年当時のBARMM世帯人口",
+        "note_ja": "現在の行政区分と異なる",
+        "source_id": "PSA2020"
+      }
+    ],
+    "national_muslim_percent": "6.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2020",
+    "map_number": 90
+  },
+  {
+    "id": "SGP-all",
+    "iso3": "SGP",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "小さな都市国家のマレー系・ムスリム生活圏。ヒジャブは国全体がムスリム多数である証拠ではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "シンガポール",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "16.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 91
+  },
+  {
+    "id": "KHM-mekong",
+    "iso3": "KHM",
+    "area_ja": "中部（プノンペン北方、メコン川沿い）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        104.5,
+        11.5,
+        106.2,
+        13.0
+      ]
+    },
+    "explanation": "チャム系ムスリムの集落が点在。四角形は集落の位置を探す概略で、範囲内が一様という意味ではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-KHM"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "カンボジア",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-KHM"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "2.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 92
+  },
+  {
+    "id": "MMR-rakhine",
+    "iso3": "MMR",
+    "area_ja": "西端（バングラデシュ国境寄り）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        92.1,
+        20.2,
+        93.3,
+        21.6
+      ]
+    },
+    "explanation": "北ラカインのムスリム生活圏。迫害・避難で人口分布が大きく変わっており、過去の人口値を現在へ外挿しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-MMR"
+    ],
+    "country_ja": "ミャンマー",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "3.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020",
+    "map_number": 93
+  },
+  {
+    "id": "MMR-yangon",
+    "iso3": "MMR",
+    "area_ja": "南部ヤンゴンの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        96.16,
+        16.78
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-MMR"
+    ],
+    "country_ja": "ミャンマー",
+    "un_region_ja": "東南アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "3.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 94
+  },
+  {
+    "id": "TUR-interior",
+    "iso3": "TUR",
+    "area_ja": "中央部・東部の内陸（アンカラ以東）",
+    "level": "高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        31,
+        35.8,
+        44.9,
+        42.2
+      ]
+    },
+    "explanation": "全国2010年調査ではムスリム女性の56%がいつも、6%が大抵頭を覆う。内陸の服装傾向は定性推定で、東西の実測率差は未取得。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010",
+      "GALLUP_TUR"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "トルコ",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "PEW_DRESS2010",
+      "GALLUP_TUR"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "97.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2007; 2010;2011; 2010;2020",
+    "map_number": 95
+  },
+  {
+    "id": "TUR-west",
+    "iso3": "TUR",
+    "area_ja": "西部（イスタンブール・エーゲ海岸周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        25.5,
+        35.8,
+        31,
+        42.2
+      ]
+    },
+    "explanation": "大都市・海岸部には未着用女性も多い。全国値を西部固有の率とはしない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010",
+      "GALLUP_TUR"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "トルコ",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "PEW_DRESS2010",
+      "GALLUP_TUR"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "97.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2007; 2010;2011; 2010;2020",
+    "map_number": 96
+  },
+  {
+    "id": "IRQ-all",
+    "iso3": "IRQ",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "メソポタミアの都市・集落が主な生活圏。北部クルディスタン、都市、少数宗教地区の差を含む定性推定。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-IRQ"
+    ],
+    "country_ja": "イラク",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 97
+  },
+  {
+    "id": "SYR-all",
+    "iso3": "SYR",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "内陸のムスリム生活圏を含む。沿岸部・都市・宗教少数派、避難による人口分布の変化が大きい。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-SYR"
+    ],
+    "country_ja": "シリア",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "94.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 98
+  },
+  {
+    "id": "LBN-north",
+    "iso3": "LBN",
+    "area_ja": "北部（トリポリ周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        35.65,
+        34.15,
+        36.6,
+        34.7
+      ]
+    },
+    "explanation": "宗教構成は非常に細かく分かれる。全国ムスリム女性の調査を地域全女性の着用率には使わない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-LBN"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "レバノン",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-LBN",
+      "PEW_DRESS2010"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "67.8",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2011; 2010;2020; 2023",
+    "map_number": 99
+  },
+  {
+    "id": "LBN-south-east",
+    "iso3": "LBN",
+    "area_ja": "南部と東部内陸（ベカー高原）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        35.1,
+        33.05,
+        36.7,
+        34.15
+      ]
+    },
+    "explanation": "南部・東部のムスリム生活圏の概略。キリスト教徒・ドゥルーズ派などの地区が混在する。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-LBN"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "レバノン",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-LBN",
+      "PEW_DRESS2010"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "67.8",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2011; 2010;2020; 2023",
+    "map_number": 100
+  },
+  {
+    "id": "JOR-all",
+    "iso3": "JOR",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "アンマンなど住民の生活圏。2010年のムスリム女性調査で、いつも59%、大抵24%が頭を覆う。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [
+      "PEW_DRESS2010"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ヨルダン",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "PEW_DRESS2010"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "97.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2011; 2010;2020",
+    "map_number": 101
+  },
+  {
+    "id": "SAU-all",
+    "iso3": "SAU",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "都市・集落の住民女性を想定する定性推定。女性旅行者に髪を覆う義務がある、という説明はしない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FCDO-SAU"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "サウジアラビア",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "FCDO-SAU"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "92.7",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020; 2026",
+    "map_number": 102
+  },
+  {
+    "id": "YEM-all",
+    "iso3": "YEM",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "住民女性の頭・身体を覆う服装を想定。ニカブなど顔の覆いとヒジャブを区別する。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-YEM"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "イエメン",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-YEM"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020; 2023",
+    "map_number": 103
+  },
+  {
+    "id": "OMN-all",
+    "iso3": "OMN",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "北東部のマスカット周辺や南部サラーラなどの生活圏。砂漠を含む国の面積は出題頻度ではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-OMN"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "オマーン",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-OMN"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "81.8",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020; 2023",
+    "map_number": 104
+  },
+  {
+    "id": "ARE-all",
+    "iso3": "ARE",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "湾岸のアブダビ・ドバイ・シャルジャなど。外国人住民や旅行者が多く、イスラム教国でも街頭の服装は多様。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "アラブ首長国連邦",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "72.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 105
+  },
+  {
+    "id": "QAT-all",
+    "iso3": "QAT",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "東岸のドーハ周辺に人口が集中。国籍人口と全居住人口を混同しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "カタール",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "75.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 106
+  },
+  {
+    "id": "BHR-all",
+    "iso3": "BHR",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "マナーマ周辺など住民生活圏。外国人住民の存在も考慮する。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "バーレーン",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "74.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 107
+  },
+  {
+    "id": "KWT-all",
+    "iso3": "KWT",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "湾岸のクウェート市周辺。外国人住民を含む人口と自国籍住民の服装は同じではない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "クウェート",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "80.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 108
+  },
+  {
+    "id": "PSE-all",
+    "iso3": "PSE",
+    "area_ja": "全域（住民の生活圏）",
+    "level": "高い",
+    "geometry": {
+      "type": "country"
+    },
+    "explanation": "ヨルダン川西岸・ガザのムスリム生活圏。両地域は離れている。人口移動と撮影時期の違いに注意。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-PSE"
+    ],
+    "country_ja": "パレスチナ",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "99.0",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "国・地域全体",
+    "data_years": "2010;2020",
+    "map_number": 109
+  },
+  {
+    "id": "ISR-galilee",
+    "iso3": "ISR",
+    "area_ja": "北部（ガリラヤのアラブ系住民の町）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        34.95,
+        32.2,
+        35.65,
+        33.2
+      ]
+    },
+    "explanation": "町・宗教ごとの差が大きい。頭布だけでイスラム教・国籍・民族を判断しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-ISR"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "イスラエル",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-ISR"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "14.7",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 110
+  },
+  {
+    "id": "ISR-negev",
+    "iso3": "ISR",
+    "area_ja": "南部（ベエルシェバ北方のラハト周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        34.76,
+        31.4
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-ISR"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "イスラエル",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025",
+      "IRF-ISR"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "14.7",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 111
+  },
+  {
+    "id": "AZE-baku",
+    "iso3": "AZE",
+    "area_ja": "東部バクー周辺の一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        49.87,
+        40.4
+      ]
+    },
+    "explanation": "宗教人口は多いが未着用も多い。ムスリム多数を根拠に国全体を濃い赤にしない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-AZE"
+    ],
+    "country_ja": "アゼルバイジャン",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "94.7",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 112
+  },
+  {
+    "id": "GEO-batumi",
+    "iso3": "GEO",
+    "area_ja": "南西部（黒海沿岸バトゥミ周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        41.64,
+        41.65
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-GEO"
+    ],
+    "country_ja": "ジョージア",
+    "un_region_ja": "西アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "10.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 113
+  },
+  {
+    "id": "UZB-ferghana",
+    "iso3": "UZB",
+    "area_ja": "東端（フェルガナ盆地）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        70.2,
+        40.0,
+        73.3,
+        41.4
+      ]
+    },
+    "explanation": "中央アジアではムスリム人口とヒジャブ着用が一致しない。東部の生活圏に限った弱い補助候補。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-UZB"
+    ],
+    "country_ja": "ウズベキスタン",
+    "un_region_ja": "中央アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "95.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020",
+    "map_number": 114
+  },
+  {
+    "id": "KGZ-osh",
+    "iso3": "KGZ",
+    "area_ja": "南西部（オシ周辺、フェルガナ盆地の縁）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        71.7,
+        39.3,
+        74.0,
+        41.2
+      ]
+    },
+    "explanation": "山地全域へ広げず、南西部の生活圏を候補とする。全国着用率の実測値は未取得。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-KGZ"
+    ],
+    "country_ja": "キルギス",
+    "un_region_ja": "中央アジア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "91.7",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020",
+    "map_number": 115
+  },
+  {
+    "id": "ALB-tirana",
+    "iso3": "ALB",
+    "area_ja": "中西部ティラナの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        19.82,
+        41.33
+      ]
+    },
+    "explanation": "ムスリム人口が多くても未着用女性が多い。市内の一部の生活圏を補助候補とする。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "アルバニア",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "74.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 116
+  },
+  {
+    "id": "XKX-prizren",
+    "iso3": "XKX",
+    "area_ja": "南部プリズレン周辺",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        20.74,
+        42.21
+      ]
+    },
+    "explanation": "コソボはM49の独立した国コードではないため、国連区分はセルビアの南ヨーロッパを参照。服装は多様。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "コソボ",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "94.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 117
+  },
+  {
+    "id": "BIH-sarajevo",
+    "iso3": "BIH",
+    "area_ja": "中東部サラエボ周辺",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        18.42,
+        43.86
+      ]
+    },
+    "explanation": "ボシュニャク系ムスリムの生活圏。ムスリムの多さを一律の着用率とみなさない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ボスニア・ヘルツェゴビナ",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "53.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 118
+  },
+  {
+    "id": "MKD-tetovo",
+    "iso3": "MKD",
+    "area_ja": "北西部（テトヴォ周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        20.97,
+        42.01
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-MKD"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "北マケドニア",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-MKD"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "34.7",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 119
+  },
+  {
+    "id": "SRB-novi-pazar",
+    "iso3": "SRB",
+    "area_ja": "南西部（ノヴィ・パザル周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        20.52,
+        43.14
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-SRB"
+    ],
+    "country_ja": "セルビア",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "4.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 120
+  },
+  {
+    "id": "MNE-ulcinj",
+    "iso3": "MNE",
+    "area_ja": "南東部（アルバニア国境沿いのウルツィニ周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        19.2,
+        41.93
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-MNE"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "モンテネグロ",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-MNE"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "21.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 121
+  },
+  {
+    "id": "BGR-south",
+    "iso3": "BGR",
+    "area_ja": "南部（ギリシャ国境近くの山地・町）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        23.4,
+        41.35,
+        26.0,
+        42.1
+      ]
+    },
+    "explanation": "ロドピ山地などのムスリム生活圏。高齢女性の一般的な頭布とは区別する。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-BGR"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ブルガリア",
+    "un_region_ja": "東ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-BGR"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "10.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020; 2023",
+    "map_number": 122
+  },
+  {
+    "id": "GRC-thrace",
+    "iso3": "GRC",
+    "area_ja": "北東端（トルコ・ブルガリア国境寄り）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "bbox",
+      "bounds": [
+        24.3,
+        40.8,
+        26.55,
+        41.75
+      ]
+    },
+    "explanation": "西トラキアのムスリム生活圏。ギリシャ本土の他地域とは分けて覚える。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-GRC"
+    ],
+    "country_ja": "ギリシャ",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "5.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "緯度経度で囲った概略",
+    "data_years": "2010;2020",
+    "map_number": 123
+  },
+  {
+    "id": "RUS-caucasus",
+    "iso3": "RUS",
+    "area_ja": "南西部（カスピ海西岸～北コーカサス東部）",
+    "level": "高い",
+    "geometry": {
+      "type": "admin1",
+      "names": [
+        "Chechnya",
+        "Ingush",
+        "Dagestan"
+      ]
+    },
+    "explanation": "チェチェン・イングーシ・ダゲスタンの生活圏。国連M49ではロシア全体が東ヨーロッパ。地域ごとに服装差がある。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-RUS",
+      "PEW_ATTIRE"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ロシア",
+    "un_region_ja": "東ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-RUS",
+      "PEW_ATTIRE"
+    ],
+    "clothing_evidence": "服装の質的資料あり／地域の率は未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "8.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "行政区を束ねた概略",
+    "data_years": "2010;2020; 2012–2013; 2023",
+    "map_number": 124
+  },
+  {
+    "id": "RUS-kazan",
+    "iso3": "RUS",
+    "area_ja": "西部内陸（カザン周辺、ボルガ川中流）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        49.11,
+        55.79
+      ]
+    },
+    "explanation": "ムスリム生活圏のある別の候補。北コーカサスと同じ高い着用率は想定しない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "IRF-RUS"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ロシア",
+    "un_region_ja": "東ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "IRF-RUS"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "8.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2023",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 125
+  },
+  {
+    "id": "GBR-london",
+    "iso3": "GBR",
+    "area_ja": "南東部ロンドン東部（タワーハムレッツなど）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -0.03,
+        51.52
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "ONS2021"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "イギリス",
+    "un_region_ja": "北ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "ONS2021"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "Tower Hamlets",
+        "iso3": "GBR",
+        "year": "2021",
+        "muslim_percent": "39.9",
+        "denominator_ja": "local authorityの全住民",
+        "note_ja": "ロンドン市全体の値ではない",
+        "source_id": "ONS2021"
+      }
+    ],
+    "national_muslim_percent": "6.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2021",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 126
+  },
+  {
+    "id": "GBR-birmingham",
+    "iso3": "GBR",
+    "area_ja": "中部バーミンガムの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -1.89,
+        52.48
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "ONS2021"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "イギリス",
+    "un_region_ja": "北ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "ONS2021"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "6.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2021",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 127
+  },
+  {
+    "id": "GBR-bradford",
+    "iso3": "GBR",
+    "area_ja": "北部ブラッドフォード周辺",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -1.75,
+        53.79
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "ONS2021"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "イギリス",
+    "un_region_ja": "北ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "ONS2021"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "6.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2021",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 128
+  },
+  {
+    "id": "GBR-blackburn",
+    "iso3": "GBR",
+    "area_ja": "北西部ブラックバーン周辺",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -2.48,
+        53.75
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "ONS2021"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "イギリス",
+    "un_region_ja": "北ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "ONS2021"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "Blackburn with Darwen",
+        "iso3": "GBR",
+        "year": "2021",
+        "muslim_percent": "35.0",
+        "denominator_ja": "local authorityの全住民",
+        "note_ja": "ブラックバーン中心部だけの値ではない",
+        "source_id": "ONS2021"
+      }
+    ],
+    "national_muslim_percent": "6.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2021",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 129
+  },
+  {
+    "id": "FRA-paris",
+    "iso3": "FRA",
+    "area_ja": "北部パリと周辺の一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        2.35,
+        48.88
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "INSEE2020"
+    ],
+    "clothing_sources": [
+      "INSEE2020"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "フランス",
+    "un_region_ja": "西ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "INSEE2020"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "9.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2019–2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 130
+  },
+  {
+    "id": "FRA-marseille",
+    "iso3": "FRA",
+    "area_ja": "南東岸マルセイユの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        5.38,
+        43.31
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "INSEE2020"
+    ],
+    "clothing_sources": [
+      "INSEE2020"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "フランス",
+    "un_region_ja": "西ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "INSEE2020"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "9.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2019–2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 131
+  },
+  {
+    "id": "DEU-ruhr",
+    "iso3": "DEU",
+    "area_ja": "西部（ルール地方の都市部の一部）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        7.01,
+        51.46
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "BAMF2020"
+    ],
+    "clothing_sources": [
+      "BAMF2020"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ドイツ",
+    "un_region_ja": "西ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "BAMF2020"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "6.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2019",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 132
+  },
+  {
+    "id": "DEU-berlin",
+    "iso3": "DEU",
+    "area_ja": "北東部ベルリンの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        13.41,
+        52.49
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "BAMF2020"
+    ],
+    "clothing_sources": [
+      "BAMF2020"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ドイツ",
+    "un_region_ja": "西ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "BAMF2020"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "6.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2019",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 133
+  },
+  {
+    "id": "NLD-rotterdam",
+    "iso3": "NLD",
+    "area_ja": "西部ロッテルダムの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        4.48,
+        51.92
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "オランダ",
+    "un_region_ja": "西ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "5.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 134
+  },
+  {
+    "id": "NLD-amsterdam",
+    "iso3": "NLD",
+    "area_ja": "西部アムステルダムの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        4.9,
+        52.37
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "オランダ",
+    "un_region_ja": "西ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "5.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 135
+  },
+  {
+    "id": "BEL-brussels",
+    "iso3": "BEL",
+    "area_ja": "中部ブリュッセルの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        4.35,
+        50.85
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ベルギー",
+    "un_region_ja": "西ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "6.8",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 136
+  },
+  {
+    "id": "SWE-malmo",
+    "iso3": "SWE",
+    "area_ja": "最南部マルメの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        13.0,
+        55.61
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "スウェーデン",
+    "un_region_ja": "北ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "8.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 137
+  },
+  {
+    "id": "SWE-stockholm",
+    "iso3": "SWE",
+    "area_ja": "東岸ストックホルムの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        18.06,
+        59.33
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "スウェーデン",
+    "un_region_ja": "北ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "8.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 138
+  },
+  {
+    "id": "DNK-copenhagen",
+    "iso3": "DNK",
+    "area_ja": "東部コペンハーゲンの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        12.55,
+        55.69
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "デンマーク",
+    "un_region_ja": "北ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "4.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 139
+  },
+  {
+    "id": "AUT-vienna",
+    "iso3": "AUT",
+    "area_ja": "東部ウィーンの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        16.37,
+        48.21
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "オーストリア",
+    "un_region_ja": "西ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "8.3",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 140
+  },
+  {
+    "id": "ITA-milan",
+    "iso3": "ITA",
+    "area_ja": "北部ミラノの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        9.19,
+        45.47
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "イタリア",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "4.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 141
+  },
+  {
+    "id": "ESP-barcelona",
+    "iso3": "ESP",
+    "area_ja": "北東部バルセロナの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        2.17,
+        41.39
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "スペイン",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025",
+      "FRA2024"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "3.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2022",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 142
+  },
+  {
+    "id": "ESP-ceuta",
+    "iso3": "ESP",
+    "area_ja": "アフリカ側の飛び地セウタ",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -5.32,
+        35.89
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-ESP"
+    ],
+    "country_ja": "スペイン",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "3.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 143
+  },
+  {
+    "id": "ESP-melilla",
+    "iso3": "ESP",
+    "area_ja": "アフリカ側の飛び地メリリャ",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -2.94,
+        35.29
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "unused_reference_links": [
+      "IRF-ESP"
+    ],
+    "country_ja": "スペイン",
+    "un_region_ja": "南ヨーロッパ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "3.6",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 144
+  },
+  {
+    "id": "CAN-toronto",
+    "iso3": "CAN",
+    "area_ja": "南東部トロントの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -79.38,
+        43.65
+      ]
+    },
+    "explanation": "トロント市の私的世帯人口でムスリム9.6%（2021年）。カナダの2016年調査ではムスリム女性48%がヒジャブを着用と回答。",
+    "statistics": [
+      [
+        "MANUAL",
+        "Toronto city"
+      ]
+    ],
+    "sources": [
+      "STATCAN2021"
+    ],
+    "clothing_sources": [
+      "ENVIRONICS2016"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "カナダ",
+    "un_region_ja": "北アメリカ",
+    "source_ids": [
+      "STATCAN2021",
+      "ENVIRONICS2016",
+      "PEW2025"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [
+      {
+        "area": "Toronto city",
+        "iso3": "CAN",
+        "year": "2021",
+        "muslim_percent": "9.6",
+        "denominator_ja": "市の私的世帯人口",
+        "note_ja": "都市圏の値ではない",
+        "source_id": "STATCAN2021"
+      }
+    ],
+    "national_muslim_percent": "4.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2016; 2021",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 145
+  },
+  {
+    "id": "CAN-montreal",
+    "iso3": "CAN",
+    "area_ja": "南東部モントリオールの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -73.57,
+        45.5
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "STATCAN2021"
+    ],
+    "clothing_sources": [
+      "ENVIRONICS2016"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "カナダ",
+    "un_region_ja": "北アメリカ",
+    "source_ids": [
+      "PEW2025",
+      "STATCAN2021",
+      "ENVIRONICS2016"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "4.9",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2016; 2021",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 146
+  },
+  {
+    "id": "USA-detroit",
+    "iso3": "USA",
+    "area_ja": "北東寄りの五大湖周辺（デトロイト西郊など）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -83.18,
+        42.32
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "PEW_US2017"
+    ],
+    "clothing_sources": [
+      "PEW_US2017"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "アメリカ合衆国",
+    "un_region_ja": "北アメリカ",
+    "source_ids": [
+      "PEW2025",
+      "PEW_US2017"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "1.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2017",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 147
+  },
+  {
+    "id": "USA-minneapolis",
+    "iso3": "USA",
+    "area_ja": "北部内陸ミネアポリスの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -93.24,
+        44.97
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "PEW_US2017"
+    ],
+    "clothing_sources": [
+      "PEW_US2017"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "アメリカ合衆国",
+    "un_region_ja": "北アメリカ",
+    "source_ids": [
+      "PEW2025",
+      "PEW_US2017"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "1.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2017",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 148
+  },
+  {
+    "id": "USA-new-york",
+    "iso3": "USA",
+    "area_ja": "北東岸ニューヨークの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -73.95,
+        40.72
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "PEW_US2017"
+    ],
+    "clothing_sources": [
+      "PEW_US2017"
+    ],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "アメリカ合衆国",
+    "un_region_ja": "北アメリカ",
+    "source_ids": [
+      "PEW2025",
+      "PEW_US2017"
+    ],
+    "clothing_evidence": "服装調査あり（地図の各範囲を直接測定したものではない）",
+    "statistic_records": [],
+    "national_muslim_percent": "1.2",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2017",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 149
+  },
+  {
+    "id": "SUR-paramaribo",
+    "iso3": "SUR",
+    "area_ja": "北部海岸（パラマリボ周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -55.2,
+        5.83
+      ]
+    },
+    "explanation": "ムスリム生活圏のある南米の候補。国の大部分を占める内陸森林を同色にしない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "スリナム",
+    "un_region_ja": "南アメリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "13.1",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 150
+  },
+  {
+    "id": "GUY-georgetown",
+    "iso3": "GUY",
+    "area_ja": "北東部海岸（ジョージタウン周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -58.16,
+        6.81
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ガイアナ",
+    "un_region_ja": "南アメリカ",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "6.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 151
+  },
+  {
+    "id": "TTO-chaguanas",
+    "iso3": "TTO",
+    "area_ja": "トリニダード島の中西部（チャグアナス周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        -61.41,
+        10.52
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "トリニダード・トバゴ",
+    "un_region_ja": "カリブ海",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "5.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 152
+  },
+  {
+    "id": "AUS-sydney",
+    "iso3": "AUS",
+    "area_ja": "南東岸シドニーの西部・南西部の一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        150.99,
+        -33.92
+      ]
+    },
+    "explanation": "グレーター・シドニーのムスリム人口6.3%（2021年）は都市圏全体の値。着用率ではない。",
+    "statistics": [
+      [
+        "MANUAL",
+        "Greater Sydney"
+      ]
+    ],
+    "sources": [
+      "ABS2021"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "オーストラリア",
+    "un_region_ja": "オーストラリア・ニュージーランド",
+    "source_ids": [
+      "ABS2021",
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [
+      {
+        "area": "Greater Sydney",
+        "iso3": "AUS",
+        "year": "2021",
+        "muslim_percent": "6.3",
+        "denominator_ja": "都市圏人口",
+        "note_ja": "地区・女性の値ではない",
+        "source_id": "ABS2021"
+      }
+    ],
+    "national_muslim_percent": "3.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2021",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 153
+  },
+  {
+    "id": "AUS-melbourne",
+    "iso3": "AUS",
+    "area_ja": "南東部メルボルン北部などの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        144.96,
+        -37.72
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025",
+      "ABS2021"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "オーストラリア",
+    "un_region_ja": "オーストラリア・ニュージーランド",
+    "source_ids": [
+      "PEW2025",
+      "ABS2021"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "3.5",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020; 2021",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 154
+  },
+  {
+    "id": "NZL-auckland",
+    "iso3": "NZL",
+    "area_ja": "北島北部オークランドの一部",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        174.76,
+        -36.85
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "ニュージーランド",
+    "un_region_ja": "オーストラリア・ニュージーランド",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "1.4",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 155
+  },
+  {
+    "id": "FJI-lautoka",
+    "iso3": "FJI",
+    "area_ja": "ビティレブ島西部（ラウトカ周辺）",
+    "level": "やや高い",
+    "geometry": {
+      "type": "point",
+      "coordinates": [
+        177.45,
+        -17.61
+      ]
+    },
+    "explanation": "都市内のムスリム居住地区で見られる可能性がある。点は位置の目印で、市全域の着用率や居住範囲を表さない。",
+    "statistics": [],
+    "sources": [
+      "PEW2025"
+    ],
+    "clothing_sources": [],
+    "rating_status": "学習用の定性推定（街頭出現率の実測値ではない）",
+    "country_ja": "フィジー",
+    "un_region_ja": "メラネシア",
+    "source_ids": [
+      "PEW2025"
+    ],
+    "clothing_evidence": "宗教人口・地域分布からの弱い定性推定／着用率未取得",
+    "statistic_records": [],
+    "national_muslim_percent": "5.8",
+    "national_data_year": 2020,
+    "geometry_kind_ja": "位置の目印（面積を持たない）",
+    "data_years": "2010;2020",
+    "position_caveat": "地域選択と座標は編集上の学習用目印。引用資料がこの地点の着用率を測ったという意味ではない。",
+    "map_number": 156
+  }
+]

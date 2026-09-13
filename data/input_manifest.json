@@ -1,0 +1,130 @@
+[
+  {
+    "filename": "countries.geojson",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_10m_admin_0_countries.geojson",
+    "group": "geometry",
+    "source_id": "NATURAL_EARTH",
+    "sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255",
+    "bytes": 13287234
+  },
+  {
+    "filename": "admin1.geojson",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_10m_admin_1_states_provinces.geojson",
+    "group": "geometry",
+    "source_id": "NATURAL_EARTH",
+    "sha256": "22d0e3ad85eb3e27f17cabf8ba2d50e554fbc27a87796ff891d958185da62fb5",
+    "bytes": 40726851
+  },
+  {
+    "filename": "NotoSansJP-VF.ttf",
+    "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/Variable/TTF/Subset/NotoSansJP-VF.ttf",
+    "group": "font",
+    "source_id": "NOTO",
+    "sha256": "f4b373b226668ee33a6e54b02823dcd2d1209f17159f777421ae8c2275160369",
+    "bytes": 9590732
+  },
+  {
+    "filename": "pew-national.pdf",
+    "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/PR_2025.06.09_global-religious-change_appendix-b.pdf",
+    "group": "statistics",
+    "source_id": "PEW2025",
+    "sha256": "6c5e9086410c35c726143488f073dbf4fef1fc4f5461e4e9d78976cab50902a4",
+    "bytes": 307726
+  },
+  {
+    "filename": "idn-religion.html",
+    "url": "https://sensus.bps.go.id/topik/tabular/sp2010/12/91622/1",
+    "group": "statistics",
+    "source_id": "BPS2010",
+    "sha256": "2932ae8369fd6007b35fd73f47b4b04a65f54350abfe79f3ca182c2f2cfc1c54",
+    "bytes": 224050
+  },
+  {
+    "filename": "lka-2024.pdf",
+    "url": "https://www.statistics.gov.lk/Slider/Census2024_En",
+    "group": "statistics",
+    "source_id": "LKA2024",
+    "sha256": "1ee768d1ce23b55497f8ee343c825b6d96363aa85e1f7ab3f3f94c086f11f093",
+    "bytes": 7780515
+  },
+  {
+    "filename": "m49.html",
+    "url": "https://unstats.un.org/unsd/methodology/m49/",
+    "group": "statistics",
+    "source_id": "UN_M49",
+    "sha256": "4d5cabcb10ad9ef184553b5e64c0a34ba8deeb20dab2e02cd0be3599b93bb01d",
+    "bytes": 2051368
+  },
+  {
+    "filename": "india-c01.xls",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/11361/download/14474/DDW00C-01%20MDDS.XLS",
+    "group": "statistics",
+    "source_id": "IND_C01",
+    "sha256": "c3fee2bb235f4ef511d9aaeceaf5f8026b48908f813c6d1cc06413a6c8a0d9cd",
+    "bytes": 52736
+  },
+  {
+    "filename": "india-c01-18.xls",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/11365/download/14478/DDW18C-01%20MDDS.XLS",
+    "group": "statistics",
+    "source_id": "IND_C01",
+    "sha256": "a7a01c11d4e2c030ed1605c2dd6436bb97fd971c3821253b7aef08a52c3fc902",
+    "bytes": 286208
+  },
+  {
+    "filename": "india-c01-07.xls",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/11371/download/14484/DDW07C-01%20MDDS.XLS",
+    "group": "statistics",
+    "source_id": "IND_C01",
+    "sha256": "5407e0630fa8a003363835b675d90e001f4e51a4d534d1d9c540a1880edc4ba8",
+    "bytes": 101376
+  },
+  {
+    "filename": "india-c01-01.xls",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/11376/download/14489/DDW01C-01%20MDDS.XLS",
+    "group": "statistics",
+    "source_id": "IND_C01",
+    "sha256": "c9f393c89b32b9be71c4adb206bca5e03cbd7b3f6906ab1b1945add907d3cacd",
+    "bytes": 157184
+  },
+  {
+    "filename": "india-c01-29.xls",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/11378/download/14491/DDW29C-01%20MDDS.XLS",
+    "group": "statistics",
+    "source_id": "IND_C01",
+    "sha256": "c0f40e1ede9d35e5e52357b759c58b6b2424223c202d97baabbeedfe05ad8e0a",
+    "bytes": 326656
+  },
+  {
+    "filename": "india-c01-32.xls",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/11379/download/14492/DDW32C-01%20MDDS.XLS",
+    "group": "statistics",
+    "source_id": "IND_C01",
+    "sha256": "d155653175c6f462ad9f89fa88552e36919424c41a61c56ab1ca7e829d38dead",
+    "bytes": 262656
+  },
+  {
+    "filename": "india-c01-27.xls",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/11382/download/14495/DDW27C-01%20MDDS.XLS",
+    "group": "statistics",
+    "source_id": "IND_C01",
+    "sha256": "bce626419f500bd7e1525b74e2da64285e4a5c021b65cee7492b1ba6b62bb9bd",
+    "bytes": 553472
+  },
+  {
+    "filename": "india-c01-19.xls",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/11396/download/14509/DDW19C-01%20MDDS.XLS",
+    "group": "statistics",
+    "source_id": "IND_C01",
+    "sha256": "723b9edf6254c86adac24e5ccd99efb74e044eac5ff31683910f05357ee179c9",
+    "bytes": 663552
+  },
+  {
+    "filename": "teikoku-mercator-europe.png",
+    "url": "https://www.teikokushoin.co.jp/map/download_check/6",
+    "group": "teikoku",
+    "source_id": "TEIKOKU",
+    "sha256": "dfeae674284f8a1fc984c47a6ad9d25a78ba00632944be2af9085ef471053d10",
+    "bytes": 1082061
+  }
+]

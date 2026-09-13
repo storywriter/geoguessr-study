@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "study_regions": 156,
+  "countries_and_areas": 98,
+  "area_geometries": 94,
+  "point_markers": 62,
+  "pdf_pages": 10,
+  "national_statistic_records": 416,
+  "india_statistic_records": 192,
+  "checks": [
+    "CSV/GeoJSON IDs, ratings and map numbers",
+    "Source references and survey distinctions",
+    "Population counts and denominators",
+    "Country clipping, valid geometry and non-overlap",
+    "PDF page count and Japanese text",
+    "Teikoku projection control points when available"
+  ]
+}
