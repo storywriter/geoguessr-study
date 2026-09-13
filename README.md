@@ -28,15 +28,13 @@ CSVの最初の5列が暗記用です。後ろに、地域ID、地図番号、�
 - インドのコジコードの旧英語名は**カリカット (Calicut)**。東部のコルカタの旧名**カルカッタ (Calcutta)**とは別です。
 - ナイジェリア北部にも宗教の混在があります。南西部にもムスリムが多く住み、「北部全員がムスリム」「見かけたら必ず北部」とはしません。
 
-## 帝国書院の白地図について
+## 白地図と塗色範囲
 
-依頼された帝国書院版は、同じ地域データを使って**ローカルの個人学習用**に生成しました。帝国書院の[利用案内](https://www.teikokushoin.co.jp/faq/)から、公開GitHubでの原図・加工図の再配布を許すライセンスは確認できませんでした。そのため、原図と加工図は `local-only/` / `.cache/` に置き、Gitの対象から除外しています。
-
-このリポジトリには、[パブリックドメインのNatural Earth](https://www.naturalearthdata.com/about/terms-of-use/)を白地図とする公開版を収録しています。帝国書院版の投影設定と塗色座標も保存済みです。これらは独立したNatural Earthの形状に基づく座標で、出版社の原図をトレースしたデータではありません。
+白地図はすべて[パブリックドメインのNatural Earth](https://www.naturalearthdata.com/about/terms-of-use/)を使用しています。塗色範囲と都市の点は `data/study_regions.geojson` に経度・緯度で保存し、CSVの地域IDで対応付けています。SVGの面の着色パスにも地域IDがあり、後から特定の範囲を見つけて更新できます。
 
 ## 更新・再生成
 
-Python 3.12を推奨します。公開版の再生成に元の報告書全文は不要です。
+Python 3.12を推奨します。再生成に元の報告書全文は不要です。
 
 ```sh
 python3 -m venv .venv
@@ -45,7 +43,7 @@ python3 -m venv .venv
 .venv/bin/python scripts/build.py
 ```
 
-最初のダウンロードは、描画に使うOFLライセンスの日本語フォントです。資料と境界データの版は固定し、入力のSHA-256も保存しています。更新方法、元統計からの再抽出、帝国書院版の再生成は [REPRODUCING.md](docs/REPRODUCING.md) を参照してください。
+最初のダウンロードは、描画に使うOFLライセンスの日本語フォントです。資料と境界データの版は固定し、入力のSHA-256も保存しています。更新方法、元統計からの再抽出、座標の対応は [REPRODUCING.md](docs/REPRODUCING.md) を参照してください。
 
 ## 保存しているデータ
 
@@ -54,8 +52,6 @@ python3 -m venv .venv
 | `data/study_regions.geojson` | 塗色した94範囲と62の点。WGS84、経度・緯度の順 |
 | `data/region_definitions.json` | 国全域・行政区名・概略ポリゴン・点の指定 |
 | `data/study_regions.json` | 地域、判定、統計、根拠を結んだ詳細情報 |
-| `data/teikoku_calibration.json` | 原図の画像サイズ、投影、ピクセル変換、基準点、原図ハッシュ |
-| `data/teikoku_pixel_regions.json` | 帝国書院版の塗色範囲をピクセル座標で表した独自データ |
 | `data/national_religion_2010_2020.csv` | Pewの201か国・地域の2010/2020年推計と世界・広域集計 |
 | `data/india_religion_2011.csv` | インド全国・州および取得した7州・直轄領の地区統計 |
 | `data/indonesia_provinces_2010.csv` | インドネシア33州と全国の宗教人口・女性人口 |
@@ -64,4 +60,4 @@ python3 -m venv .venv
 | `data/manual_statistics.csv` | その他の地域の手作業で確認した数値と分母 |
 | `data/country_coverage.csv` | 国連M49の国・統計地域ごとの掲載有無。未掲載は不在の証明ではない |
 
-非公式の自主学習プロジェクトです。GeoGuessr、Google、帝国書院、統計資料の発行機関との提携・公認を示すものではありません。権利の整理は [LICENSES.md](docs/LICENSES.md) に記載しています。
+非公式の自主学習プロジェクトです。GeoGuessr、Google、統計資料の発行機関との提携・公認を示すものではありません。権利の整理は [LICENSES.md](docs/LICENSES.md) に記載しています。

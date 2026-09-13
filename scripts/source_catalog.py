@@ -39,7 +39,6 @@ for code,name in [('IRN','iran'),('AFG','afghanistan'),('MDV','maldives'),('SAU'
     source('FCDO-'+code,'Foreign travel advice: '+name+', safety and security','UK Foreign, Commonwealth & Development Office','2026','https://www.gov.uk/foreign-travel-advice/'+name+'/safety-and-security','現行の服装・旅行案内','制度・生活上の案内。街頭着用率の測定ではない。閲覧日時点の情報で、撮影年へ遡及適用しない。')
 source('NATURAL_EARTH','1:10m Admin 0 Countries / Admin 1 States and Provinces','Natural Earth','2026','https://www.naturalearthdata.com/about/terms-of-use/','白地図・境界データ','パブリックドメイン。Git commitを固定し、0.012度で簡略化。境界は地理表示用で政治的立場を意味しない。')
 source('NOTO','Noto Sans JP','Noto CJK project / Google','2026','https://github.com/notofonts/noto-cjk/tree/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans','描画フォント','SIL Open Font License 1.1。キャッシュ内でウェイト400のTrueTypeを生成し、システムフォントと衝突しない固有名を付けてPDFへ埋め込む。')
-source('TEIKOKU','白地図: 世界全図 ヨーロッパ中心 メルカトル図法','帝国書院','2026','https://www.teikokushoin.co.jp/map/detail/6/','個人学習用白地図','原図と加工図はlocal-onlyに保存し公開リポジトリへ入れない。公開資料はNatural Earth版。利用条件: https://www.teikokushoin.co.jp/faq/')
 
 def add_irf():
     from collect_irf import SLUGS

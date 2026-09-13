@@ -1,6 +1,6 @@
 """Deterministic, shareable cartography; no third-party tiles or image editing AI."""
 from pathlib import Path
-import json,math,textwrap,hashlib,os
+import json,math,textwrap,os
 ROOT=Path(__file__).resolve().parents[1]
 os.environ.setdefault('MPLCONFIGDIR',str(ROOT/'.cache/matplotlib'))
 os.environ.setdefault('XDG_CACHE_HOME',str(ROOT/'.cache'))
@@ -13,9 +13,8 @@ from matplotlib.patches import PathPatch,Patch
 from matplotlib.path import Path as MPath
 from matplotlib.backends.backend_pdf import PdfPages
 from pyproj import Transformer
-from shapely.geometry import shape,box,Point
+from shapely.geometry import shape,box
 from shapely.ops import transform
-from PIL import Image,ImageDraw,ImageFont,ImageChops
 ROOT=Path(__file__).resolve().parents[1];DATA=ROOT/'data';OUT=ROOT/'output'
 COLORS={'高い':'#b82338','やや高い':'#f3b6bd'}
 FONT=ROOT/'.cache/NotoSansJP-Regular.ttf'
@@ -170,41 +169,6 @@ def atlas_page(title,extent,regions,world,features,rows,page):
     fig.savefig(OUT/f'拡大図_{page:02d}.png',dpi=150)
     return fig
 
-def teikoku(features):
-    original=ROOT/'.cache/teikoku-mercator-europe.png'
-    if not original.exists():return
-    im=Image.open(original).convert('RGB');w,h=im.size
-    # Grid-line control points measured on the unmodified 9921 x 7016 PNG.
-    # Ellipsoidal World Mercator reproduces the 30/60 degree parallels.
-    t=Transformer.from_crs(4326,3395,always_xy=True)
-    x0,y0=4763.0,3511.0;scale=(7919.0-4763.0)/t.transform(180,0)[0]
-    def project(lon,lat,z=None):
-        x,y=t.transform(lon,lat);return x0+scale*x,y0-scale*y
-    controls=[]
-    for lon,lat,x,y in [(0,0,4763,3511),(30,0,5289,3511),(180,0,7919,3511),(0,30,4763,2962),(0,60,4763,2193.5),(0,-30,4763,4059),(0,-60,4763,4827.5)]:
-        px,py=project(lon,lat);controls.append(dict(lon=lon,lat=lat,observed_pixel=[x,y],projected_pixel=[px,py],residual_pixels=math.hypot(px-x,py-y)))
-    calibration=dict(source_id='TEIKOKU',base_download='https://www.teikokushoin.co.jp/map/download_check/6',base_sha256=hashlib.sha256(original.read_bytes()).hexdigest(),width=w,height=h,projected_crs='EPSG:3395',pixel_origin=[x0,y0],pixels_per_projected_metre=scale,formula='x_px = x0 + scale * easting; y_px = y0 - scale * northing; origin upper left',control_points=controls,warning='Natural Earth outlines and the publisher map may differ. These are approximate overlays, not traced publisher boundaries.')
-    (DATA/'teikoku_calibration.json').write_text(json.dumps(calibration,ensure_ascii=False,indent=2)+'\n')
-    layer=Image.new('RGB',im.size,'white');d=ImageDraw.Draw(layer);records=[]
-    for f in features:
-        g=transform(project,shape(f['geometry']));level=f['properties']['level'];color=COLORS[level]
-        if g.geom_type=='Point':d.ellipse((g.x-17,g.y-17,g.x+17,g.y+17),fill=color,outline='#872132',width=4)
-        else:
-            for p in polygons(g):
-                d.polygon(list(p.exterior.coords),fill=color)
-                for hole in p.interiors:d.polygon(list(hole.coords),fill='white')
-        from prepare_geography import rounded
-        records.append(dict(region_id=f['id'],pixel_geometry=rounded(__import__('shapely').geometry.mapping(g))))
-    result=ImageChops.multiply(im,layer)
-    d=ImageDraw.Draw(result);large=ImageFont.truetype(str(FONT),100);small=ImageFont.truetype(str(FONT),43)
-    d.text((1805,60),'ヒジャブの出現率  —  学習用の定性推定',font=large,fill='#172d3d')
-    d.text((1805,6795),'薄い赤：日常的に見られる可能性　濃い赤：多く着用すると推定　白：低い／判断材料不足',font=small,fill='#314c5e')
-    d.text((1805,6860),'点は都市内の一部の目印。実測率ではない。原図：帝国書院（個人学習用・公開対象外）／塗り分け境界：Natural Earth',font=small,fill='#314c5e')
-    local=ROOT/'local-only';local.mkdir(exist_ok=True)
-    result.save(local/'ヒジャブの出現率_帝国書院.png')
-    (DATA/'teikoku_pixel_regions.json').write_text(json.dumps(dict(calibration_file='teikoku_calibration.json',features=records),ensure_ascii=False,separators=(',',':'))+'\n')
-    print('Teikoku control max error px',max(r['residual_pixels'] for r in controls))
-
 def main():
     setup();OUT.mkdir(exist_ok=True)
     world=json.loads((DATA/'basemap_countries.geojson').read_text())['features']
@@ -214,7 +178,6 @@ def main():
         fig=world_map(world,features);pdf.savefig(fig);plt.close(fig)
         for i,(title,extent,regions) in enumerate(VIEWS,1):
             fig=atlas_page(title,extent,regions,world,features,rows,i);pdf.savefig(fig);plt.close(fig)
-    teikoku(features)
     print('World PNG/SVG, regional PNGs and 10-page PDF rendered.')
 
 if __name__=='__main__':main()

@@ -233,13 +233,6 @@
 - データ年・参照時点: 2026 / 種類: 描画フォント
 - 用途・制限: SIL Open Font License 1.1。キャッシュ内でウェイト400のTrueTypeを生成し、システムフォントと衝突しない固有名を付けてPDFへ埋め込む。
 
-## TEIKOKU
-
-[白地図: 世界全図 ヨーロッパ中心 メルカトル図法](https://www.teikokushoin.co.jp/map/detail/6/) — 帝国書院
-
-- データ年・参照時点: 2026 / 種類: 個人学習用白地図
-- 用途・制限: 原図と加工図はlocal-onlyに保存し公開リポジトリへ入れない。公開資料はNatural Earth版。利用条件: https://www.teikokushoin.co.jp/faq/
-
 ## IRF-AZE
 
 [2023 Report on International Religious Freedom: azerbaijan](https://2021-2025.state.gov/reports/2023-report-on-international-religious-freedom/azerbaijan/) — U.S. Department of State

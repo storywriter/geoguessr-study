@@ -80,11 +80,7 @@ def main():
     assert len(pdf.pages)==10
     text='\n'.join(p.extract_text() for p in pdf.pages)
     assert 'ヒジャブ' in text and 'インド' in text
-    if (DATA/'teikoku_calibration.json').exists():
-        calibration=read('teikoku_calibration.json')
-        assert max(p['residual_pixels'] for p in calibration['control_points'])<1
-        assert {f['region_id'] for f in read('teikoku_pixel_regions.json')['features']}==set(ids)
-    report=dict(status='passed',study_regions=len(rows),countries_and_areas=len({r['iso3'] for r in rows}),area_geometries=len(rows)-points,point_markers=points,pdf_pages=len(pdf.pages),national_statistic_records=len(n),india_statistic_records=len(ind),checks=['CSV/GeoJSON IDs, ratings and map numbers','Source references and survey distinctions','Population counts and denominators','Country clipping, valid geometry and non-overlap','PDF page count and Japanese text','Teikoku projection control points when available'])
+    report=dict(status='passed',study_regions=len(rows),countries_and_areas=len({r['iso3'] for r in rows}),area_geometries=len(rows)-points,point_markers=points,pdf_pages=len(pdf.pages),national_statistic_records=len(n),india_statistic_records=len(ind),checks=['CSV/GeoJSON IDs, ratings and map numbers','Source references and survey distinctions','Population counts and denominators','Country clipping, valid geometry and non-overlap','PDF page count and Japanese text'])
     (OUT/'validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(report,ensure_ascii=False))
 

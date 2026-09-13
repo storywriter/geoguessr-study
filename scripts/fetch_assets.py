@@ -21,9 +21,8 @@ def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('--statistics',action='store_true',help='Original statistical tables, for re-extraction')
     p.add_argument('--geometry',action='store_true',help='Pinned original Natural Earth geometry')
-    p.add_argument('--teikoku',action='store_true',help='Personal-use publisher map; never added to Git')
     args=p.parse_args();groups={'font'}
-    for name in ['statistics','geometry','teikoku']:
+    for name in ['statistics','geometry']:
         if getattr(args,name):groups.add(name)
     for asset in json.loads((ROOT/'data/input_manifest.json').read_text()):
         if asset['group'] in groups:fetch(asset)

@@ -118,13 +118,5 @@
     "source_id": "IND_C01",
     "sha256": "723b9edf6254c86adac24e5ccd99efb74e044eac5ff31683910f05357ee179c9",
     "bytes": 663552
-  },
-  {
-    "filename": "teikoku-mercator-europe.png",
-    "url": "https://www.teikokushoin.co.jp/map/download_check/6",
-    "group": "teikoku",
-    "source_id": "TEIKOKU",
-    "sha256": "dfeae674284f8a1fc984c47a6ad9d25a78ba00632944be2af9085ef471053d10",
-    "bytes": 1082061
   }
 ]

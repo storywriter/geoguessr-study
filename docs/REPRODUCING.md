@@ -11,14 +11,14 @@ python3 -m venv .venv
 .venv/bin/python scripts/build.py
 ```
 
-元の統計サイトへアクセスせず、保存した数値と地理データからCSV・GeoJSON・世界図・10ページの地図帳を再生成する。ダウンロード後はネットワークなしで実行できる。帝国書院の原図がキャッシュにある環境では、ローカル版も更新する。
+元の統計サイトへアクセスせず、保存した数値とNatural Earthの地理データからCSV・GeoJSON・世界図・10ページの地図帳を再生成する。ダウンロード後はネットワークなしで実行できる。
 
 `build.py` の処理順は次のとおり。
 
 1. `source_catalog.py`：出典・手作業で確認した統計・服装調査の表を生成。
 2. `build_dataset.py`：地域定義と数値資料を結合し、国境で切り抜き、重複を処理。UTF-8 BOM・CRLFのCSVを書き出す。
-3. `render_maps.py`：日本語フォントを読み込み、公開版の図・PDFを描画。帝国書院の原図があれば個人学習用の加工図を描画。
-4. `validate.py`：データの結合、数値、図形、PDF、投影座標を検証し `output/validation.json` を更新。
+3. `render_maps.py`：日本語フォントを読み込み、Natural Earthを白地図に図・PDFを描画。
+4. `validate.py`：データの結合、数値、図形、PDFを検証し `output/validation.json` を更新。
 
 Codexのartifact-tool環境がある場合は、`scripts/export_with_artifact_tool.mjs` で同じ値をシートへ書き込み、CSVを書き出してPython版と完全一致を確認できる。通常の再生成にはNode.jsもartifact-toolも不要。
 
@@ -56,27 +56,13 @@ USDOS報告の保存版URL・確認状態は `data/irf_source_metadata.json` に
 
 Natural Earthの上流Git commitは `ca96624a56bd078437bca8184e78163e5039ad19`。1:10mの行政界を0.012度でトポロジーを保って簡略化し、経緯度を小数5桁で保存する。簡略化後の座標は学習用であり、測量精度ではない。
 
-公開GeoJSONはWGS84 (EPSG:4326)、**経度、緯度**の順。世界図はRobinson図法、地域図は経緯度を中緯度のcosで縦横補正した簡略図。公開SVGの着色パスには地域IDを付けてある。
+GeoJSONはWGS84 (EPSG:4326)、**経度、緯度**の順。世界図はRobinson図法、地域図は経緯度を中緯度のcosで縦横補正した簡略図。
 
-## 帝国書院版をローカルで再生成する
+## 塗色範囲の座標を探す
 
-利用条件を確認した個人学習の範囲で次を実行する。原図・加工図を公開Gitへ追加しない。
+CSVの「地域ID」は `data/study_regions.geojson` の各Featureの `id` と一致する。`geometry` に面の頂点または都市の点の経緯度、`properties` に判定と地図番号がある。面のSVG要素は `地域ID-0`、`地域ID-1` のように図形ごとの枝番号を付けている。都市の点の座標はGeoJSONから取得する。
 
-```sh
-.venv/bin/python scripts/fetch_assets.py --teikoku
-.venv/bin/python scripts/render_maps.py
-.venv/bin/python scripts/validate.py
-```
-
-生成先は `local-only/ヒジャブの出現率_帝国書院.png`。原図は `世界全図 ヨーロッパ中心 メルカトル図法` の9921×7016ピクセルPNG。元の著作権表示を残す。
-
-- 投影：楕円体メルカトル、EPSG:3395。
-- 画像座標：左上原点、xは右向き、yは下向き。
-- 変換：`x_px = x0 + scale * easting`、`y_px = y0 - scale * northing`。
-- `(x0, y0) = (4763, 3511)`。縮尺・基準点・原図ハッシュは `data/teikoku_calibration.json` に保存。
-- 完成図の塗色範囲は `data/teikoku_pixel_regions.json` の `region_id` から検索できる。
-
-経緯線の位置合わせは基準点7点で最大1ピクセル未満。これは海岸線・国境の一致精度ではない。出版社の原図とNatural Earthは独立した地図なので、個々の境界が異なることがある。原図の版・画像サイズを変更したときは、同じ変換値を使い回さない。
+位置や塗色を変更するときは `scripts/catalog.py` の同じ地域IDを編集し、`scripts/build.py` で再生成する。描画時の投影と図の配置は `scripts/render_maps.py` に保存しているため、画像サイズを変える場合も経緯度から再描画できる。
 
 ## 公開前の確認
 
@@ -87,4 +73,4 @@ git diff --stat
 git ls-files
 ```
 
-`.cache/`、`.venv/`、`node_modules`、`local-only/`、元の参考画像、報告書全文、個人情報を追加しない。公開対象は編集した数値資料・地域データ・自作の公開版図・プログラム・手順書である。
+`.cache/`、`.venv/`、`node_modules`、元の参考画像、報告書全文、個人情報を追加しない。公開対象は編集した数値資料・地域データ・Natural Earthを使った地図・プログラム・手順書である。

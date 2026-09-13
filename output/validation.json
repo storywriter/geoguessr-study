@@ -12,7 +12,6 @@
     "Source references and survey distinctions",
     "Population counts and denominators",
     "Country clipping, valid geometry and non-overlap",
-    "PDF page count and Japanese text",
-    "Teikoku projection control points when available"
+    "PDF page count and Japanese text"
   ]
 }

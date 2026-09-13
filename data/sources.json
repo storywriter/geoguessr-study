@@ -351,17 +351,6 @@
     "locator": "",
     "accessed": "2026-09-13"
   },
-  "TEIKOKU": {
-    "id": "TEIKOKU",
-    "title": "白地図: 世界全図 ヨーロッパ中心 メルカトル図法",
-    "publisher": "帝国書院",
-    "data_year": "2026",
-    "url": "https://www.teikokushoin.co.jp/map/detail/6/",
-    "kind": "個人学習用白地図",
-    "note": "原図と加工図はlocal-onlyに保存し公開リポジトリへ入れない。公開資料はNatural Earth版。利用条件: https://www.teikokushoin.co.jp/faq/",
-    "locator": "",
-    "accessed": "2026-09-13"
-  },
   "IRF-AZE": {
     "id": "IRF-AZE",
     "title": "2023 Report on International Religious Freedom: azerbaijan",
