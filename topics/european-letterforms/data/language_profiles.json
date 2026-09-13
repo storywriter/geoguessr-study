@@ -1,0 +1,994 @@
+[
+  {
+    "id": "en",
+    "name_ja": "英語",
+    "script": "Latin",
+    "glyphs": "th sh wh",
+    "words": "the / of / road",
+    "contrast": "基本26字だけでは他のラテン文字言語と区別しにくい。英語の案内は各国にある。"
+  },
+  {
+    "id": "cy",
+    "name_ja": "ウェールズ語",
+    "script": "Latin",
+    "glyphs": "ŵ ŷ ll dd ff",
+    "words": "y / yr / a",
+    "contrast": "ll・dd・ffとw/yの多い地名が手掛かり。wだけでは判定しない。"
+  },
+  {
+    "id": "ga",
+    "name_ja": "アイルランド語",
+    "script": "Latin",
+    "glyphs": "á é í ó ú",
+    "words": "an / na / agus",
+    "contrast": "母音の右上がりのアクセント。スコットランド・ゲール語のà・èと比較。"
+  },
+  {
+    "id": "gd",
+    "name_ja": "スコットランド・ゲール語",
+    "script": "Latin",
+    "glyphs": "à è ì ò ù",
+    "words": "an / na / agus",
+    "contrast": "母音の左上がりのアクセント。アイルランド語と文字列を共有する。"
+  },
+  {
+    "id": "kw",
+    "name_ja": "コーンウォール語",
+    "script": "Latin",
+    "glyphs": "yw dh ow",
+    "words": "an / ha / Kernow",
+    "contrast": "固有の追加文字より、Kernow・Kernow a'gas dynnerghなどを補助にする。"
+  },
+  {
+    "id": "sco",
+    "name_ja": "スコッツ語",
+    "script": "Latin",
+    "glyphs": "ae aa oo",
+    "words": "aye / o / brae",
+    "contrast": "英語に近い綴り。英語と同じ看板も多く、文字だけでは断定できない。"
+  },
+  {
+    "id": "gv",
+    "name_ja": "マン島語",
+    "script": "Latin",
+    "glyphs": "çh yn oo",
+    "words": "yn / ny / as",
+    "contrast": "çhとynが補助になる。通常の英語標識も多い。"
+  },
+  {
+    "id": "fr",
+    "name_ja": "フランス語",
+    "script": "Latin",
+    "glyphs": "ç œ é è ê",
+    "words": "le / la / de / rue",
+    "contrast": "çは他言語にもある。rue・du・desと合わせる。"
+  },
+  {
+    "id": "nl",
+    "name_ja": "オランダ語",
+    "script": "Latin",
+    "glyphs": "ij IJ aa ee",
+    "words": "de / het / van / straat",
+    "contrast": "ijと長母音の重ね書き。deだけではロマンス諸語と区別できない。"
+  },
+  {
+    "id": "fy",
+    "name_ja": "西フリジア語",
+    "script": "Latin",
+    "glyphs": "â ê ô û",
+    "words": "de / it / fan",
+    "contrast": "Fryslânなどの曲折アクセント。オランダ語との併記が補助。"
+  },
+  {
+    "id": "de",
+    "name_ja": "ドイツ語",
+    "script": "Latin",
+    "glyphs": "ä ö ü ß",
+    "words": "der / die / und / Straße",
+    "contrast": "ßが有力。大文字ではSSも使う。スイス・リヒテンシュタインでは通常ss。"
+  },
+  {
+    "id": "de_CH",
+    "name_ja": "ドイツ語（スイス式）",
+    "script": "Latin",
+    "glyphs": "ä ö ü ss",
+    "words": "der / die / und / Strasse",
+    "contrast": "通常ßを使わない。ssだけではスイスの証拠にはならない。"
+  },
+  {
+    "id": "lb",
+    "name_ja": "ルクセンブルク語",
+    "script": "Latin",
+    "glyphs": "ë ä é",
+    "words": "d' / an / Lëtzebuerg",
+    "contrast": "ëが目立つがアルバニア語にもある。ドイツ語・フランス語との混在を見る。"
+  },
+  {
+    "id": "is",
+    "name_ja": "アイスランド語",
+    "script": "Latin",
+    "glyphs": "þ ð æ ö",
+    "words": "og / á / í",
+    "contrast": "þとðの組合せが強い手掛かり。þの大文字はÞ。"
+  },
+  {
+    "id": "fo",
+    "name_ja": "フェロー語",
+    "script": "Latin",
+    "glyphs": "ð ø æ",
+    "words": "og / í / á",
+    "contrast": "ðとøの併存。アイスランド語は通常øを使わず、デンマーク語はðを使わない。"
+  },
+  {
+    "id": "da",
+    "name_ja": "デンマーク語",
+    "script": "Latin",
+    "glyphs": "æ ø å",
+    "words": "og / af / vej",
+    "contrast": "文字はノルウェー語とほぼ共通。vejなどを補助にする。"
+  },
+  {
+    "id": "nb",
+    "name_ja": "ノルウェー語（ブークモール）",
+    "script": "Latin",
+    "glyphs": "æ ø å",
+    "words": "og / av / vei",
+    "contrast": "デンマーク語と同じ追加3字。vei/vegの揺れだけで国を決めない。"
+  },
+  {
+    "id": "nn",
+    "name_ja": "ノルウェー語（ニーノシュク）",
+    "script": "Latin",
+    "glyphs": "æ ø å",
+    "words": "og / ikkje / veg",
+    "contrast": "ブークモールと文字集合を共有。西部の地名・公共表示の補助。"
+  },
+  {
+    "id": "sv",
+    "name_ja": "スウェーデン語",
+    "script": "Latin",
+    "glyphs": "å ä ö",
+    "words": "och / av / väg",
+    "contrast": "ochがデンマーク語・ノルウェー語のogとの比較に役立つ。"
+  },
+  {
+    "id": "fi",
+    "name_ja": "フィンランド語",
+    "script": "Latin",
+    "glyphs": "ä ö aa ii kk",
+    "words": "ja / tie / katu",
+    "contrast": "二重母音・二重子音、tie/katu。åはアルファベットにあるが借用語・スウェーデン系名中心。"
+  },
+  {
+    "id": "se",
+    "name_ja": "北サーミ語",
+    "script": "Latin",
+    "glyphs": "č đ ŋ š ŧ ž",
+    "words": "ja / geaidnu",
+    "contrast": "追加子音が多い。ノルウェー・スウェーデン・フィンランドにまたがる。"
+  },
+  {
+    "id": "smj",
+    "name_ja": "ルレ・サーミ語",
+    "script": "Latin",
+    "glyphs": "á å ń",
+    "words": "ja / várre",
+    "contrast": "北サーミ語とは字形を共有する。国境を越える言語。"
+  },
+  {
+    "id": "sma",
+    "name_ja": "南サーミ語",
+    "script": "Latin",
+    "glyphs": "å ä ö",
+    "words": "jïh / vaerie",
+    "contrast": "jïhやvaerieが補助。スウェーデン語と似た母音だけでは分けられない。"
+  },
+  {
+    "id": "smn",
+    "name_ja": "イナリ・サーミ語",
+    "script": "Latin",
+    "glyphs": "â č đ ŋ",
+    "words": "já / Aanaar",
+    "contrast": "âと追加子音の組合せ。イナリ周辺の多言語表示を確認。"
+  },
+  {
+    "id": "sms",
+    "name_ja": "スコルト・サーミ語",
+    "script": "Latin",
+    "glyphs": "ǩ ǧ ǥ ʒ ǯ",
+    "words": "da / Sääʹm",
+    "contrast": "k/gのカロンとʒ系が目立つ。資料・フォントによる表示差に注意。"
+  },
+  {
+    "id": "fkv",
+    "name_ja": "クヴェン語",
+    "script": "Latin",
+    "glyphs": "ä ö đ aa",
+    "words": "ja / joki / järvi",
+    "contrast": "フィンランド語に非常に近い。北ノルウェーでの併記が位置の手掛かり。"
+  },
+  {
+    "id": "fit",
+    "name_ja": "メアンキエリ",
+    "script": "Latin",
+    "glyphs": "ä ö aa",
+    "words": "ja / Tornionlaakso",
+    "contrast": "フィンランド語と字形を共有。スウェーデン北東部の併記で絞る。"
+  },
+  {
+    "id": "et",
+    "name_ja": "エストニア語",
+    "script": "Latin",
+    "glyphs": "õ ä ö ü",
+    "words": "ja / tee / tänav",
+    "contrast": "õとä・ö・üの組合せ。õ単独ならポルトガル語なども候補。"
+  },
+  {
+    "id": "lv",
+    "name_ja": "ラトビア語",
+    "script": "Latin",
+    "glyphs": "ā ē ī ū ģ ķ ļ ņ",
+    "words": "un / iela",
+    "contrast": "長音符と下付きの記号が特徴。ģの記号は小文字で上に見える。"
+  },
+  {
+    "id": "lt",
+    "name_ja": "リトアニア語",
+    "script": "Latin",
+    "glyphs": "ė ą ę į ų ū",
+    "words": "ir / gatvė",
+    "contrast": "点付きėと母音の下の尾。ラトビア語のā・ēとは異なる。"
+  },
+  {
+    "id": "pl",
+    "name_ja": "ポーランド語",
+    "script": "Latin",
+    "glyphs": "ł ą ę ś ź ż",
+    "words": "i / w / ulica",
+    "contrast": "łと鼻母音のą・ę、sz/cz/rz。ŁはLに斜線。"
+  },
+  {
+    "id": "csb",
+    "name_ja": "カシューブ語",
+    "script": "Latin",
+    "glyphs": "ã ë ò ô ù",
+    "words": "ë / Kaszëbë",
+    "contrast": "ポーランド語にないã・ë・òが補助。北部の併記地名に注目。"
+  },
+  {
+    "id": "cs",
+    "name_ja": "チェコ語",
+    "script": "Latin",
+    "glyphs": "ř ě ů",
+    "words": "a / v / ulice",
+    "contrast": "řとůが有力。スロバキア語のľ・ôと比較する。"
+  },
+  {
+    "id": "sk",
+    "name_ja": "スロバキア語",
+    "script": "Latin",
+    "glyphs": "ľ ĺ ŕ ô ä",
+    "words": "a / v / ulica",
+    "contrast": "ľは書体によってlの右の小さな印。チェコ語のřは通常ない。"
+  },
+  {
+    "id": "hu",
+    "name_ja": "ハンガリー語",
+    "script": "Latin",
+    "glyphs": "ő ű sz gy",
+    "words": "és / az / utca",
+    "contrast": "二重鋭アクセントő・űが強い手掛かり。ö・üとは別字。"
+  },
+  {
+    "id": "ro",
+    "name_ja": "ルーマニア語",
+    "script": "Latin",
+    "glyphs": "ă â î ș ț",
+    "words": "și / de / strada",
+    "contrast": "ș・țは下付きコンマ。旧字体・古いデータではş・ţが混在する。"
+  },
+  {
+    "id": "sq",
+    "name_ja": "アルバニア語",
+    "script": "Latin",
+    "glyphs": "ë ç sh xh",
+    "words": "dhe / në / rruga",
+    "contrast": "ëとq/xh/rrなどの組合せ。アルバニアのほかコソボ・北マケドニアなど。"
+  },
+  {
+    "id": "sl",
+    "name_ja": "スロベニア語",
+    "script": "Latin",
+    "glyphs": "č š ž",
+    "words": "in / na / cesta",
+    "contrast": "通常の固有語にć・đを使わないが、外国人名では見られる。"
+  },
+  {
+    "id": "hr",
+    "name_ja": "クロアチア語",
+    "script": "Latin",
+    "glyphs": "č ć đ š ž",
+    "words": "i / u / ulica",
+    "contrast": "ボスニア語・セルビア語ラテン表記と同じ字形。単独では国を分けられない。"
+  },
+  {
+    "id": "bs",
+    "name_ja": "ボスニア語",
+    "script": "Latin",
+    "glyphs": "č ć đ š ž",
+    "words": "i / u / ulica",
+    "contrast": "クロアチア語・セルビア語ラテン表記と共有。キリル表記もある。"
+  },
+  {
+    "id": "sr",
+    "name_ja": "セルビア語",
+    "script": "Cyrillic",
+    "glyphs": "ј љ њ ћ ђ џ",
+    "words": "и / у / улица",
+    "contrast": "ј・љ・њは北マケドニアとも共有。ћ・ђとќ・ѓを比較する。"
+  },
+  {
+    "id": "sr_Latn",
+    "name_ja": "セルビア語（ラテン表記）",
+    "script": "Latin",
+    "glyphs": "č ć đ š ž",
+    "words": "i / u / ulica",
+    "contrast": "キリル文字と併用。クロアチア語・ボスニア語と字形だけでは分けられない。"
+  },
+  {
+    "id": "cnr",
+    "name_ja": "モンテネグロ語",
+    "script": "Latin",
+    "glyphs": "ś ź č ć đ",
+    "words": "i / u / ulica",
+    "contrast": "ś・źは特徴だが看板で常に出るわけではない。キリル表記も使う。"
+  },
+  {
+    "id": "mk",
+    "name_ja": "マケドニア語",
+    "script": "Cyrillic",
+    "glyphs": "ј љ њ ќ ѓ ѕ",
+    "words": "и / во / улица",
+    "contrast": "ќ・ѓ・ѕが強い補助。セルビア語のћ・ђと形を比べる。"
+  },
+  {
+    "id": "bg",
+    "name_ja": "ブルガリア語",
+    "script": "Cyrillic",
+    "glyphs": "ъ щ ѝ",
+    "words": "и / на / улица",
+    "contrast": "語中のъが目立つ。ロシア語にもъはあるので単独では断定しない。"
+  },
+  {
+    "id": "ru",
+    "name_ja": "ロシア語",
+    "script": "Cyrillic",
+    "glyphs": "ы э ё ъ",
+    "words": "и / в / улица",
+    "contrast": "ы・эはベラルーシ語やロシア内の諸語も共有。ёの点が省かれる例もある。"
+  },
+  {
+    "id": "uk",
+    "name_ja": "ウクライナ語",
+    "script": "Cyrillic",
+    "glyphs": "і ї є ґ",
+    "words": "і / та / вулиця",
+    "contrast": "ї・єが有力。іだけではベラルーシ語やラテン文字と区別できない。"
+  },
+  {
+    "id": "be",
+    "name_ja": "ベラルーシ語",
+    "script": "Cyrillic",
+    "glyphs": "ў і ы э",
+    "words": "і / у / вуліца",
+    "contrast": "短いuのўが有力。ロシア語との併記・混在が多い。"
+  },
+  {
+    "id": "rue",
+    "name_ja": "ルシン語・レムコ語",
+    "script": "Cyrillic",
+    "glyphs": "і ї ы",
+    "words": "і / на",
+    "contrast": "ウクライナ語やベラルーシ語と文字を共有。地域により正書法が異なる。"
+  },
+  {
+    "id": "el",
+    "name_ja": "ギリシャ語",
+    "script": "Greek",
+    "glyphs": "Θ θ Λ λ Ξ ξ Ω ω",
+    "words": "και / η / οδός",
+    "contrast": "独立したギリシャ文字。キプロスでも使う。ΡはラテンPに似る。"
+  },
+  {
+    "id": "mt",
+    "name_ja": "マルタ語",
+    "script": "Latin",
+    "glyphs": "ċ ġ ħ ż għ",
+    "words": "il- / tal- / triq",
+    "contrast": "ħと点付きċ・ġ・żが有力。英語の併記もよく使われる。"
+  },
+  {
+    "id": "it",
+    "name_ja": "イタリア語",
+    "script": "Latin",
+    "glyphs": "à è é ì ò ù",
+    "words": "il / della / via",
+    "contrast": "固有の追加文字は乏しい。via・piazza・gliなどの語を補助にする。"
+  },
+  {
+    "id": "lld",
+    "name_ja": "ラディン語",
+    "script": "Latin",
+    "glyphs": "ë é ć",
+    "words": "y / de",
+    "contrast": "北イタリアの谷ごとに綴りが違う。ドイツ語・イタリア語との併記を見る。"
+  },
+  {
+    "id": "fur",
+    "name_ja": "フリウリ語",
+    "script": "Latin",
+    "glyphs": "â ê î ô û ç",
+    "words": "e / di / cj",
+    "contrast": "長母音の曲折アクセントとcj。北東イタリアの地名併記に注目。"
+  },
+  {
+    "id": "sc",
+    "name_ja": "サルデーニャ語",
+    "script": "Latin",
+    "glyphs": "dd tz",
+    "words": "su / sa / de",
+    "contrast": "su・saが補助。島内の地域差があり、イタリア語と共有する綴りも多い。"
+  },
+  {
+    "id": "rm",
+    "name_ja": "ロマンシュ語",
+    "script": "Latin",
+    "glyphs": "sch tg",
+    "words": "il / la / e",
+    "contrast": "sch・tgとロマンス系の語の組合せ。スイス南東部の一部で使う。"
+  },
+  {
+    "id": "ca",
+    "name_ja": "カタルーニャ語（バレンシア語を含む）",
+    "script": "Latin",
+    "glyphs": "l·l ç ny à",
+    "words": "el / els / de / carrer",
+    "contrast": "中点付きl·lが強い手掛かり。nyはスペイン語のñと比較。"
+  },
+  {
+    "id": "es",
+    "name_ja": "スペイン語",
+    "script": "Latin",
+    "glyphs": "ñ ¿ ¡",
+    "words": "el / la / de / calle",
+    "contrast": "ñはガリシア語などにもある。¿・¡は短い地名標識には出ないことが多い。"
+  },
+  {
+    "id": "pt",
+    "name_ja": "ポルトガル語",
+    "script": "Latin",
+    "glyphs": "ã õ ç nh lh",
+    "words": "o / a / do / rua",
+    "contrast": "ã・õとnh・lhの組合せ。スペイン語のñと比較する。"
+  },
+  {
+    "id": "gl",
+    "name_ja": "ガリシア語",
+    "script": "Latin",
+    "glyphs": "ñ nh x",
+    "words": "o / a / e / rúa",
+    "contrast": "ñとポルトガル語に似た冠詞。通常ã・õを標準正書法に使わない。"
+  },
+  {
+    "id": "eu",
+    "name_ja": "バスク語",
+    "script": "Latin",
+    "glyphs": "tx tz k",
+    "words": "eta / -ko / -ak",
+    "contrast": "tx・tz・kの組合せが補助。スペイン側・フランス側にまたがる。"
+  },
+  {
+    "id": "oc",
+    "name_ja": "オック語（アラン語を含む）",
+    "script": "Latin",
+    "glyphs": "ò è ç nh lh",
+    "words": "lo / la / e",
+    "contrast": "nh・lhはポルトガル語とも共通。フランス南部、スペインのアラン谷。"
+  },
+  {
+    "id": "ast",
+    "name_ja": "アストゥリアス語",
+    "script": "Latin",
+    "glyphs": "ḷ ḥ ñ",
+    "words": "y / el / la",
+    "contrast": "ḷḷ・ḥは一部方言の綴り。これらがない看板も多い。"
+  },
+  {
+    "id": "an",
+    "name_ja": "アラゴン語",
+    "script": "Latin",
+    "glyphs": "ch ll",
+    "words": "o / a / y",
+    "contrast": "固有の追加文字は乏しい。スペイン語・カタルーニャ語と混同しやすい。"
+  },
+  {
+    "id": "mwl",
+    "name_ja": "ミランダ語",
+    "script": "Latin",
+    "glyphs": "lh nh ç",
+    "words": "l / la / i",
+    "contrast": "lh・nhをポルトガル語と共有。ポルトガル北東端の地名が補助。"
+  },
+  {
+    "id": "br",
+    "name_ja": "ブルトン語",
+    "script": "Latin",
+    "glyphs": "c'h ñ",
+    "words": "ar / an / ha",
+    "contrast": "c'hが有力。フランス北西部のフランス語との併記を見る。"
+  },
+  {
+    "id": "co",
+    "name_ja": "コルシカ語",
+    "script": "Latin",
+    "glyphs": "chj ghj ù",
+    "words": "u / a / è",
+    "contrast": "chj・ghjがイタリア語との差の補助。地名だけでは似る場合が多い。"
+  },
+  {
+    "id": "gsw",
+    "name_ja": "アルザス語・アレマン系地域表記",
+    "script": "Latin",
+    "glyphs": "ä ö ü sch",
+    "words": "d' / uf",
+    "contrast": "ドイツ語・スイスドイツ語と文字を共有。フランス語との併記が位置の手掛かり。"
+  },
+  {
+    "id": "hsb",
+    "name_ja": "上ソルブ語",
+    "script": "Latin",
+    "glyphs": "ć č ě ł ń ř š ž",
+    "words": "a / w",
+    "contrast": "řとłの併存が補助。ドイツ東部のバウツェン周辺。"
+  },
+  {
+    "id": "dsb",
+    "name_ja": "下ソルブ語",
+    "script": "Latin",
+    "glyphs": "ć č ě ł ń ŕ ś ź ž",
+    "words": "a / w",
+    "contrast": "ŕ・ś・źとł。上ソルブ語との区別は複数の字を見る。"
+  },
+  {
+    "id": "nds",
+    "name_ja": "低地ドイツ語",
+    "script": "Latin",
+    "glyphs": "ä ö ü aa",
+    "words": "de / dat / un",
+    "contrast": "標準ドイツ語に近い。地名の別表記が補助で、全国的な識別字はない。"
+  },
+  {
+    "id": "frr",
+    "name_ja": "北フリジア語",
+    "script": "Latin",
+    "glyphs": "ä ö ü å",
+    "words": "di / e",
+    "contrast": "地域ごとに正書法が異なる。ドイツ語との併記と海岸の位置を見る。"
+  },
+  {
+    "id": "stq",
+    "name_ja": "ザーターフリジア語",
+    "script": "Latin",
+    "glyphs": "ä ö ü",
+    "words": "di / dät",
+    "contrast": "文字だけではドイツ語と分けにくい。Seelterloundなどの地域名が補助。"
+  },
+  {
+    "id": "hy",
+    "name_ja": "アルメニア語",
+    "script": "Armenian",
+    "glyphs": "ա ե մ ն ս և",
+    "words": "և / ի",
+    "contrast": "独立したアルメニア文字。日本語の山などに似て見える字が連続する。"
+  },
+  {
+    "id": "ka",
+    "name_ja": "ジョージア語",
+    "script": "Georgian",
+    "glyphs": "ა ბ გ დ ლ მ",
+    "words": "და / ქუჩა",
+    "contrast": "丸い輪・曲線の多い独立文字。大文字様のムタヴルリも同じ言語。"
+  },
+  {
+    "id": "az",
+    "name_ja": "アゼルバイジャン語",
+    "script": "Latin",
+    "glyphs": "ə ı İ ğ ş ç",
+    "words": "və / üçün",
+    "contrast": "əがトルコ語との比較に有力。ıとi、Iとİを区別する。"
+  },
+  {
+    "id": "tr",
+    "name_ja": "トルコ語",
+    "script": "Latin",
+    "glyphs": "ı İ ğ ş ç ö ü",
+    "words": "ve / bir / sokak",
+    "contrast": "iとı、İとIが別。アゼルバイジャン語のəは標準トルコ語にはない。"
+  },
+  {
+    "id": "gag",
+    "name_ja": "ガガウズ語",
+    "script": "Latin",
+    "glyphs": "ä ê ı ţ",
+    "words": "hem / bir",
+    "contrast": "トルコ語に似るがä・êが補助。モルドバ南部ではロシア語も広く使う。"
+  },
+  {
+    "id": "ab",
+    "name_ja": "アブハズ語",
+    "script": "Cyrillic",
+    "glyphs": "ә ҩ ҿ ҧ",
+    "words": "Аҟәа",
+    "contrast": "追加キリル字が多い。ジョージア文字とは別。ロシア語も使われる。"
+  },
+  {
+    "id": "os",
+    "name_ja": "オセット語",
+    "script": "Cyrillic",
+    "glyphs": "Ӕ ӕ",
+    "words": "ӕмӕ",
+    "contrast": "キリルのӕはラテンのæに似る。ロシア語と併記されることがある。"
+  },
+  {
+    "id": "tt",
+    "name_ja": "タタール語",
+    "script": "Cyrillic",
+    "glyphs": "ә ө ү җ ң һ",
+    "words": "һәм / урамы",
+    "contrast": "追加6字が補助。バシキール語と共通するが、ҙ・ҫは通常使わない。"
+  },
+  {
+    "id": "ba",
+    "name_ja": "バシキール語",
+    "script": "Cyrillic",
+    "glyphs": "ә ө ү ғ ҡ ҙ ҫ",
+    "words": "һәм",
+    "contrast": "タタール語との比較ではҙ・ҫ・ҡ・ғが補助。"
+  },
+  {
+    "id": "cv",
+    "name_ja": "チュヴァシ語",
+    "script": "Cyrillic",
+    "glyphs": "ӑ ӗ ҫ ӳ",
+    "words": "тата",
+    "contrast": "母音上の短音符ӑ・ӗとӳが特徴。"
+  },
+  {
+    "id": "udm",
+    "name_ja": "ウドムルト語",
+    "script": "Cyrillic",
+    "glyphs": "ӝ ӟ ӥ ӧ ӵ",
+    "words": "но",
+    "contrast": "子音上の2点ӝ・ӟ・ӵが特徴。"
+  },
+  {
+    "id": "kv",
+    "name_ja": "コミ語",
+    "script": "Cyrillic",
+    "glyphs": "ӧ і",
+    "words": "да",
+    "contrast": "ロシア語にないӧ・іが補助。単独では他のロシア内の言語とも重なる。"
+  },
+  {
+    "id": "mhr",
+    "name_ja": "草原マリ語",
+    "script": "Cyrillic",
+    "glyphs": "ҥ ӧ ӱ",
+    "words": "да",
+    "contrast": "ロシア語にない追加字。山地マリ語と共有する。"
+  },
+  {
+    "id": "mrj",
+    "name_ja": "山地マリ語",
+    "script": "Cyrillic",
+    "glyphs": "ӓ ӹ ӧ ӱ",
+    "words": "да",
+    "contrast": "ӓ・ӹが草原マリ語との比較に役立つ。"
+  },
+  {
+    "id": "myv",
+    "name_ja": "エルジャ語",
+    "script": "Cyrillic",
+    "glyphs": "я ё ь",
+    "words": "ды",
+    "contrast": "基本的にロシア語と同じ字。短い語とモルドヴィアの位置が必要。"
+  },
+  {
+    "id": "mdf",
+    "name_ja": "モクシャ語",
+    "script": "Cyrillic",
+    "glyphs": "я ё ь",
+    "words": "ди",
+    "contrast": "ロシア語・エルジャ語と同じ字形が多く、単字では分けられない。"
+  },
+  {
+    "id": "ce",
+    "name_ja": "チェチェン語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ гӀ кӀ",
+    "words": "а / нохчийн",
+    "contrast": "縦棒ӀはラテンIや数字1に似る。北コーカサスの他言語も使う。"
+  },
+  {
+    "id": "inh",
+    "name_ja": "イングーシ語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ гӀ кӀ",
+    "words": "гӀалгӀай",
+    "contrast": "縦棒をチェチェン語などと共有。字形だけで両者を分けない。"
+  },
+  {
+    "id": "ady",
+    "name_ja": "アディゲ語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ кӀ гъ",
+    "words": "адыгэ",
+    "contrast": "縦棒・硬音符を伴う複数字。カバルド語と似る。"
+  },
+  {
+    "id": "kbd",
+    "name_ja": "カバルド語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ къ гъ",
+    "words": "къэбэрдей",
+    "contrast": "アディゲ語と近い字形。単独では北コーカサスまでの絞り込みに留める。"
+  },
+  {
+    "id": "krc",
+    "name_ja": "カラチャイ・バルカル語",
+    "script": "Cyrillic",
+    "glyphs": "къ гъ нг",
+    "words": "эм",
+    "contrast": "基本ロシア文字の組合せを拡張。地域・綴りで表記差がある。"
+  },
+  {
+    "id": "abq",
+    "name_ja": "アバザ語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ гъ къ",
+    "words": "абаза",
+    "contrast": "北コーカサスの他言語と同じ複数字が多い。"
+  },
+  {
+    "id": "nog",
+    "name_ja": "ノガイ語",
+    "script": "Cyrillic",
+    "glyphs": "аь оь уь нъ",
+    "words": "ногай",
+    "contrast": "母音にьを続ける綴りが補助。チェチェン語などとの重複もある。"
+  },
+  {
+    "id": "xal",
+    "name_ja": "カルムイク語",
+    "script": "Cyrillic",
+    "glyphs": "ә ө ү җ ң һ",
+    "words": "хальмг",
+    "contrast": "タタール語と追加字を共有。カスピ海北西の位置と併せる。"
+  },
+  {
+    "id": "sah",
+    "name_ja": "サハ語（ヤクート語）",
+    "script": "Cyrillic",
+    "glyphs": "ҕ ҥ ө һ ү",
+    "words": "уонна",
+    "contrast": "ҕとҥが目立つ。モンゴル系のө・үだけでは分けられない。"
+  },
+  {
+    "id": "bua",
+    "name_ja": "ブリヤート語",
+    "script": "Cyrillic",
+    "glyphs": "ү ө һ",
+    "words": "ба",
+    "contrast": "モンゴル語に近い字形。バイカル湖東側のロシア語併記が補助。"
+  },
+  {
+    "id": "tyv",
+    "name_ja": "トゥヴァ語",
+    "script": "Cyrillic",
+    "glyphs": "ң ө ү",
+    "words": "биле",
+    "contrast": "追加3字を周辺の言語と共有。モンゴル国境北側が主な範囲。"
+  },
+  {
+    "id": "alt",
+    "name_ja": "アルタイ語",
+    "script": "Cyrillic",
+    "glyphs": "ҥ ӧ ӱ",
+    "words": "алтай",
+    "contrast": "ӧ・ӱに似たラテン文字の代用もある。コードポイントの違いは肉眼では分けにくい。"
+  },
+  {
+    "id": "kjh",
+    "name_ja": "ハカス語",
+    "script": "Cyrillic",
+    "glyphs": "ғ і ң ӧ ӱ",
+    "words": "хакас",
+    "contrast": "іとӧ・ӱなどの組合せ。ロシア語単独とは追加字で比較する。"
+  },
+  {
+    "id": "av",
+    "name_ja": "アヴァル語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ гъ къ",
+    "words": "авар",
+    "contrast": "複数字と縦棒。ダゲスタン内の他言語とも共通する。"
+  },
+  {
+    "id": "dar",
+    "name_ja": "ダルギン語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ гъ хӀ",
+    "words": "дарган",
+    "contrast": "地域内に言語差があり、字形だけでは他のダゲスタン諸語と分けにくい。"
+  },
+  {
+    "id": "kum",
+    "name_ja": "クムク語",
+    "script": "Cyrillic",
+    "glyphs": "гъ къ нг",
+    "words": "къумукъ",
+    "contrast": "追加の単字より複数字が補助。カラチャイ・バルカル語などと似る。"
+  },
+  {
+    "id": "lez",
+    "name_ja": "レズギ語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ гъ кь",
+    "words": "лезги",
+    "contrast": "縦棒・ъ・ьを伴う子音。ダゲスタン南部とアゼルバイジャン北部。"
+  },
+  {
+    "id": "lak",
+    "name_ja": "ラク語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ къ гъ",
+    "words": "лакку",
+    "contrast": "他のダゲスタン諸語と字形を共有するため、地域候補用。"
+  },
+  {
+    "id": "tab",
+    "name_ja": "タバサラン語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ гъ хъ",
+    "words": "табасаран",
+    "contrast": "複数字が多い。レズギ語などとの一意な識別字ではない。"
+  },
+  {
+    "id": "agx",
+    "name_ja": "アグール語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ гъ гь",
+    "words": "агъул",
+    "contrast": "ъ・ьを続ける複数字が補助。他のダゲスタン諸語とも共有。"
+  },
+  {
+    "id": "rut",
+    "name_ja": "ルトゥル語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ гъ уь",
+    "words": "",
+    "contrast": "母音＋ь、縦棒など。他のダゲスタン諸語との判別力は弱い。"
+  },
+  {
+    "id": "tkr",
+    "name_ja": "ツァフル語",
+    "script": "Cyrillic",
+    "glyphs": "Ӏ къ уь",
+    "words": "",
+    "contrast": "複数字を他のダゲスタン諸語と共有する。"
+  },
+  {
+    "id": "jdt",
+    "name_ja": "タート語（ジュフリの表記）",
+    "script": "Cyrillic",
+    "glyphs": "гъ гь уь",
+    "words": "",
+    "contrast": "ダゲスタンのキリル表記。アゼルバイジャン側のタート語表記へ一般化しない。"
+  },
+  {
+    "id": "rom",
+    "name_ja": "ロマニ語",
+    "script": "Latin",
+    "glyphs": "č š ž",
+    "words": "romani",
+    "contrast": "正書法が複数ある。北マケドニアの自治体表示はマケドニア語と併せて読む。"
+  },
+  {
+    "id": "la",
+    "name_ja": "ラテン語",
+    "script": "Latin",
+    "glyphs": "AE QV V",
+    "words": "et / in / de",
+    "contrast": "古典的な銘文ではUの位置にVが現れる。普通の道路標識の主言語とは別。"
+  },
+  {
+    "id": "mco",
+    "name_ja": "モネガスク語",
+    "script": "Latin",
+    "glyphs": "ü ë œ",
+    "words": "u / a",
+    "contrast": "モナコ旧市街のフランス語との併記が補助。"
+  },
+  {
+    "id": "frp",
+    "name_ja": "フランコプロヴァンス語",
+    "script": "Latin",
+    "glyphs": "â ê ô",
+    "words": "lo / la",
+    "contrast": "地域ごとに正書法が異なる。フランス語・オック語と同じ字形を共有。"
+  },
+  {
+    "id": "nrf_JE",
+    "name_ja": "ジャージー語（ジェリエー）",
+    "script": "Latin",
+    "glyphs": "ê î û ç",
+    "words": "la / l' / rue",
+    "contrast": "フランス語と似たノルマン語の島嶼方言。道路名と英語の併用が補助。"
+  },
+  {
+    "id": "nrf_GG",
+    "name_ja": "ガーンジー語（ガーンジア）",
+    "script": "Latin",
+    "glyphs": "â ê î ô û",
+    "words": "la / lé",
+    "contrast": "ノルマン語の島嶼方言。地名はフランス語に似ており字形単独で島を分けない。"
+  },
+  {
+    "id": "cnr_Cyrl",
+    "name_ja": "モンテネグロ語（キリル表記）",
+    "script": "Cyrillic",
+    "glyphs": "ј љ њ ћ ђ",
+    "words": "и / у / улица",
+    "contrast": "セルビア語と大部分を共有。特徴字с́・з́は少なく、見えないことを除外理由にしない。"
+  },
+  {
+    "id": "az_Cyrl",
+    "name_ja": "アゼルバイジャン語（キリル表記）",
+    "script": "Cyrillic",
+    "glyphs": "ә ө ү ғ ҝ",
+    "words": "вә",
+    "contrast": "ダゲスタンなどのキリル表記用。アゼルバイジャン本国の現行ラテン表記と区別。"
+  },
+  {
+    "id": "rsk",
+    "name_ja": "パンノニア・ルシン語",
+    "script": "Cyrillic",
+    "glyphs": "ї є ґ",
+    "words": "и / на",
+    "contrast": "セルビア北部などの変種。カルパチアのルシン諸変種と区別して登録。"
+  },
+  {
+    "id": "ro_Cyrl",
+    "name_ja": "モルドバ語（キリル表記）",
+    "script": "Cyrillic",
+    "glyphs": "ы э ж",
+    "words": "ши / де",
+    "contrast": "ルーマニア語に対応する言語のキリル表記。沿ドニエストルの公的表示に限った補助。"
+  },
+  {
+    "id": "sju",
+    "name_ja": "ウメ・サーミ語",
+    "script": "Latin",
+    "glyphs": "á đ ï ŋ ü",
+    "words": "Ubbme",
+    "contrast": "他のサーミ諸語と字形を共有。スウェーデン北中部の地名に注目。"
+  },
+  {
+    "id": "rup",
+    "name_ja": "アルーマニア語（ヴラフ語）",
+    "script": "Latin",
+    "glyphs": "ã sh ts",
+    "words": "shi / Crushuva",
+    "contrast": "ルーマニア語に近い。ãとshは近年の正書法の補助で、綴りは地域によって異なる。"
+  }
+]

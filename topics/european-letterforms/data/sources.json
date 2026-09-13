@@ -1,0 +1,610 @@
+[
+  {
+    "id": "UN",
+    "publisher": "United Nations Statistics Division",
+    "date": "2026",
+    "title": "M49: Europe and Western Asia; geographic grouping, not sovereignty",
+    "url": "https://unstats.un.org/unsd/methodology/m49/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "NE",
+    "publisher": "Natural Earth",
+    "date": "5.1.2",
+    "title": "Admin 0 / Admin 1, public domain; pinned inputs in repository data/input_manifest.json",
+    "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CLDR",
+    "publisher": "Unicode Consortium",
+    "date": "2026",
+    "title": "CLDR 48.2, exemplar characters and list conjunctions; per-language XML URLs and hashes in data/",
+    "url": "https://cldr.unicode.org/index/downloads",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CLDR-T",
+    "publisher": "Unicode Consortium",
+    "date": "2026",
+    "title": "Territory language information; language association only, not dated population statistics",
+    "url": "https://www.unicode.org/cldr/charts/48/supplemental/territory_language_information.html",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "EU",
+    "publisher": "European Union",
+    "date": "2026",
+    "title": "EU languages; 24 official languages",
+    "url": "https://european-union.europa.eu/principles-countries-history/languages_en",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CHARTER",
+    "publisher": "Council of Europe",
+    "date": "2022",
+    "title": "Table of protected languages; protection alone does not establish sign frequency",
+    "url": "https://rm.coe.int/november-2022-revised-table-languages-covered-english-/1680a8fef4",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "UNGEGN",
+    "publisher": "UNGEGN / national naming authorities",
+    "date": "2025",
+    "title": "National Toponymic Guidelines index; orthography and naming policies",
+    "url": "https://unstats.un.org/unsd/ungegn/nna/toponymic/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "PCGN",
+    "publisher": "UK Permanent Committee on Geographical Names",
+    "date": "2026",
+    "title": "Country factfiles index; official languages, writing systems, place names",
+    "url": "https://www.gov.uk/government/publications/toponymic-factfiles",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "UK",
+    "publisher": "PCGN / Ordnance Survey",
+    "date": "2026",
+    "title": "UK Toponymic Guidelines, Languages; Gaelic and Scots status updated 2025",
+    "url": "https://www.gov.uk/government/publications/toponymic-guidelines/toponymic-guidelines-for-map-and-other-editors-united-kingdom-of-great-britain-and-northern-ireland--2",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "WELSH",
+    "publisher": "Welsh Language Commissioner",
+    "date": "2021",
+    "title": "Census 2021, age 3+ able to speak Welsh, local authorities",
+    "url": "https://www.welshlanguagecommissioner.wales/policy-and-research/the-position-of-the-welsh-language/2021-census",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "GAELIC-SIGN",
+    "publisher": "Transport Scotland",
+    "date": "2020",
+    "title": "Guidance on bilingual Gaelic/English traffic signs, trunk routes and local authority distinction",
+    "url": "https://www.transport.gov.scot/media/48722/guidance-on-the-use-of-bilingual-gaelic-english-traffic-signs-in-scotland.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "GAELIC-STAT",
+    "publisher": "Scottish Government",
+    "date": "2022/2026",
+    "title": "National Islands Plan, Gaelic skills from 2022 census; any skills, not speaking only",
+    "url": "https://www.gov.scot/publications/national-islands-plan-2/pages/10/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CORNISH",
+    "publisher": "Cornwall Council",
+    "date": "2026",
+    "title": "Street nameplates: English above Cornish on new plates",
+    "url": "https://www.cornwall.gov.uk/planning-and-building-control/property-and-street-naming-and-numbering/street-nameplates/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "IRISH-SIGN",
+    "publisher": "Transport Infrastructure Ireland",
+    "date": "2022",
+    "title": "Third Irish language scheme, signage obligations",
+    "url": "https://www.tii.ie/media/3pumnn4c/tii-scheme-3-english.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "GAELTACHT",
+    "publisher": "Government of Ireland",
+    "date": "2026",
+    "title": "An Ghaeltacht; official regions, boundaries are more fragmented than atlas locators",
+    "url": "https://www.gov.ie/en/department-of-rural-and-community-development-and-the-gaeltacht/policies/an-ghaeltacht/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "JERSEY",
+    "publisher": "Parish of St Helier",
+    "date": "2020",
+    "title": "Roads Committee minutes: English, French and Jerriais street-name plates",
+    "url": "https://sthelier.je/wp-content/uploads/sites/14/2023/02/120220-A-Agenda-Minutes.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "GUERNSEY",
+    "publisher": "Visit Guernsey / States of Guernsey",
+    "date": "2022",
+    "title": "Which languages are spoken in Guernsey? Historic names and present English",
+    "url": "https://www.visitguernsey.com/articles/2020/which-languages-are-spoken-in-guernsey",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "MANX",
+    "publisher": "Douglas City Council",
+    "date": "2023",
+    "title": "Council minutes 13 December pp.174-175: existing and replacement Manx/English street nameplates",
+    "url": "https://www.douglas.gov.im/~documents/democratic-services/council-meetings-agendas-minutes/public-agenda-13-12-23/?layout=file",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "FAROE",
+    "publisher": "Visit Faroe Islands",
+    "date": "2016",
+    "title": "National handbook, Language: Faroese; Danish in Danish institutions",
+    "url": "https://vs.cdn.fo/media/1861/national-handbook-online-version.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "FIN",
+    "publisher": "National Land Survey of Finland / UNGEGN",
+    "date": "2025",
+    "title": "Toponymic guidelines pp.4-13: 2024 language populations, Swedish and Sami areas, signs",
+    "url": "https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/Toponymic_guidelines_2025.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "NOR",
+    "publisher": "Norwegian Mapping Authority / UNGEGN",
+    "date": "2025",
+    "title": "Toponymic guidelines: Bokmal/Nynorsk, Sami and Kven names and alphabets",
+    "url": "https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/GEGN.2_2025_12_CRP12_item7d.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "SWE",
+    "publisher": "PCGN",
+    "date": "2026",
+    "title": "Sweden pp.1-3: Sami and Meankieli official names and signs",
+    "url": "https://assets.publishing.service.gov.uk/media/69b175fc1daa1b70ca2331ae/Sweden_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "EST",
+    "publisher": "Estonian Place Names Board / UNGEGN",
+    "date": "2025",
+    "title": "Toponymic guidelines, official names and Estonian alphabet",
+    "url": "https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/GEGN.2_2025_110_CRP110_item7d.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "BEL",
+    "publisher": "Belgian naming authorities / UNGEGN",
+    "date": "2009",
+    "title": "Toponymic guidelines pp.3-5: four language areas",
+    "url": "https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/25th-gegn-docs/wp%20papers/wp93-tgl%20belgium-april%202009.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "NLD",
+    "publisher": "Kadaster / UNGEGN",
+    "date": "2017",
+    "title": "Toponymic guidelines pp.6-7: Frisian alphabet and place names on signposts",
+    "url": "https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/11th-uncsgn-docs/E_Conf.105_142_CRP.142_9_toponymic%20guidelines%20Netherlands%202017_a.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "DEU-MIN",
+    "publisher": "Council of Europe",
+    "date": "2022",
+    "title": "Fifth opinion Germany, topographical indications; Sorbian, Frisian, Danish, Low German",
+    "url": "https://rm.coe.int/5th-op-germany-en/1680a6e008",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "FRA-MIN",
+    "publisher": "French Ministry of Culture",
+    "date": "2026",
+    "title": "Regional languages inventory; not a measurement of street use",
+    "url": "https://www.culture.gouv.fr/thematiques/langue-francaise-et-langues-de-france/agir-pour-les-langues/promouvoir-les-langues-de-france/langues-regionales",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "BRETON",
+    "publisher": "Region Bretagne",
+    "date": "2022",
+    "title": "Convention 2022-2027, bilingual public buildings and national roads",
+    "url": "https://www.bretagne.bzh/presse/communiques-dossiers/convention-specifique-en-faveur-des-langues-de-bretagne-2022-2027-objectif-accroitre-le-nombre-de-jeunes-locuteurs/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "OCCITAN",
+    "publisher": "Region Occitanie",
+    "date": "2023",
+    "title": "Parlem una cultura viva: existing bilingual station signs, wider public signage policy",
+    "url": "https://www.laregion.fr/Pour-des-langues-et-cultures-regionales-bien-vivantes",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "BASQUE-FR",
+    "publisher": "Communaute Pays Basque",
+    "date": "2025",
+    "title": "Municipal Basque: street-name and directional-sign translation programme",
+    "url": "https://www.communaute-paysbasque.fr/langues-basque-et-occitan-gascon/je-developpe-leuskara-sur-ma-commune",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CHE",
+    "publisher": "PCGN",
+    "date": "2023",
+    "title": "Switzerland: four national languages and cantonal official-language areas",
+    "url": "https://assets.publishing.service.gov.uk/media/6512a2d43d3718000d6d0b62/Switzerland_factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CHE-STAT",
+    "publisher": "Swiss Federal Statistical Office",
+    "date": "2020",
+    "title": "Main languages, 2020; multiple responses, not signage share",
+    "url": "https://www.swissstats.bfs.admin.ch/data/webviewer/appId/ch.admin.bfs.swissstat/article/issue220122032200-05/package",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "LUX-STAT",
+    "publisher": "STATEC",
+    "date": "2021",
+    "title": "Recensement 2021: diversite linguistique, principal language",
+    "url": "https://statistiques.public.lu/fr/publications/recensement/diversite-linguistique.html",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "ITA",
+    "publisher": "Istituto Geografico Militare",
+    "date": "2012",
+    "title": "Toponymic Guidelines Italy, minority languages, regional maps and glossaries",
+    "url": "https://igmi.org/%2B%2Btheme%2B%2Bigm/toponomastica/3_Toponymic%20Guidelines%20Italy.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "ITA-PCGN",
+    "publisher": "PCGN",
+    "date": "2026",
+    "title": "Italy: official Italian and minority naming",
+    "url": "https://assets.publishing.service.gov.uk/media/6a5a125f5ca06bf11ccb43c9/Italy_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "TYROL-STAT",
+    "publisher": "ASTAT, Autonomous Province Bolzano",
+    "date": "2024",
+    "title": "Language-group declaration 2024: valid declarations of resident Italian citizens, not all residents",
+    "url": "https://astat.provincia.bz.it/de/publikationen/ergebnisse-sprachgruppenzahlung-2024",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "ESP",
+    "publisher": "PCGN",
+    "date": "2025",
+    "title": "Spain pp.2-4: Catalan, Basque, Galician, Aranese, Asturian and Aragonese naming",
+    "url": "https://assets.publishing.service.gov.uk/media/6941528d29501ea90654a507/Spain_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CAT-STAT",
+    "publisher": "Idescat",
+    "date": "2023",
+    "title": "Knowledge of Catalan, age 15+: speaking 80.4%; not habitual-use share",
+    "url": "https://www.idescat.cat/indicadors/?id=aec&lang=en&n=15985&t=201200",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "BASQUE-STAT",
+    "publisher": "Basque Government",
+    "date": "2021",
+    "title": "Seventh sociolinguistic survey, age 16+, three territories",
+    "url": "https://www.euskadi.eus/significant-data/web01-a3eas/en/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "PRT",
+    "publisher": "PCGN",
+    "date": "2026",
+    "title": "Portugal: Portuguese, Mirandese and regional place names",
+    "url": "https://assets.publishing.service.gov.uk/media/6a6b12600c36759b5ccaa1f9/Portugal_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "MICRO",
+    "publisher": "PCGN",
+    "date": "2026",
+    "title": "Andorra, Liechtenstein, Monaco, San Marino, Vatican City; bilingual Monegasque street signs",
+    "url": "https://assets.publishing.service.gov.uk/media/6968cbde6958e5645144b08d/European_Microstates_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "POL-MIN",
+    "publisher": "Polish Government",
+    "date": "2019",
+    "title": "Minority topographical names and bilingual road signs; German, Kashubian, Lemko examples",
+    "url": "https://www.gov.pl/attachment/fb56781a-91ec-4e52-8395-1d46bb7848ca",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "POL-MIN2",
+    "publisher": "Polish Government",
+    "date": "2024",
+    "title": "National-minority names including Belarusian and Lithuanian",
+    "url": "https://www.gov.pl/attachment/20e7d747-e23c-4a23-abf7-0edcde6c6b31",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CZE",
+    "publisher": "Czech Office for Surveying, Mapping and Cadastre / UNGEGN",
+    "date": "2025",
+    "title": "Toponymic guidelines, Czech and Polish minority names",
+    "url": "https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/GEGN.2_2025_152_CRP152_Item7d.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "SVK",
+    "publisher": "PCGN",
+    "date": "2022",
+    "title": "Slovakia, minority languages and orthography",
+    "url": "https://assets.publishing.service.gov.uk/media/6246f4fa8fa8f5277c0169ba/Slovakia_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "SVN",
+    "publisher": "PCGN",
+    "date": "2023",
+    "title": "Slovenia, Italian in southwest and Hungarian in northeast",
+    "url": "https://assets.publishing.service.gov.uk/media/650bf4d7fbd7bc000de546ff/Slovenia_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "BIH",
+    "publisher": "PCGN",
+    "date": "2023",
+    "title": "Bosnia and Herzegovina: Bosnian, Croatian, Serbian and both scripts",
+    "url": "https://assets.publishing.service.gov.uk/media/6512a00cb23dad0012e70609/Bosnia_and_Herzegovina_Toponymic_factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "SRB",
+    "publisher": "PCGN",
+    "date": "2022",
+    "title": "Serbia pp.1-3: Serbian and Vojvodina's five additional official languages",
+    "url": "https://assets.publishing.service.gov.uk/media/650962d322a783001343e841/Serbia_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "SRB-STAT",
+    "publisher": "Statistical Office of Serbia",
+    "date": "2022",
+    "title": "Census: mother tongue, excludes Kosovo; results released June 2023",
+    "url": "https://www.stat.gov.rs/en-US/vesti/20230616-st/?a=0&s=09",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "MNE",
+    "publisher": "PCGN",
+    "date": "2025",
+    "title": "Montenegro: nationally official language and four languages in official use; Ulcinj names",
+    "url": "https://assets.publishing.service.gov.uk/media/69285cf3b3b9afff34e9615a/Montenegro_Toponymic_factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "MNE-STAT",
+    "publisher": "MONSTAT",
+    "date": "2023",
+    "title": "Census mother tongue, national results",
+    "url": "https://www.monstat.org/eng/novosti.php?id=4012",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "XKX",
+    "publisher": "PCGN",
+    "date": "2025",
+    "title": "Kosovo: Albanian, Serbian and municipal Turkish/Bosnian/Romani use",
+    "url": "https://assets.publishing.service.gov.uk/media/6941525329501ea90654a505/Kosovo_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "MKD",
+    "publisher": "PCGN",
+    "date": "2026",
+    "title": "North Macedonia: Macedonian, Albanian and municipal languages",
+    "url": "https://assets.publishing.service.gov.uk/media/69b175ba24c6431b84f0e475/North_Macedonia_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "MKD-STAT",
+    "publisher": "State Statistical Office, North Macedonia",
+    "date": "2021",
+    "title": "Census resident population by mother tongue",
+    "url": "https://www.stat.gov.mk/PrikaziSoopstenie_en.aspx?rbrtxt=146",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "ROU",
+    "publisher": "PCGN",
+    "date": "2025",
+    "title": "Romania p.6: minority toponyms including road signs; 20% threshold",
+    "url": "https://assets.publishing.service.gov.uk/media/694548d92f0261139350894f/Romania_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "MDA",
+    "publisher": "PCGN",
+    "date": "2024",
+    "title": "Moldova: Romanian; Gagauzia; separate de facto Transnistrian language situation",
+    "url": "https://assets.publishing.service.gov.uk/media/6634e8f21834d96a0aa6d0ed/Moldova_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "MDA-STAT",
+    "publisher": "National Bureau of Statistics Moldova",
+    "date": "2024",
+    "title": "Final census mother tongue, territorial control exclusions; Moldovan/Romanian self-labels",
+    "url": "https://statistica.gov.md/index.php/ro/rezultatele-finale-ale-recensamantului-populatiei-si-locuintelor-2024-caracteris-10121_62043.html",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "MDA-REG",
+    "publisher": "National Bureau of Statistics Moldova",
+    "date": "2024",
+    "title": "Preliminary census regional mother tongues; explicitly preliminary",
+    "url": "https://statistica.gov.md/en/preliminary-results-of-the-2024-population-and-housing-census-10077_61626.html",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "UKR",
+    "publisher": "Ukraine / UNGEGN",
+    "date": "2011",
+    "title": "Toponymic guidelines; pre-war distribution and orthography, not current street inventory",
+    "url": "https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/Toponymic%20guidelines%20PDF/Ukraine/Verstka.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "GEO",
+    "publisher": "PCGN",
+    "date": "2025",
+    "title": "Georgia: Georgian, Abkhaz and Ossetian scripts; de facto areas described separately",
+    "url": "https://assets.publishing.service.gov.uk/media/690dd89dacbadb0fa8050f77/Georgia_Toponymic_factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "GEO-LAW",
+    "publisher": "Legislative Herald of Georgia",
+    "date": "2015",
+    "title": "Organic Law on Official Language: Georgian and Abkhaz in Abkhazia",
+    "url": "https://www.matsne.gov.ge/en/document/view/2931198?fullscreen=1&impose=parallelEn",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "AZE",
+    "publisher": "President of Azerbaijan",
+    "date": "2026",
+    "title": "Constitution, Article 21: Azerbaijani state language",
+    "url": "https://president.az/en/pages/view/azerbaijan/constitution",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CYP",
+    "publisher": "Cyprus Office of Law Commissioner",
+    "date": "2025",
+    "title": "Consolidated constitution, Article 3: Greek and Turkish",
+    "url": "https://www.olc.gov.cy/olc/olc.nsf/5CA0138A654BE102C2258D48002E723E/%24file/Constitution%2014.11.2025.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CYP-PIO",
+    "publisher": "Cyprus Press and Information Office",
+    "date": "2018",
+    "title": "Cyprus at a Glance, Languages",
+    "url": "https://publications.gov.cy/assets/user/publications/GAAG/CAAG_EN_2018/files/assets/common/downloads/Cyprus%20at%20a%20Glance_AR.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "RUS",
+    "publisher": "PCGN",
+    "date": "2025",
+    "title": "Russia pp.2-3: republic official languages; minority toponyms often limited",
+    "url": "https://assets.publishing.service.gov.uk/media/68419a05578282a4b102c093/Russia_Toponymic_Factfile.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "RUS-SIGNS",
+    "publisher": "Council of Europe",
+    "date": "2018",
+    "title": "Fourth opinion, paragraphs 109-111: Tatar, Chuvash, Udmurt, Kalmyk signage observations",
+    "url": "https://rm.coe.int/4th-advisory-committee-opinion-on-the-russian-federation-english-langu/1680908982",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "OMNI",
+    "publisher": "Omniglot, Simon Ager",
+    "date": "2026",
+    "title": "Alphabet reference index; secondary cross-check for scripts absent from CLDR, not population data",
+    "url": "https://www.omniglot.com/writing/cyrillic.htm",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "CORSICA",
+    "publisher": "Collectivite de Corse",
+    "date": "2017",
+    "title": "Lingua Corsa grants: bilingual street and public-building signs",
+    "url": "https://www.isula.corsica/linguacorsa/attachment/2058571/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "ALSACE",
+    "publisher": "Eurometropole de Strasbourg",
+    "date": "2019",
+    "title": "Magazine April 2019 p.14: existing French/Alsatian street plates in Plobsheim",
+    "url": "https://www.strasbourg.eu/documents/976405/4643989/201904-euromet-mag-22.pdf/533dbc8a-2da1-3677-ef26-e8d0c6b30315?t=1554210698816&version=1.0",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "HUN-SIGNS",
+    "publisher": "Hungary / Council of Europe",
+    "date": "2012",
+    "title": "State report, geographical names and public-institution signs by locality",
+    "url": "https://rm.coe.int/16806c8e14",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "HRV-SIGNS",
+    "publisher": "Croatia / Council of Europe",
+    "date": "2025",
+    "title": "Implementation report: Czech and other minority signs, municipal statutes",
+    "url": "https://rm.coe.int/croatia-ria7-en/4880282b76",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "HRV-OP",
+    "publisher": "Council of Europe",
+    "date": "2021",
+    "title": "Fifth opinion Croatia, pp.27-28: actual implementation and exceptions",
+    "url": "https://rm.coe.int/5th-op-croatia-en/1680a2cb49",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "ALB-SIGNS",
+    "publisher": "Council of Europe",
+    "date": "2023",
+    "title": "Fifth opinion Albania, paragraph 119: Greek and Macedonian signs in three municipalities",
+    "url": "https://rm.coe.int/5th-op-albania-en/1680acf90e",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "SAMI-NAMES",
+    "publisher": "Lantmateriet",
+    "date": "2026",
+    "title": "Minority-language place names; North, Lule, Ume and South Sami",
+    "url": "https://www.lantmateriet.se/sv/kartor/Ortnamn/ortnamn-pa-minoritetssprak/",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "AUT-UN",
+    "publisher": "Austrian naming authority / UNGEGN",
+    "date": "2012",
+    "title": "National report: 164 Slovene, 47 Croatian and 4 Hungarian co-official settlement names",
+    "url": "https://unstats.un.org/unsd/geoinfo/ungegn/docs/10th-uncsgn-docs/econf/E_CONF.101_60_Report%20of%20Austria.pdf",
+    "accessed": "2026-09-13"
+  },
+  {
+    "id": "SVALBARD",
+    "publisher": "Visit Svalbard / Svalbard Museum",
+    "date": "年記載なし（2026確認）",
+    "title": "The History of Svalbard: Barentsburg streets and mining-community heritage",
+    "url": "https://en.visitsvalbard.com/dbimgs/THEHISTORYOFSVALBARD.pdf",
+    "accessed": "2026-09-13"
+  }
+]

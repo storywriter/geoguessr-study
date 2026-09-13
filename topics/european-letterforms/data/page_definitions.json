@@ -1,0 +1,1077 @@
+[
+  {
+    "number": 3,
+    "title": "英国・アイルランド 1/2",
+    "group": "英国・アイルランド",
+    "extent": [
+      -11,
+      49,
+      2.5,
+      61
+    ],
+    "occurrence_ids": [
+      "gbr-base:en",
+      "irl-base:en",
+      "irl-base:ga",
+      "imn-base:en",
+      "imn-base:gv"
+    ],
+    "region_ids": [
+      "gbr-base",
+      "irl-base",
+      "imn-base"
+    ]
+  },
+  {
+    "number": 4,
+    "title": "英国・アイルランド 2/2",
+    "group": "英国・アイルランド",
+    "extent": [
+      -11,
+      49,
+      2.5,
+      61
+    ],
+    "occurrence_ids": [
+      "gbr-wales:cy",
+      "gbr-gaelic:gd",
+      "gbr-scots:sco",
+      "gbr-cornwall:kw",
+      "gbr-northern-ireland:ga",
+      "irl-gaeltacht:ga"
+    ],
+    "region_ids": [
+      "gbr-wales",
+      "gbr-gaelic",
+      "gbr-scots",
+      "gbr-cornwall",
+      "gbr-northern-ireland",
+      "irl-gaeltacht"
+    ]
+  },
+  {
+    "number": 5,
+    "title": "海峡諸島",
+    "group": "海峡諸島",
+    "extent": [
+      -3.1,
+      48.9,
+      -1.65,
+      49.85
+    ],
+    "occurrence_ids": [
+      "jey-base:en",
+      "jey-base:fr",
+      "jey-base:nrf_JE",
+      "ggy-base:en",
+      "ggy-base:fr",
+      "ggy-base:nrf_GG"
+    ],
+    "region_ids": [
+      "jey-base",
+      "ggy-base"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "北大西洋",
+    "group": "北大西洋",
+    "extent": [
+      -26,
+      54,
+      33,
+      81.5
+    ],
+    "occurrence_ids": [
+      "isl-base:is",
+      "fro-base:fo",
+      "fro-base:da",
+      "sjm-base:nb",
+      "sjm-russian:ru"
+    ],
+    "region_ids": [
+      "isl-base",
+      "fro-base",
+      "sjm-base",
+      "sjm-russian"
+    ]
+  },
+  {
+    "number": 7,
+    "title": "北欧南部",
+    "group": "北欧南部",
+    "extent": [
+      4.5,
+      54,
+      25,
+      69
+    ],
+    "occurrence_ids": [
+      "dnk-base:da",
+      "nor-base:nb",
+      "nor-base:nn",
+      "swe-base:sv",
+      "dnk-german:de",
+      "nor-nynorsk-west:nn"
+    ],
+    "region_ids": [
+      "dnk-base",
+      "nor-base",
+      "swe-base",
+      "dnk-german",
+      "nor-nynorsk-west"
+    ]
+  },
+  {
+    "number": 8,
+    "title": "フィンランド",
+    "group": "フィンランド",
+    "extent": [
+      18,
+      59,
+      32,
+      71
+    ],
+    "occurrence_ids": [
+      "fin-base:fi",
+      "fin-base:sv",
+      "ala-base:sv",
+      "fin-swedish-west:sv",
+      "fin-swedish-south:sv"
+    ],
+    "region_ids": [
+      "fin-base",
+      "ala-base",
+      "fin-swedish-west",
+      "fin-swedish-south"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "北欧の地域言語 1/2",
+    "group": "北欧の地域言語",
+    "extent": [
+      8.5,
+      61,
+      32,
+      72
+    ],
+    "occurrence_ids": [
+      "nor-sami-north:se",
+      "nor-sami-lule:smj",
+      "nor-sami-south:sma",
+      "nor-kven:fkv",
+      "swe-sami-north:se",
+      "swe-sami-lule:smj"
+    ],
+    "region_ids": [
+      "nor-sami-north",
+      "nor-sami-lule",
+      "nor-sami-south",
+      "nor-kven",
+      "swe-sami-north",
+      "swe-sami-lule"
+    ]
+  },
+  {
+    "number": 10,
+    "title": "北欧の地域言語 2/2",
+    "group": "北欧の地域言語",
+    "extent": [
+      8.5,
+      61,
+      32,
+      72
+    ],
+    "occurrence_ids": [
+      "swe-sami-south:sma",
+      "swe-meankieli:fit",
+      "fin-sami-north:se",
+      "fin-sami-inari:smn",
+      "fin-sami-skolt:sms",
+      "swe-sami-ume:sju"
+    ],
+    "region_ids": [
+      "swe-sami-south",
+      "swe-meankieli",
+      "fin-sami-north",
+      "fin-sami-inari",
+      "fin-sami-skolt",
+      "swe-sami-ume"
+    ]
+  },
+  {
+    "number": 11,
+    "title": "バルト海東岸",
+    "group": "バルト海東岸",
+    "extent": [
+      20,
+      53,
+      29,
+      60
+    ],
+    "occurrence_ids": [
+      "est-base:et",
+      "lva-base:lv",
+      "ltu-base:lt"
+    ],
+    "region_ids": [
+      "est-base",
+      "lva-base",
+      "ltu-base"
+    ]
+  },
+  {
+    "number": 12,
+    "title": "ベネルクス 1/2",
+    "group": "ベネルクス",
+    "extent": [
+      2.2,
+      49.3,
+      7.5,
+      54
+    ],
+    "occurrence_ids": [
+      "nld-base:nl",
+      "lux-base:lb",
+      "lux-base:fr",
+      "lux-base:de",
+      "bel-north:nl"
+    ],
+    "region_ids": [
+      "nld-base",
+      "lux-base",
+      "bel-north"
+    ]
+  },
+  {
+    "number": 13,
+    "title": "ベネルクス 2/2",
+    "group": "ベネルクス",
+    "extent": [
+      2.2,
+      49.3,
+      7.5,
+      54
+    ],
+    "occurrence_ids": [
+      "bel-south:fr",
+      "bel-brussels:fr",
+      "bel-brussels:nl",
+      "bel-german:de",
+      "nld-friesland:fy"
+    ],
+    "region_ids": [
+      "bel-south",
+      "bel-brussels",
+      "bel-german",
+      "nld-friesland"
+    ]
+  },
+  {
+    "number": 14,
+    "title": "フランス",
+    "group": "フランス",
+    "extent": [
+      -5.5,
+      41,
+      10,
+      51.5
+    ],
+    "occurrence_ids": [
+      "fra-base:fr",
+      "fra-breton:br",
+      "fra-basque:eu",
+      "fra-catalan:ca",
+      "fra-occitan:oc",
+      "fra-corsica:co",
+      "fra-alsace:gsw"
+    ],
+    "region_ids": [
+      "fra-base",
+      "fra-breton",
+      "fra-basque",
+      "fra-catalan",
+      "fra-occitan",
+      "fra-corsica",
+      "fra-alsace"
+    ]
+  },
+  {
+    "number": 15,
+    "title": "ドイツ",
+    "group": "ドイツ",
+    "extent": [
+      5.5,
+      47,
+      15.5,
+      55.5
+    ],
+    "occurrence_ids": [
+      "deu-base:de",
+      "deu-sorbian-upper:hsb",
+      "deu-sorbian-lower:dsb",
+      "deu-frisian-north:frr",
+      "deu-danish:da",
+      "deu-saterland:stq",
+      "deu-low-german:nds"
+    ],
+    "region_ids": [
+      "deu-base",
+      "deu-sorbian-upper",
+      "deu-sorbian-lower",
+      "deu-frisian-north",
+      "deu-danish",
+      "deu-saterland",
+      "deu-low-german"
+    ]
+  },
+  {
+    "number": 16,
+    "title": "アルプス",
+    "group": "アルプス",
+    "extent": [
+      9,
+      45.6,
+      17.4,
+      49.2
+    ],
+    "occurrence_ids": [
+      "aut-base:de",
+      "aut-slovene:sl",
+      "aut-croatian:hr",
+      "aut-hungarian:hu"
+    ],
+    "region_ids": [
+      "aut-base",
+      "aut-slovene",
+      "aut-croatian",
+      "aut-hungarian"
+    ]
+  },
+  {
+    "number": 17,
+    "title": "スイス",
+    "group": "スイス",
+    "extent": [
+      5.8,
+      45.7,
+      10.8,
+      47.95
+    ],
+    "occurrence_ids": [
+      "lie-base:de_CH",
+      "che-german:de_CH",
+      "che-french:fr",
+      "che-italian:it",
+      "che-romansh:rm"
+    ],
+    "region_ids": [
+      "lie-base",
+      "che-german",
+      "che-french",
+      "che-italian",
+      "che-romansh"
+    ]
+  },
+  {
+    "number": 18,
+    "title": "イベリア半島 1/2",
+    "group": "イベリア半島",
+    "extent": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ],
+    "occurrence_ids": [
+      "esp-base:es",
+      "prt-base:pt",
+      "and-base:ca",
+      "gib-base:en",
+      "esp-catalan:ca",
+      "esp-valencian:ca",
+      "esp-balearic:ca"
+    ],
+    "region_ids": [
+      "esp-base",
+      "prt-base",
+      "and-base",
+      "gib-base",
+      "esp-catalan",
+      "esp-valencian",
+      "esp-balearic"
+    ]
+  },
+  {
+    "number": 19,
+    "title": "イベリア半島 2/2",
+    "group": "イベリア半島",
+    "extent": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ],
+    "occurrence_ids": [
+      "esp-basque:eu",
+      "esp-navarre:eu",
+      "esp-galician:gl",
+      "esp-asturian:ast",
+      "esp-aranese:oc",
+      "esp-aragonese:an",
+      "prt-mirandese:mwl"
+    ],
+    "region_ids": [
+      "esp-basque",
+      "esp-navarre",
+      "esp-galician",
+      "esp-asturian",
+      "esp-aranese",
+      "esp-aragonese",
+      "prt-mirandese"
+    ]
+  },
+  {
+    "number": 20,
+    "title": "イタリア 1/2",
+    "group": "イタリア",
+    "extent": [
+      6,
+      35,
+      19,
+      47.3
+    ],
+    "occurrence_ids": [
+      "ita-base:it",
+      "smr-base:it",
+      "vat-base:it",
+      "vat-base:la",
+      "mco-base:fr",
+      "mco-base:mco",
+      "ita-german:de"
+    ],
+    "region_ids": [
+      "ita-base",
+      "smr-base",
+      "vat-base",
+      "mco-base",
+      "ita-german"
+    ]
+  },
+  {
+    "number": 21,
+    "title": "イタリア 2/2",
+    "group": "イタリア",
+    "extent": [
+      6,
+      35,
+      19,
+      47.3
+    ],
+    "occurrence_ids": [
+      "ita-ladin:lld",
+      "ita-french:fr",
+      "ita-francoprov:frp",
+      "ita-friulian:fur",
+      "ita-slovene:sl",
+      "ita-sardinian:sc",
+      "ita-catalan:ca"
+    ],
+    "region_ids": [
+      "ita-ladin",
+      "ita-french",
+      "ita-francoprov",
+      "ita-friulian",
+      "ita-slovene",
+      "ita-sardinian",
+      "ita-catalan"
+    ]
+  },
+  {
+    "number": 22,
+    "title": "ポーランド",
+    "group": "ポーランド",
+    "extent": [
+      13.7,
+      48.8,
+      24.3,
+      55
+    ],
+    "occurrence_ids": [
+      "pol-base:pl",
+      "pol-kashubian:csb",
+      "pol-german:de",
+      "pol-belarusian:be",
+      "pol-lithuanian:lt",
+      "pol-lemko:rue"
+    ],
+    "region_ids": [
+      "pol-base",
+      "pol-kashubian",
+      "pol-german",
+      "pol-belarusian",
+      "pol-lithuanian",
+      "pol-lemko"
+    ]
+  },
+  {
+    "number": 23,
+    "title": "中央ヨーロッパ 1/2",
+    "group": "中央ヨーロッパ",
+    "extent": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ],
+    "occurrence_ids": [
+      "cze-base:cs",
+      "svk-base:sk",
+      "hun-base:hu",
+      "cze-polish:pl"
+    ],
+    "region_ids": [
+      "cze-base",
+      "svk-base",
+      "hun-base",
+      "cze-polish"
+    ]
+  },
+  {
+    "number": 24,
+    "title": "中央ヨーロッパ 2/2",
+    "group": "中央ヨーロッパ",
+    "extent": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ],
+    "occurrence_ids": [
+      "svk-hungarian:hu",
+      "svk-rusyn:rue",
+      "hun-german:de",
+      "hun-slovak:sk"
+    ],
+    "region_ids": [
+      "svk-hungarian",
+      "svk-rusyn",
+      "hun-german",
+      "hun-slovak"
+    ]
+  },
+  {
+    "number": 25,
+    "title": "西バルカン 1/2",
+    "group": "西バルカン",
+    "extent": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ],
+    "occurrence_ids": [
+      "svn-base:sl",
+      "hrv-base:hr",
+      "bih-base:bs",
+      "bih-base:hr",
+      "bih-base:sr"
+    ],
+    "region_ids": [
+      "svn-base",
+      "hrv-base",
+      "bih-base"
+    ]
+  },
+  {
+    "number": 26,
+    "title": "西バルカン 2/2",
+    "group": "西バルカン",
+    "extent": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ],
+    "occurrence_ids": [
+      "svn-italian:it",
+      "svn-hungarian:hu",
+      "hrv-italian:it",
+      "hrv-serbian:sr",
+      "hrv-czech:cs"
+    ],
+    "region_ids": [
+      "svn-italian",
+      "svn-hungarian",
+      "hrv-italian",
+      "hrv-serbian",
+      "hrv-czech"
+    ]
+  },
+  {
+    "number": 27,
+    "title": "セルビア・コソボ 1/2",
+    "group": "セルビア・コソボ",
+    "extent": [
+      18.5,
+      41.5,
+      23.2,
+      46.5
+    ],
+    "occurrence_ids": [
+      "srb-base:sr",
+      "srb-base:sr_Latn",
+      "xkx-base:sq",
+      "xkx-base:sr",
+      "srb-vojvodina:hu",
+      "srb-vojvodina:sk"
+    ],
+    "region_ids": [
+      "srb-base",
+      "xkx-base",
+      "srb-vojvodina"
+    ]
+  },
+  {
+    "number": 28,
+    "title": "セルビア・コソボ 2/2",
+    "group": "セルビア・コソボ",
+    "extent": [
+      18.5,
+      41.5,
+      23.2,
+      46.5
+    ],
+    "occurrence_ids": [
+      "srb-vojvodina:ro",
+      "srb-vojvodina:rsk",
+      "srb-vojvodina:hr",
+      "srb-bosnian:bs",
+      "srb-albanian:sq",
+      "xkx-turkish:tr",
+      "xkx-turkish:bs"
+    ],
+    "region_ids": [
+      "srb-vojvodina",
+      "srb-bosnian",
+      "srb-albanian",
+      "xkx-turkish"
+    ]
+  },
+  {
+    "number": 29,
+    "title": "バルカン南部 1/3",
+    "group": "バルカン南部",
+    "extent": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ],
+    "occurrence_ids": [
+      "mne-base:cnr",
+      "mne-base:cnr_Cyrl",
+      "mne-base:sr",
+      "mne-base:bs",
+      "mne-base:hr"
+    ],
+    "region_ids": [
+      "mne-base"
+    ]
+  },
+  {
+    "number": 30,
+    "title": "バルカン南部 2/3",
+    "group": "バルカン南部",
+    "extent": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ],
+    "occurrence_ids": [
+      "mne-base:sq",
+      "alb-base:sq",
+      "mkd-base:mk",
+      "mkd-base:sq",
+      "mne-albanian:sq",
+      "alb-greek:el"
+    ],
+    "region_ids": [
+      "mne-base",
+      "alb-base",
+      "mkd-base",
+      "mne-albanian",
+      "alb-greek"
+    ]
+  },
+  {
+    "number": 31,
+    "title": "バルカン南部 3/3",
+    "group": "バルカン南部",
+    "extent": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ],
+    "occurrence_ids": [
+      "mkd-albanian:sq",
+      "mkd-turkish:tr",
+      "mkd-romani:rom",
+      "mkd-serbian:sr",
+      "mkd-aromanian:rup",
+      "alb-macedonian:mk"
+    ],
+    "region_ids": [
+      "mkd-albanian",
+      "mkd-turkish",
+      "mkd-romani",
+      "mkd-serbian",
+      "mkd-aromanian",
+      "alb-macedonian"
+    ]
+  },
+  {
+    "number": 32,
+    "title": "ギリシャ・キプロス",
+    "group": "ギリシャ・キプロス",
+    "extent": [
+      13,
+      33.5,
+      35,
+      42.3
+    ],
+    "occurrence_ids": [
+      "grc-base:el",
+      "mlt-base:mt",
+      "mlt-base:en",
+      "cyp-south:el",
+      "cyp-north:tr"
+    ],
+    "region_ids": [
+      "grc-base",
+      "mlt-base",
+      "cyp-south",
+      "cyp-north"
+    ]
+  },
+  {
+    "number": 33,
+    "title": "黒海周辺 1/2",
+    "group": "黒海周辺",
+    "extent": [
+      19.8,
+      41,
+      31,
+      48.6
+    ],
+    "occurrence_ids": [
+      "bgr-base:bg",
+      "rou-base:ro",
+      "mda-base:ro",
+      "rou-hungarian-east:hu",
+      "rou-hungarian-west:hu",
+      "rou-german:de"
+    ],
+    "region_ids": [
+      "bgr-base",
+      "rou-base",
+      "mda-base",
+      "rou-hungarian-east",
+      "rou-hungarian-west",
+      "rou-german"
+    ]
+  },
+  {
+    "number": 34,
+    "title": "黒海周辺 2/2",
+    "group": "黒海周辺",
+    "extent": [
+      19.8,
+      41,
+      31,
+      48.6
+    ],
+    "occurrence_ids": [
+      "mda-gagauz:gag",
+      "mda-gagauz:ru",
+      "mda-bulgarian:bg",
+      "mda-transnistria:ru",
+      "mda-transnistria:uk",
+      "mda-moldovan-cyrillic:ro_Cyrl"
+    ],
+    "region_ids": [
+      "mda-gagauz",
+      "mda-bulgarian",
+      "mda-transnistria",
+      "mda-moldovan-cyrillic"
+    ]
+  },
+  {
+    "number": 35,
+    "title": "ウクライナ・ベラルーシ",
+    "group": "ウクライナ・ベラルーシ",
+    "extent": [
+      21.5,
+      44,
+      41,
+      57
+    ],
+    "occurrence_ids": [
+      "ukr-base:uk",
+      "blr-base:be",
+      "blr-base:ru",
+      "ukr-hungarian:hu",
+      "ukr-romanian:ro",
+      "ukr-russian:ru"
+    ],
+    "region_ids": [
+      "ukr-base",
+      "blr-base",
+      "ukr-hungarian",
+      "ukr-romanian",
+      "ukr-russian"
+    ]
+  },
+  {
+    "number": 36,
+    "title": "南コーカサス",
+    "group": "南コーカサス",
+    "extent": [
+      39.5,
+      38.5,
+      51,
+      44
+    ],
+    "occurrence_ids": [
+      "arm-base:hy",
+      "aze-base:az",
+      "geo-base:ka",
+      "geo-abkhazia:ab",
+      "geo-abkhazia:ru",
+      "geo-ossetia:os",
+      "geo-ossetia:ru"
+    ],
+    "region_ids": [
+      "arm-base",
+      "aze-base",
+      "geo-base",
+      "geo-abkhazia",
+      "geo-ossetia"
+    ]
+  },
+  {
+    "number": 37,
+    "title": "ロシア全域",
+    "group": "ロシア全域",
+    "extent": [
+      19,
+      41,
+      180,
+      79
+    ],
+    "occurrence_ids": [
+      "rus-base:ru"
+    ],
+    "region_ids": [
+      "rus-base"
+    ]
+  },
+  {
+    "number": 38,
+    "title": "ロシア・ヴォルガ川周辺 1/2",
+    "group": "ロシア・ヴォルガ川周辺",
+    "extent": [
+      40,
+      52.5,
+      61,
+      59.9
+    ],
+    "occurrence_ids": [
+      "rus-tatar:tt",
+      "rus-bashkir:ba",
+      "rus-chuvash:cv",
+      "rus-mari:mhr"
+    ],
+    "region_ids": [
+      "rus-tatar",
+      "rus-bashkir",
+      "rus-chuvash",
+      "rus-mari"
+    ]
+  },
+  {
+    "number": 39,
+    "title": "ロシア・ヴォルガ川周辺 2/2",
+    "group": "ロシア・ヴォルガ川周辺",
+    "extent": [
+      40,
+      52.5,
+      61,
+      59.9
+    ],
+    "occurrence_ids": [
+      "rus-mari:mrj",
+      "rus-udmurt:udm",
+      "rus-mordovia:myv",
+      "rus-mordovia:mdf"
+    ],
+    "region_ids": [
+      "rus-mari",
+      "rus-udmurt",
+      "rus-mordovia"
+    ]
+  },
+  {
+    "number": 40,
+    "title": "ロシア・北西部とカスピ海",
+    "group": "ロシア・北西部とカスピ海",
+    "extent": [
+      35,
+      43,
+      69,
+      70
+    ],
+    "occurrence_ids": [
+      "rus-komi:kv",
+      "rus-kalmyk:xal"
+    ],
+    "region_ids": [
+      "rus-komi",
+      "rus-kalmyk"
+    ]
+  },
+  {
+    "number": 41,
+    "title": "ロシア・北コーカサス 1/2",
+    "group": "ロシア・北コーカサス",
+    "extent": [
+      38.5,
+      41.8,
+      48.4,
+      46
+    ],
+    "occurrence_ids": [
+      "rus-adyghe:ady",
+      "rus-karachay:krc",
+      "rus-karachay:kbd",
+      "rus-karachay:abq",
+      "rus-karachay:nog"
+    ],
+    "region_ids": [
+      "rus-adyghe",
+      "rus-karachay"
+    ]
+  },
+  {
+    "number": 42,
+    "title": "ロシア・北コーカサス 2/2",
+    "group": "ロシア・北コーカサス",
+    "extent": [
+      38.5,
+      41.8,
+      48.4,
+      46
+    ],
+    "occurrence_ids": [
+      "rus-kabardin:kbd",
+      "rus-kabardin:krc",
+      "rus-ossetian:os",
+      "rus-ingush:inh",
+      "rus-chechen:ce"
+    ],
+    "region_ids": [
+      "rus-kabardin",
+      "rus-ossetian",
+      "rus-ingush",
+      "rus-chechen"
+    ]
+  },
+  {
+    "number": 43,
+    "title": "ロシア・ダゲスタン 1/2",
+    "group": "ロシア・ダゲスタン",
+    "extent": [
+      45.4,
+      41.1,
+      48.7,
+      45.3
+    ],
+    "occurrence_ids": [
+      "rus-dagestan:av",
+      "rus-dagestan:dar",
+      "rus-dagestan:kum",
+      "rus-dagestan:lez",
+      "rus-dagestan:lak",
+      "rus-dagestan:tab"
+    ],
+    "region_ids": [
+      "rus-dagestan"
+    ]
+  },
+  {
+    "number": 44,
+    "title": "ロシア・ダゲスタン 2/2",
+    "group": "ロシア・ダゲスタン",
+    "extent": [
+      45.4,
+      41.1,
+      48.7,
+      45.3
+    ],
+    "occurrence_ids": [
+      "rus-dagestan:nog",
+      "rus-dagestan:ce",
+      "rus-dagestan:az_Cyrl",
+      "rus-dagestan:agx",
+      "rus-dagestan:rut",
+      "rus-dagestan:jdt",
+      "rus-dagestan:tkr"
+    ],
+    "region_ids": [
+      "rus-dagestan"
+    ]
+  },
+  {
+    "number": 45,
+    "title": "ロシア・南シベリア",
+    "group": "ロシア・南シベリア",
+    "extent": [
+      82,
+      48,
+      117,
+      59
+    ],
+    "occurrence_ids": [
+      "rus-altai:alt",
+      "rus-khakas:kjh",
+      "rus-tuva:tyv",
+      "rus-buryat:bua"
+    ],
+    "region_ids": [
+      "rus-altai",
+      "rus-khakas",
+      "rus-tuva",
+      "rus-buryat"
+    ]
+  },
+  {
+    "number": 46,
+    "title": "ロシア・極東",
+    "group": "ロシア・極東",
+    "extent": [
+      105,
+      53,
+      165,
+      75
+    ],
+    "occurrence_ids": [
+      "rus-sakha:sah"
+    ],
+    "region_ids": [
+      "rus-sakha"
+    ]
+  }
+]

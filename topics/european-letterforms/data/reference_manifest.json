@@ -1,0 +1,778 @@
+[
+  {
+    "filename": "cldr/en.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/en.xml",
+    "retrieved": true,
+    "sha256": "67607f4c9cf57157e70564987d8ae92a9ddcd73c00a2f1cd6abf79524a969cbd",
+    "bytes": 478790
+  },
+  {
+    "filename": "cldr/cy.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cy.xml",
+    "retrieved": true,
+    "sha256": "63098964ec6247f21a173fba848f0f743b1d25060d1500128c2fced8b6825f3d",
+    "bytes": 655892
+  },
+  {
+    "filename": "cldr/ga.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ga.xml",
+    "retrieved": true,
+    "sha256": "93319deecccf6195c3f875fa3cf4fb3e18e7955cc4b9d676dc1cc0bb17350de7",
+    "bytes": 640887
+  },
+  {
+    "filename": "cldr/gd.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gd.xml",
+    "retrieved": true,
+    "sha256": "e96524523745d3c2d987dfb894f32c173607762f9e9b973ea12a7cdc4e305bee",
+    "bytes": 699693
+  },
+  {
+    "filename": "cldr/kw.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/kw.xml",
+    "retrieved": true,
+    "sha256": "3a69c7faf0a0436a19d8bda161719da2eb54502cb9488ac99b4a7da1b3181d73",
+    "bytes": 12560
+  },
+  {
+    "filename": "cldr/gv.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gv.xml",
+    "retrieved": true,
+    "sha256": "c210a5cef5d74a4fb22ef864ba3215b9d622783331b9345099a80b1121a71b78",
+    "bytes": 19647
+  },
+  {
+    "filename": "cldr/fo.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fo.xml",
+    "retrieved": true,
+    "sha256": "920e8fe177cf99a9d7890b9c2a1b016a398a17bdeddffcfc1a06dc7cd3db6a4c",
+    "bytes": 379928
+  },
+  {
+    "filename": "cldr/is.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/is.xml",
+    "retrieved": true,
+    "sha256": "7c9ed6be258df6773db5eae302a77f134d0d674c727f29e5baee4699e418ce67",
+    "bytes": 577028
+  },
+  {
+    "filename": "cldr/da.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/da.xml",
+    "retrieved": true,
+    "sha256": "b5aa90916fab9a53b85db89dd5a77ca24f6ec088e002be56493f9b11bd1a540a",
+    "bytes": 480559
+  },
+  {
+    "filename": "cldr/nb.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nb.xml",
+    "retrieved": true,
+    "sha256": "2218b336e54cd0b0474d628c36a88cda121cfaf433d4c82207a4c7a2c287061f",
+    "bytes": 434
+  },
+  {
+    "filename": "cldr/nn.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nn.xml",
+    "retrieved": true,
+    "sha256": "efc502f6243a540c5d06cd0ea363fd39a3c2c5440f9b54fcca19c462ab252ac3",
+    "bytes": 474138
+  },
+  {
+    "filename": "cldr/sv.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sv.xml",
+    "retrieved": true,
+    "sha256": "78a0810bda53074d3f612c2a4204c9181c4535af9d6390d81192e37022275124",
+    "bytes": 563934
+  },
+  {
+    "filename": "cldr/fi.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fi.xml",
+    "retrieved": true,
+    "sha256": "62e1cb0f375342d128d4f0b2f2e8c014fdad3b3f891e2e476389c592fe1d5211",
+    "bytes": 572252
+  },
+  {
+    "filename": "cldr/se.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/se.xml",
+    "retrieved": true,
+    "sha256": "824d9147fbb23713c23db099c95ad264ebc5e86bc089f421afdac6b884373cdb",
+    "bytes": 136539
+  },
+  {
+    "filename": "cldr/smj.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/smj.xml",
+    "retrieved": true,
+    "sha256": "ff561bf76ed8a214c74823eb38a5d1bcd7ac03265528ac05aa78054aa5cc1da2",
+    "bytes": 1005
+  },
+  {
+    "filename": "cldr/sma.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sma.xml",
+    "retrieved": true,
+    "sha256": "e1f8d2005a6d07b9e7c9d1002e2a419c3a4a93cc9dd8f3eba151311b71ef6c0b",
+    "bytes": 1005
+  },
+  {
+    "filename": "cldr/smn.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/smn.xml",
+    "retrieved": true,
+    "sha256": "06aa41973a1088a521d721fcd0cfcb45468b66c277796693fa93b5755b8525f2",
+    "bytes": 68407
+  },
+  {
+    "filename": "cldr/sms.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sms.xml",
+    "retrieved": true,
+    "sha256": "026e335761ed2de61948b3917c98b1e4aeea1a1e8741a48f11034b433b98caed",
+    "bytes": 13787
+  },
+  {
+    "filename": "cldr/et.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/et.xml",
+    "retrieved": true,
+    "sha256": "f0c23e226c9fccf2f154ce5c49ccc788e3f6cb74ea2bee0669c2d79191ebcc5c",
+    "bytes": 447895
+  },
+  {
+    "filename": "cldr/lv.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lv.xml",
+    "retrieved": true,
+    "sha256": "9a246ca33dae57aa90cede63c3580c3690d10404f633dbf61daa6fd7dcd103d0",
+    "bytes": 603224
+  },
+  {
+    "filename": "cldr/lt.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lt.xml",
+    "retrieved": true,
+    "sha256": "da63b7b3e57e9a3910cb93bd736e897c0b33cf39762fd4e25bc41186c4d89911",
+    "bytes": 840842
+  },
+  {
+    "filename": "cldr/de.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml",
+    "retrieved": true,
+    "sha256": "15dbc0a59d188b243b9bd781ae245267f700ec8cd1b1d93ed760e5dd1b3cc1c6",
+    "bytes": 612275
+  },
+  {
+    "filename": "cldr/fr.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml",
+    "retrieved": true,
+    "sha256": "ebc67e303a56940609c892ededb3697e3b291466cf9622dd2c389ad48872e98f",
+    "bytes": 615203
+  },
+  {
+    "filename": "cldr/nl.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nl.xml",
+    "retrieved": true,
+    "sha256": "34f1b135e0d5a27a8059c9a4183b54fc548e2b14a8211437d9717fff719203d0",
+    "bytes": 921785
+  },
+  {
+    "filename": "cldr/fy.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fy.xml",
+    "retrieved": true,
+    "sha256": "da10338c75d75706fcab08b517076eca618fb84e7d0a71a6bdc0e9937f109b36",
+    "bytes": 422905
+  },
+  {
+    "filename": "cldr/lb.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lb.xml",
+    "retrieved": true,
+    "sha256": "77fbf642d591ece3f43783398323123f57af8dc3d6e21b66312717b9c0a28c94",
+    "bytes": 271145
+  },
+  {
+    "filename": "cldr/br.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/br.xml",
+    "retrieved": true,
+    "sha256": "ed53b2286dbbd2f47fa06a4af186071b563d55bc4ace9b02423cef5d7f3b3122",
+    "bytes": 765583
+  },
+  {
+    "filename": "cldr/co.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/co.xml",
+    "retrieved": true,
+    "sha256": "7f40996aa0294c3c8abbc8bf0c3ef2512307cc6a68b0e874c366b54660c7bd21",
+    "bytes": 78308
+  },
+  {
+    "filename": "cldr/oc.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/oc.xml",
+    "retrieved": true,
+    "sha256": "3971cf1be146d6907de4032e581f7afcbc4b5dcd779b6ce5a12c00c06c15de54",
+    "bytes": 435256
+  },
+  {
+    "filename": "cldr/ca.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ca.xml",
+    "retrieved": true,
+    "sha256": "a9ff4dfaae2a5e3a649cbf0f636739943e3b8d25dab60cc35fd5b43a5230daae",
+    "bytes": 492962
+  },
+  {
+    "filename": "cldr/eu.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/eu.xml",
+    "retrieved": true,
+    "sha256": "8d2775a2934e2c182b590410cde7ddf37e7307b750c2cbec11609abf97bcc44b",
+    "bytes": 808212
+  },
+  {
+    "filename": "cldr/gl.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gl.xml",
+    "retrieved": true,
+    "sha256": "b4bb8c58098d28595a46664dd4bb95c1bac4cc6f44854cd787bca1a45da39b7c",
+    "bytes": 414252
+  },
+  {
+    "filename": "cldr/ast.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ast.xml",
+    "retrieved": true,
+    "sha256": "78b29b4431b687971f559b6f1a491c398b3e6007f8cd709c53317c6d284af7b0",
+    "bytes": 466526
+  },
+  {
+    "filename": "cldr/an.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/an.xml",
+    "retrieved": true,
+    "sha256": "9becc199f72929b91aabdf2fd8020a0a783b827bbc7b53e98da9ed5c85e9faba",
+    "bytes": 103664
+  },
+  {
+    "filename": "cldr/pt.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/pt.xml",
+    "retrieved": true,
+    "sha256": "8e8bf8174c5b9138f32f6851a337877d175ca171e1a664f758f27f5d12e68b4f",
+    "bytes": 500742
+  },
+  {
+    "filename": "cldr/it.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/it.xml",
+    "retrieved": true,
+    "sha256": "cf1e21c333efa6b61c769be824f8a410503f210f60ee157fa40ed12950dcd632",
+    "bytes": 443952
+  },
+  {
+    "filename": "cldr/rm.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/rm.xml",
+    "retrieved": true,
+    "sha256": "87f0bd312e5f8ab0bafd15c9c9c8e928ec70a5ce3da5c64835ed5716a753adb1",
+    "bytes": 447303
+  },
+  {
+    "filename": "cldr/fur.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fur.xml",
+    "retrieved": true,
+    "sha256": "f2e03111c46898af26518a84329349f213bdef4dcb09c9193658afd0b4c498c9",
+    "bytes": 97301
+  },
+  {
+    "filename": "cldr/lld.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lld.xml",
+    "retrieved": true,
+    "sha256": "53eb471d65464d00139e68b8859f7d4c5d9c0776fd13a5bb84a5a8fd79d50a8d",
+    "bytes": 205063
+  },
+  {
+    "filename": "cldr/sc.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sc.xml",
+    "retrieved": true,
+    "sha256": "6d79e9ea52a1c8bc8103627a6e1ab8cf727055343720f39e51ef066ae42d71ef",
+    "bytes": 798605
+  },
+  {
+    "filename": "cldr/el.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/el.xml",
+    "retrieved": true,
+    "sha256": "54726ba13bd4a441d71c63971595b96507719d977f1f37030d12d2afff90aeef",
+    "bytes": 569663
+  },
+  {
+    "filename": "cldr/mt.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mt.xml",
+    "retrieved": true,
+    "sha256": "e28747f19a90ae680e86be0b27b2994d81f17c86dff7543cb233701b54c9d4db",
+    "bytes": 179274
+  },
+  {
+    "filename": "cldr/sq.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sq.xml",
+    "retrieved": true,
+    "sha256": "47717fccd8664c6b9798dcf156dc8baf1187d229f4915b94c0c5253444e51cb0",
+    "bytes": 414973
+  },
+  {
+    "filename": "cldr/bs.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bs.xml",
+    "retrieved": true,
+    "sha256": "dcdc3b65e3146d631d5e5e0ba5d3f64413244c9bd2df27d0f75fcc0c5bc13cf1",
+    "bytes": 868497
+  },
+  {
+    "filename": "cldr/hr.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hr.xml",
+    "retrieved": true,
+    "sha256": "596312055725975849e4fe61de314a6457646a04c063daa90fe34da41e7512b1",
+    "bytes": 652829
+  },
+  {
+    "filename": "cldr/sr.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr.xml",
+    "retrieved": true,
+    "sha256": "a2778298b40581863c38973d248ef5092a0ae7b8d57f463c24614c89e3a16f50",
+    "bytes": 674652
+  },
+  {
+    "filename": "cldr/sr_Latn.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr_Latn.xml",
+    "retrieved": true,
+    "sha256": "f2176e522d003a85d8b6a9d89939def82493ab6d618134286c15a998827e8f47",
+    "bytes": 616597
+  },
+  {
+    "filename": "cldr/sl.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sl.xml",
+    "retrieved": true,
+    "sha256": "ad6125d044801afe5c9df6e827f8b49aa4d6cad391d748667e6f2c53f02649f6",
+    "bytes": 763385
+  },
+  {
+    "filename": "cldr/mk.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mk.xml",
+    "retrieved": true,
+    "sha256": "4480bf96ff97782538a9ac40dd26cc0ff121809eeb348e84d193d9cbb6928faf",
+    "bytes": 526783
+  },
+  {
+    "filename": "cldr/bg.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bg.xml",
+    "retrieved": true,
+    "sha256": "05bcf474ad3dc89fbc0216955a3a6279d1aad884e916cade8ff36a22dbca95b7",
+    "bytes": 482849
+  },
+  {
+    "filename": "cldr/ro.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ro.xml",
+    "retrieved": true,
+    "sha256": "31a9355f0fffde6c862c9da547b50dcd6913d142c8dc3d71b77c848ee3439a21",
+    "bytes": 594423
+  },
+  {
+    "filename": "cldr/hu.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml",
+    "retrieved": true,
+    "sha256": "3bc035f25ceebbee050437f97f2021d18b6c8c818970978eb7f617e2a286eef5",
+    "bytes": 550505
+  },
+  {
+    "filename": "cldr/cs.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cs.xml",
+    "retrieved": true,
+    "sha256": "151aa6e1d2e24c75e03b0332a8c41d7481fdc994c9b5b04c9e92da48142da063",
+    "bytes": 1052014
+  },
+  {
+    "filename": "cldr/sk.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sk.xml",
+    "retrieved": true,
+    "sha256": "566e9e95a16afed5b9666872c27895809f35bc513deb3af367f8dcc9d27dbf5b",
+    "bytes": 814814
+  },
+  {
+    "filename": "cldr/pl.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/pl.xml",
+    "retrieved": true,
+    "sha256": "57ebc68f595f449b56ca2a046a3045ff86f16194a45fc0c105e8fa5cae0fc66c",
+    "bytes": 778747
+  },
+  {
+    "filename": "cldr/be.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/be.xml",
+    "retrieved": true,
+    "sha256": "eef54397a7b58128bc47791e39a92dd91e2fede31b0693a769a8ee46c4642d0f",
+    "bytes": 559079
+  },
+  {
+    "filename": "cldr/uk.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/uk.xml",
+    "retrieved": true,
+    "sha256": "e1f8b87b56985273082d496cbcf783c9085af854a8c0ed28d698b48e08d7b443",
+    "bytes": 863693
+  },
+  {
+    "filename": "cldr/ru.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml",
+    "retrieved": true,
+    "sha256": "a90f5d3e76d18e00ee430c369809a1e19f3a1bdf32f86abc0cb3a5f416de18fb",
+    "bytes": 987515
+  },
+  {
+    "filename": "cldr/hy.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hy.xml",
+    "retrieved": true,
+    "sha256": "2969da48d175030ebb1f734630400f95b6604ccb6e89e085cbffb31d593c0d5d",
+    "bytes": 511492
+  },
+  {
+    "filename": "cldr/az.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/az.xml",
+    "retrieved": true,
+    "sha256": "36a770b21b3a3d9eb2f93145539e446a2325feb11bd28e9a92890255a3024cce",
+    "bytes": 438786
+  },
+  {
+    "filename": "cldr/ka.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ka.xml",
+    "retrieved": true,
+    "sha256": "43be430b7ad4fbe09c73344efbbc074cb69a4d27942e6e992c812c76cb3db380",
+    "bytes": 503233
+  },
+  {
+    "filename": "cldr/tr.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tr.xml",
+    "retrieved": true,
+    "sha256": "97a18c0727e1e34c297b3fc08ce5d1470ef1b87558fc0e81bdee3336d0241910",
+    "bytes": 480024
+  },
+  {
+    "filename": "cldr/gag.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gag.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/hsb.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hsb.xml",
+    "retrieved": true,
+    "sha256": "4eca2c9b62964b09925287410ad8e06d45f0890a235987aacbbce4cea67874cf",
+    "bytes": 498704
+  },
+  {
+    "filename": "cldr/dsb.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/dsb.xml",
+    "retrieved": true,
+    "sha256": "5b657aabd128ecb25c51f9fd63ff46d897875e4e5d15713094b1e5810a55a608",
+    "bytes": 491615
+  },
+  {
+    "filename": "cldr/nds.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nds.xml",
+    "retrieved": true,
+    "sha256": "5c57c398f806a5370869efe0ab16758e4e22535eec19c3eca844f65726420082",
+    "bytes": 123720
+  },
+  {
+    "filename": "cldr/wa.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/wa.xml",
+    "retrieved": true,
+    "sha256": "20a0f9890f00b42a63f8f10007eeafd079e949c722284c751495b2813b9c4c05",
+    "bytes": 1096
+  },
+  {
+    "filename": "cldr/tt.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tt.xml",
+    "retrieved": true,
+    "sha256": "56b49df558913314255f1738f40695d81ffb43ab8b153f000b25a74c8bb57465",
+    "bytes": 275574
+  },
+  {
+    "filename": "cldr/ba.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ba.xml",
+    "retrieved": true,
+    "sha256": "76b9ee86b92b2faf5bb642a104dc4c394097ed8eec021b9623af0993320f141f",
+    "bytes": 699718
+  },
+  {
+    "filename": "cldr/cv.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cv.xml",
+    "retrieved": true,
+    "sha256": "a3534ae4613098d2442891f63a1ea7f4dda75085e19af4193a458b5878b38cba",
+    "bytes": 1253155
+  },
+  {
+    "filename": "cldr/ce.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ce.xml",
+    "retrieved": true,
+    "sha256": "4628d82a6f1b50c7919316d20e5e29f00a810021ea8a4737bdb387994ca80b6b",
+    "bytes": 216018
+  },
+  {
+    "filename": "cldr/os.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/os.xml",
+    "retrieved": true,
+    "sha256": "23c100b23c48d9f32be41fa44d956802cdc695584ea50d1b96a17d89735c221b",
+    "bytes": 48902
+  },
+  {
+    "filename": "cldr/av.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/av.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/lez.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lez.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/kbd.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/kbd.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/ady.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ady.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/krc.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/krc.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/ab.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ab.xml",
+    "retrieved": true,
+    "sha256": "eea0799e3cf3c918c8ca629d85454c275a32887f85d071c8e554c548e6ef5378",
+    "bytes": 227194
+  },
+  {
+    "filename": "cldr/kum.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/kum.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/nog.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nog.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/xal.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/xal.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/kv.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/kv.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/udm.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/udm.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/mhr.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mhr.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/mrj.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mrj.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/myv.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/myv.xml",
+    "retrieved": true,
+    "sha256": "8df8f1298ce704b3c077a56fb850cd8d31fe16fe42d8187d88eba37d107305c1",
+    "bytes": 37566
+  },
+  {
+    "filename": "cldr/mdf.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mdf.xml",
+    "retrieved": true,
+    "sha256": "c9a2b57139899cc517869775028832939eb172a47698ef0bd733c3d0789fa55a",
+    "bytes": 5825
+  },
+  {
+    "filename": "cldr/sah.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sah.xml",
+    "retrieved": true,
+    "sha256": "3799c966fb2619cba3fa6a438d27690259d546b82667aefed1c0695aaa027562",
+    "bytes": 84176
+  },
+  {
+    "filename": "cldr/bua.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bua.xml",
+    "retrieved": true,
+    "sha256": "e6f3dfbf3c2d373e6959acf405b83026892e14ece5abb5e67104f45e055d7c1a",
+    "bytes": 10781
+  },
+  {
+    "filename": "cldr/tyv.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tyv.xml",
+    "retrieved": true,
+    "sha256": "047ad1b9dbc85b56b92b0393429af4badae7b01e2b9eef36a5b31c974ce82d8d",
+    "bytes": 43670
+  },
+  {
+    "filename": "cldr/alt.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/alt.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/kjh.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/kjh.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/krl.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/krl.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/vep.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/vep.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/frr.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/frr.xml",
+    "retrieved": true,
+    "sha256": "cd21ea98848d96b185a202d9400ac4c3f094bec29e34512e51ac6960f2e9d38f",
+    "bytes": 424764
+  },
+  {
+    "filename": "cldr/lij.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lij.xml",
+    "retrieved": true,
+    "sha256": "1dcb9fc238de7a12dfe1a9b234e4197903b9c1b969576d4cfcbb6f79e94a96ee",
+    "bytes": 471232
+  },
+  {
+    "filename": "cldr/vec.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/vec.xml",
+    "retrieved": true,
+    "sha256": "ba94664c8c96de237b323f83797c8f1cb898df277f14628f631f0ccf189e9595",
+    "bytes": 338770
+  },
+  {
+    "filename": "cldr/nap.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nap.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/scn.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/scn.xml",
+    "retrieved": true,
+    "sha256": "553e2d2fb04660bc7aaab134db123e7b245d4a9f43ed116998f8ceb4e5f2c5ff",
+    "bytes": 216844
+  },
+  {
+    "filename": "cldr/sco.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sco.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/crh.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/crh.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/es.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/es.xml",
+    "retrieved": true,
+    "sha256": "727d29597d9e0e4f7a1951ebb26aca2f063f89d07190c933ee56451c01334d27",
+    "bytes": 485669
+  },
+  {
+    "filename": "cldr/no.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/no.xml",
+    "retrieved": true,
+    "sha256": "8440d3a2c31dcd172bbb8d36a503c338b0f2afa04c2f1b2e21ae47bdb7542a19",
+    "bytes": 837058
+  },
+  {
+    "filename": "cldr/gsw.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gsw.xml",
+    "retrieved": true,
+    "sha256": "22144bcb220764fdec6b25140d2f5221f9ab60d50ffdfdf3f9ef0ea39029b129",
+    "bytes": 175579
+  },
+  {
+    "filename": "cldr/csb.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/csb.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/rue.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/rue.xml",
+    "retrieved": false,
+    "error": "gh: Not Found (HTTP 404)"
+  },
+  {
+    "filename": "cldr/az_Cyrl.xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/az_Cyrl.xml",
+    "retrieved": true,
+    "sha256": "a3e6644f1b56925d7c6139715353894cb161d28ceb0eaf98f20475c810f036ed",
+    "bytes": 61131
+  },
+  {
+    "filename": "NotoSans.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/notosans/NotoSans%5Bwdth,wght%5D.ttf",
+    "retrieved": true,
+    "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d",
+    "bytes": 2049096
+  },
+  {
+    "filename": "NotoSans-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/notosans/OFL.txt",
+    "retrieved": true,
+    "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a",
+    "bytes": 4396
+  },
+  {
+    "filename": "NotoSansArmenian.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/notosansarmenian/NotoSansArmenian%5Bwdth,wght%5D.ttf",
+    "retrieved": true,
+    "sha256": "0870908d8318435a5daf1cd280ae15063f990cd9ad60f3e94c734ce9e1ffef71",
+    "bytes": 221936
+  },
+  {
+    "filename": "NotoSansArmenian-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/notosansarmenian/OFL.txt",
+    "retrieved": true,
+    "sha256": "0468358b316f69f405b55cadf8a8314e16e3610b8feaad96772bd5d968112d02",
+    "bytes": 4384
+  },
+  {
+    "filename": "NotoSansGeorgian.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/notosansgeorgian/NotoSansGeorgian%5Bwdth,wght%5D.ttf",
+    "retrieved": true,
+    "sha256": "dc591156f36842d38996c4a7a17fee9bb58e45da3e2cac7a31b7d33de700adb9",
+    "bytes": 231988
+  },
+  {
+    "filename": "NotoSansGeorgian-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/notosansgeorgian/OFL.txt",
+    "retrieved": true,
+    "sha256": "8c02263c5d73d40544f9ed91e30c4e947407057a3cc430d7b786189aeceff6df",
+    "bytes": 4384
+  },
+  {
+    "filename": "Unicode-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/LICENSE",
+    "retrieved": true,
+    "sha256": "b49d0e9f8ead51ca8b7df6fec89cc3ae6809198b4b9d43c74216da0118f23f5b",
+    "bytes": 2033
+  }
+]

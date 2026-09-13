@@ -1,0 +1,6657 @@
+[
+  {
+    "id": "gbr-base",
+    "iso3": "GBR",
+    "country_ja": "イギリス",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "en"
+    ],
+    "group": "英国・アイルランド",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "UK"
+    ],
+    "note_ja": "英語は全国の事実上の共通語。英国全体を対象とする単一の法定公用語指定とは区別。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 1,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -1.90973,
+      54.31035
+    ],
+    "bbox": [
+      -13.69042,
+      49.90961,
+      1.77117,
+      60.84789
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "irl-base",
+    "iso3": "IRL",
+    "country_ja": "アイルランド",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "en",
+      "ga"
+    ],
+    "group": "英国・アイルランド",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "IRISH-SIGN"
+    ],
+    "note_ja": "アイルランド語が第一公用語、英語が第二公用語。道路標識では全国的に両語を確認できる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 2,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -7.95881,
+      53.41608
+    ],
+    "bbox": [
+      -10.47818,
+      51.4457,
+      -5.99352,
+      55.38638
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "imn-base",
+    "iso3": "IMN",
+    "country_ja": "マン島",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "en",
+      "gv"
+    ],
+    "group": "英国・アイルランド",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "MANX"
+    ],
+    "note_ja": "英語にマン島語の地名・公共表示を併記する例。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 3,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -4.50777,
+      54.24934
+    ],
+    "bbox": [
+      -4.79015,
+      54.05695,
+      -4.31192,
+      54.4138
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "gbr-wales",
+    "iso3": "GBR",
+    "country_ja": "イギリス",
+    "area_ja": "南西部（ウェールズ）",
+    "languages": [
+      "cy"
+    ],
+    "group": "英国・アイルランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Flintshire",
+        "Wrexham",
+        "Powys",
+        "Monmouthshire",
+        "Newport",
+        "Cardiff",
+        "Vale of Glamorgan",
+        "Bridgend",
+        "Neath Port Talbot",
+        "Swansea",
+        "Carmarthenshire",
+        "Pembrokeshire",
+        "Ceredigion",
+        "Gwynedd",
+        "Conwy",
+        "Denbighshire",
+        "Anglesey",
+        "Caerphilly",
+        "Rhondda, Cynon, Taff",
+        "Blaenau Gwent",
+        "Torfaen",
+        "Merthyr Tydfil"
+      ]
+    },
+    "sources": [
+      "UK",
+      "WELSH"
+    ],
+    "note_ja": "英語との併記。ウェールズの行政区をまとめた範囲。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "welsh-all",
+      "welsh-gwynedd",
+      "welsh-anglesey",
+      "welsh-ceredigion"
+    ],
+    "number": 4,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -3.61421,
+      52.37299
+    ],
+    "bbox": [
+      -5.31094,
+      51.38422,
+      -2.64704,
+      53.4267
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "gbr-gaelic",
+    "iso3": "GBR",
+    "country_ja": "イギリス",
+    "area_ja": "北西部・北西沖の島々",
+    "languages": [
+      "gd"
+    ],
+    "group": "英国・アイルランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Highland",
+        "Eilean Siar",
+        "Argyll and Bute"
+      ]
+    },
+    "sources": [
+      "UK",
+      "GAELIC-SIGN",
+      "GAELIC-STAT"
+    ],
+    "note_ja": "ゲール語併記の幹線・自治体表示。東・南側の一部幹線にも続く。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "gaelic-islands"
+    ],
+    "number": 5,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -4.65553,
+      56.98772
+    ],
+    "bbox": [
+      -13.69042,
+      55.29735,
+      -3.01911,
+      58.67707
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "gbr-scots",
+    "iso3": "GBR",
+    "country_ja": "イギリス",
+    "area_ja": "北部（スコットランド）",
+    "languages": [
+      "sco"
+    ],
+    "group": "英国・アイルランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        -8,
+        54.65,
+        -0.7,
+        61
+      ]
+    },
+    "sources": [
+      "UK"
+    ],
+    "note_ja": "2025年法による公的地位。英語と同形の地名が多く、道路の主表示を一律にスコッツ語とはしない。",
+    "status_ja": "地域の公用語／地名・文化表示",
+    "statistics": [],
+    "number": 6,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -3.87779,
+      56.66822
+    ],
+    "bbox": [
+      -7.92967,
+      54.65,
+      -0.75837,
+      60.84789
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "gbr-cornwall",
+    "iso3": "GBR",
+    "country_ja": "イギリス",
+    "area_ja": "南西端（コーンウォール）",
+    "languages": [
+      "kw"
+    ],
+    "group": "英国・アイルランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Cornwall"
+      ]
+    },
+    "sources": [
+      "CORNISH",
+      "UK"
+    ],
+    "note_ja": "新しい街路名板などに併記。幹線道路がすべて併記とは限らない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 7,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -4.63361,
+      50.44592
+    ],
+    "bbox": [
+      -5.71565,
+      49.95913,
+      -4.18004,
+      50.9229
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "gbr-northern-ireland",
+    "iso3": "GBR",
+    "country_ja": "イギリス",
+    "area_ja": "西の島の北東部（北アイルランド）",
+    "languages": [
+      "ga"
+    ],
+    "group": "英国・アイルランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        -8.3,
+        53.95,
+        -5.3,
+        55.5
+      ]
+    },
+    "sources": [
+      "UK",
+      "CHARTER"
+    ],
+    "note_ja": "自治体・街路によってアイルランド語を併記。地域全域の一様な表示ではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 8,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -6.89678,
+      54.64846
+    ],
+    "bbox": [
+      -8.17384,
+      54.03457,
+      -5.3,
+      55.5
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "irl-gaeltacht",
+    "iso3": "IRL",
+    "country_ja": "アイルランド",
+    "area_ja": "西岸・北西岸（ゴールウェイなど）",
+    "languages": [
+      "ga"
+    ],
+    "group": "英国・アイルランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Donegal",
+        "Mayo",
+        "Galway",
+        "Kerry"
+      ]
+    },
+    "sources": [
+      "GAELTACHT",
+      "IRISH-SIGN"
+    ],
+    "note_ja": "ゲールタハトはこの中の飛び地状の地区。県全域が言語地域という意味ではない。",
+    "status_ja": "公用語が目立つ地区の位置",
+    "statistics": [],
+    "number": 9,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -9.14197,
+      53.65516
+    ],
+    "bbox": [
+      -10.47818,
+      51.68656,
+      -6.93956,
+      55.38638
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "jey-base",
+    "iso3": "JEY",
+    "country_ja": "ジャージー",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "en",
+      "fr",
+      "nrf_JE"
+    ],
+    "group": "海峡諸島",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "JERSEY"
+    ],
+    "note_ja": "英語の案内と、フランス語・ジャージー語由来の地名。すべての標識が3言語ではない。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 10,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -2.126,
+      49.22387
+    ],
+    "bbox": [
+      -2.24112,
+      49.17133,
+      -2.00829,
+      49.26024
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "ggy-base",
+    "iso3": "GGY",
+    "country_ja": "ガーンジー",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "en",
+      "fr",
+      "nrf_GG"
+    ],
+    "group": "海峡諸島",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "GUERNSEY"
+    ],
+    "note_ja": "主表示は英語。フランス語・ガーンジー語の歴史的地名が残る。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 11,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -2.54455,
+      49.48518
+    ],
+    "bbox": [
+      -2.67345,
+      49.41275,
+      -2.17447,
+      49.73139
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "isl-base",
+    "iso3": "ISL",
+    "country_ja": "アイスランド",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "is"
+    ],
+    "group": "北大西洋",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 12,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -18.46095,
+      64.96471
+    ],
+    "bbox": [
+      -24.53991,
+      63.39672,
+      -13.50292,
+      66.56415
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "fro-base",
+    "iso3": "FRO",
+    "country_ja": "フェロー諸島",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "fo",
+      "da"
+    ],
+    "group": "北大西洋",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "FAROE"
+    ],
+    "note_ja": "日常の主表示はフェロー語。デンマーク語はデンマーク管轄機関などで使用。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 13,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      -7.22696,
+      62.09716
+    ],
+    "bbox": [
+      -7.64415,
+      61.39594,
+      -6.27684,
+      62.39094
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "sjm-base",
+    "iso3": "SJM",
+    "country_ja": "スヴァールバル諸島・ヤンマイエン島",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "nb"
+    ],
+    "group": "北大西洋",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "NOR"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 14,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      22.68487,
+      79.85796
+    ],
+    "bbox": [
+      -9.11742,
+      70.81078,
+      33.64039,
+      80.77009
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "sjm-russian",
+    "iso3": "SJM",
+    "country_ja": "スヴァールバル諸島・ヤンマイエン島",
+    "area_ja": "西側の鉱山集落（バレンツブルクなど）",
+    "languages": [
+      "ru"
+    ],
+    "group": "北大西洋",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        14.23,
+        78.06
+      ]
+    },
+    "sources": [
+      "SVALBARD"
+    ],
+    "note_ja": "ノルウェー主権下でもロシア語の集落がある。ピラミデンなどの歴史的表示も候補。島全体の公用語ではない。",
+    "status_ja": "鉱山集落・施設の地域表示",
+    "statistics": [],
+    "number": 15,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      14.23,
+      78.06
+    ],
+    "bbox": [
+      14.23,
+      78.06,
+      14.23,
+      78.06
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "dnk-base",
+    "iso3": "DNK",
+    "country_ja": "デンマーク",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "da"
+    ],
+    "group": "北欧南部",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 16,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      9.24499,
+      56.26124
+    ],
+    "bbox": [
+      8.09522,
+      54.56859,
+      15.15138,
+      57.74384
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "nor-base",
+    "iso3": "NOR",
+    "country_ja": "ノルウェー",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "nb",
+      "nn"
+    ],
+    "group": "北欧南部",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "NOR"
+    ],
+    "note_ja": "2つのノルウェー語書記標準。地名のveg/veiだけでは境界を断定できない。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 17,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      12.68562,
+      64.5644
+    ],
+    "bbox": [
+      3.34555,
+      -54.45566,
+      31.077,
+      71.16527
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "swe-base",
+    "iso3": "SWE",
+    "country_ja": "スウェーデン",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "sv"
+    ],
+    "group": "北欧南部",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "SWE"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 18,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      14.9052,
+      62.18269
+    ],
+    "bbox": [
+      11.10816,
+      55.34544,
+      24.16341,
+      69.03636
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "dnk-german",
+    "iso3": "DNK",
+    "country_ja": "デンマーク",
+    "area_ja": "南端・ドイツ国境近く",
+    "languages": [
+      "de"
+    ],
+    "group": "北欧南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        9.42,
+        55.04
+      ]
+    },
+    "sources": [
+      "CHARTER"
+    ],
+    "note_ja": "ドイツ系施設などの局所的手掛かり。国の道路標識の主言語ではない。",
+    "status_ja": "少数言語の学校・文化施設表示",
+    "statistics": [],
+    "number": 19,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      9.42,
+      55.04
+    ],
+    "bbox": [
+      9.42,
+      55.04,
+      9.42,
+      55.04
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "nor-nynorsk-west",
+    "iso3": "NOR",
+    "country_ja": "ノルウェー",
+    "area_ja": "西岸・南西部",
+    "languages": [
+      "nn"
+    ],
+    "group": "北欧南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        4.5,
+        58,
+        9,
+        63
+      ]
+    },
+    "sources": [
+      "NOR"
+    ],
+    "note_ja": "ニーノシュク採用自治体が多い地域の概略。内部にはブークモール自治体もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 20,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      8.04882,
+      60.49775
+    ],
+    "bbox": [
+      4.64381,
+      58.0,
+      9.0,
+      63.0
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "fin-base",
+    "iso3": "FIN",
+    "country_ja": "フィンランド",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "fi",
+      "sv"
+    ],
+    "group": "フィンランド",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "FIN"
+    ],
+    "note_ja": "国の公用語は2言語。スウェーデン語の地域的集中は沿岸の拡大図を参照。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 21,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      27.42223,
+      64.93895
+    ],
+    "bbox": [
+      20.62317,
+      59.81123,
+      31.56952,
+      70.07531
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "ala-base",
+    "iso3": "ALA",
+    "country_ja": "オーランド諸島",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "sv"
+    ],
+    "group": "フィンランド",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "FIN"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 22,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      19.93877,
+      60.22842
+    ],
+    "bbox": [
+      19.51319,
+      59.90925,
+      21.08863,
+      60.48013
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "fin-swedish-west",
+    "iso3": "FIN",
+    "country_ja": "フィンランド",
+    "area_ja": "西岸（ヴァーサ周辺）",
+    "languages": [
+      "sv"
+    ],
+    "group": "フィンランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Ostrobothnia",
+        "Central Ostrobothnia"
+      ]
+    },
+    "sources": [
+      "FIN"
+    ],
+    "note_ja": "海岸寄りのスウェーデン語・二言語自治体。内陸全域の使用を意味しない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "fin-sv"
+    ],
+    "number": 23,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      22.08833,
+      63.06093
+    ],
+    "bbox": [
+      21.0652,
+      61.9397,
+      25.02868,
+      64.16758
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "fin-swedish-south",
+    "iso3": "FIN",
+    "country_ja": "フィンランド",
+    "area_ja": "南岸・南西の島々",
+    "languages": [
+      "sv"
+    ],
+    "group": "フィンランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        21,
+        59.7,
+        27,
+        60.5
+      ]
+    },
+    "sources": [
+      "FIN"
+    ],
+    "note_ja": "ヘルシンキ周辺を含む沿岸の二言語表示。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "fin-sv"
+    ],
+    "number": 24,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      23.71764,
+      60.15272
+    ],
+    "bbox": [
+      21.25025,
+      59.81123,
+      27.0,
+      60.5
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "nor-sami-north",
+    "iso3": "NOR",
+    "country_ja": "ノルウェー",
+    "area_ja": "北端・北東部（フィンマルク）",
+    "languages": [
+      "se"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        20,
+        68.2,
+        31.5,
+        71.5
+      ]
+    },
+    "sources": [
+      "NOR"
+    ],
+    "note_ja": "法定の多言語地名・標識。塗色内の自治体や道路で表示の有無が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 25,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      24.18144,
+      69.84006
+    ],
+    "bbox": [
+      20.0,
+      68.36449,
+      31.077,
+      71.16527
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "nor-sami-lule",
+    "iso3": "NOR",
+    "country_ja": "ノルウェー",
+    "area_ja": "北部（ボードーの北東）",
+    "languages": [
+      "smj"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        16.1,
+        68.05
+      ]
+    },
+    "sources": [
+      "NOR"
+    ],
+    "note_ja": "法定の多言語地名・標識。塗色内の自治体や道路で表示の有無が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 26,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      16.1,
+      68.05
+    ],
+    "bbox": [
+      16.1,
+      68.05,
+      16.1,
+      68.05
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "nor-sami-south",
+    "iso3": "NOR",
+    "country_ja": "ノルウェー",
+    "area_ja": "中部（トロンハイムの北東・山地）",
+    "languages": [
+      "sma"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        11,
+        62,
+        15.5,
+        65.5
+      ]
+    },
+    "sources": [
+      "NOR"
+    ],
+    "note_ja": "法定の多言語地名・標識。塗色内の自治体や道路で表示の有無が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 27,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      11.814,
+      63.74679
+    ],
+    "bbox": [
+      11.0,
+      62.0,
+      14.51787,
+      65.5
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "nor-kven",
+    "iso3": "NOR",
+    "country_ja": "ノルウェー",
+    "area_ja": "北東部（フィンランド国境近く）",
+    "languages": [
+      "fkv"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        23,
+        69,
+        30.5,
+        71
+      ]
+    },
+    "sources": [
+      "NOR"
+    ],
+    "note_ja": "法定の多言語地名・標識。塗色内の自治体や道路で表示の有無が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 28,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      25.48308,
+      70.0041
+    ],
+    "bbox": [
+      23.0,
+      69.0,
+      30.5,
+      71.0
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "swe-sami-north",
+    "iso3": "SWE",
+    "country_ja": "スウェーデン",
+    "area_ja": "北端（キルナ周辺）",
+    "languages": [
+      "se"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        17,
+        66.7,
+        23,
+        69.1
+      ]
+    },
+    "sources": [
+      "SWE"
+    ],
+    "note_ja": "伝統的な地名とスウェーデン語の併記が手掛かり。実際の表示地点は範囲内の一部。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 29,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      20.0,
+      67.33403
+    ],
+    "bbox": [
+      17.0,
+      66.7,
+      23.0,
+      69.03636
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "swe-sami-lule",
+    "iso3": "SWE",
+    "country_ja": "スウェーデン",
+    "area_ja": "北部（ヨックモック周辺）",
+    "languages": [
+      "smj"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        19.84,
+        66.61
+      ]
+    },
+    "sources": [
+      "SWE"
+    ],
+    "note_ja": "伝統的な地名とスウェーデン語の併記が手掛かり。実際の表示地点は範囲内の一部。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 30,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      19.84,
+      66.61
+    ],
+    "bbox": [
+      19.84,
+      66.61,
+      19.84,
+      66.61
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "swe-sami-south",
+    "iso3": "SWE",
+    "country_ja": "スウェーデン",
+    "area_ja": "中北部の西側山地",
+    "languages": [
+      "sma"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        12,
+        61.5,
+        16,
+        65.4
+      ]
+    },
+    "sources": [
+      "SWE"
+    ],
+    "note_ja": "伝統的な地名とスウェーデン語の併記が手掛かり。実際の表示地点は範囲内の一部。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 31,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      14.05495,
+      63.38467
+    ],
+    "bbox": [
+      12.0,
+      61.5,
+      16.0,
+      65.4
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "swe-meankieli",
+    "iso3": "SWE",
+    "country_ja": "スウェーデン",
+    "area_ja": "北東端・フィンランド国境近く",
+    "languages": [
+      "fit"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        22,
+        65.6,
+        24.3,
+        68.3
+      ]
+    },
+    "sources": [
+      "SWE"
+    ],
+    "note_ja": "伝統的な地名とスウェーデン語の併記が手掛かり。実際の表示地点は範囲内の一部。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 32,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      22.93751,
+      66.93213
+    ],
+    "bbox": [
+      22.0,
+      65.6,
+      24.16341,
+      68.3
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "fin-sami-north",
+    "iso3": "FIN",
+    "country_ja": "フィンランド",
+    "area_ja": "北端（ウツヨキなど）",
+    "languages": [
+      "se"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        20.5,
+        68.3,
+        28.5,
+        70.2
+      ]
+    },
+    "sources": [
+      "FIN"
+    ],
+    "note_ja": "サーミ語地域内でも言語ごとに使用地が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "fin-se"
+    ],
+    "number": 33,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      27.11873,
+      69.18627
+    ],
+    "bbox": [
+      20.62317,
+      68.3,
+      28.5,
+      70.07531
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "fin-sami-inari",
+    "iso3": "FIN",
+    "country_ja": "フィンランド",
+    "area_ja": "北部イナリ湖周辺",
+    "languages": [
+      "smn"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        27.02,
+        68.91
+      ]
+    },
+    "sources": [
+      "FIN"
+    ],
+    "note_ja": "サーミ語地域内でも言語ごとに使用地が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "fin-se"
+    ],
+    "number": 34,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      27.02,
+      68.91
+    ],
+    "bbox": [
+      27.02,
+      68.91,
+      27.02,
+      68.91
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "fin-sami-skolt",
+    "iso3": "FIN",
+    "country_ja": "フィンランド",
+    "area_ja": "北東端（セヴェッティヤルヴィ周辺）",
+    "languages": [
+      "sms"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        28.6,
+        69.51
+      ]
+    },
+    "sources": [
+      "FIN"
+    ],
+    "note_ja": "サーミ語地域内でも言語ごとに使用地が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "fin-se"
+    ],
+    "number": 35,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      28.6,
+      69.51
+    ],
+    "bbox": [
+      28.6,
+      69.51,
+      28.6,
+      69.51
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "swe-sami-ume",
+    "iso3": "SWE",
+    "country_ja": "スウェーデン",
+    "area_ja": "北中部（ウメオの北西側）",
+    "languages": [
+      "sju"
+    ],
+    "group": "北欧の地域言語",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        18.15,
+        65.53
+      ]
+    },
+    "sources": [
+      "SAMI-NAMES"
+    ],
+    "note_ja": "ウメ・サーミ語地名。道路上では他のサーミ語とも文字を共有する。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 36,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      18.15,
+      65.53
+    ],
+    "bbox": [
+      18.15,
+      65.53,
+      18.15,
+      65.53
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "est-base",
+    "iso3": "EST",
+    "country_ja": "エストニア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "et"
+    ],
+    "group": "バルト海東岸",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "EST"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 37,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      25.49471,
+      58.59346
+    ],
+    "bbox": [
+      21.83237,
+      57.51582,
+      28.18648,
+      59.67088
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "lva-base",
+    "iso3": "LVA",
+    "country_ja": "ラトビア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "lv"
+    ],
+    "group": "バルト海東岸",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 38,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      24.37684,
+      56.85771
+    ],
+    "bbox": [
+      20.97055,
+      55.66699,
+      28.21728,
+      58.07341
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "ltu-base",
+    "iso3": "LTU",
+    "country_ja": "リトアニア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "lt"
+    ],
+    "group": "バルト海東岸",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 39,
+    "un_region_ja": "北ヨーロッパ",
+    "anchor_lonlat": [
+      24.14372,
+      55.16909
+    ],
+    "bbox": [
+      20.92457,
+      53.88684,
+      26.80072,
+      56.4426
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "nld-base",
+    "iso3": "NLD",
+    "country_ja": "オランダ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "nl"
+    ],
+    "group": "ベネルクス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "NLD"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 40,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      5.5341,
+      52.10788
+    ],
+    "bbox": [
+      3.34942,
+      50.74993,
+      7.19541,
+      53.55809
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "lux-base",
+    "iso3": "LUX",
+    "country_ja": "ルクセンブルク",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "lb",
+      "fr",
+      "de"
+    ],
+    "group": "ベネルクス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "LUX-STAT"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 41,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      6.07899,
+      49.80704
+    ],
+    "bbox": [
+      5.71896,
+      49.44132,
+      6.50258,
+      50.17498
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "bel-north",
+    "iso3": "BEL",
+    "country_ja": "ベルギー",
+    "area_ja": "北部（フランデレン）",
+    "languages": [
+      "nl"
+    ],
+    "group": "ベネルクス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "West Flanders",
+        "East Flanders",
+        "Antwerp",
+        "Limburg",
+        "Flemish Brabant"
+      ]
+    },
+    "sources": [
+      "BEL"
+    ],
+    "note_ja": "",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 42,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      3.35805,
+      51.09208
+    ],
+    "bbox": [
+      2.5218,
+      50.68981,
+      5.91016,
+      51.49414
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "bel-south",
+    "iso3": "BEL",
+    "country_ja": "ベルギー",
+    "area_ja": "南部（ワロン）",
+    "languages": [
+      "fr"
+    ],
+    "group": "ベネルクス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Hainaut",
+        "Namur",
+        "Luxembourg",
+        "Liege",
+        "Walloon Brabant"
+      ]
+    },
+    "sources": [
+      "BEL"
+    ],
+    "note_ja": "東端のドイツ語地域と境界の便宜言語自治体は別に扱う。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 43,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      5.39255,
+      50.15635
+    ],
+    "bbox": [
+      2.84219,
+      49.49894,
+      6.37453,
+      50.80867
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "bel-brussels",
+    "iso3": "BEL",
+    "country_ja": "ベルギー",
+    "area_ja": "中央付近（ブリュッセル）",
+    "languages": [
+      "fr",
+      "nl"
+    ],
+    "group": "ベネルクス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        4.35,
+        50.85
+      ]
+    },
+    "sources": [
+      "BEL"
+    ],
+    "note_ja": "フランス語・オランダ語の二言語地域。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 44,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      4.35,
+      50.85
+    ],
+    "bbox": [
+      4.35,
+      50.85,
+      4.35,
+      50.85
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "bel-german",
+    "iso3": "BEL",
+    "country_ja": "ベルギー",
+    "area_ja": "東端・ドイツ国境（オイペンなど）",
+    "languages": [
+      "de"
+    ],
+    "group": "ベネルクス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        6.03,
+        50.63
+      ]
+    },
+    "sources": [
+      "BEL"
+    ],
+    "note_ja": "ドイツ語地域は細い非連続の範囲。点はオイペン、南側のザンクト・フィートも候補。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 45,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      6.03,
+      50.63
+    ],
+    "bbox": [
+      6.03,
+      50.63,
+      6.03,
+      50.63
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "nld-friesland",
+    "iso3": "NLD",
+    "country_ja": "オランダ",
+    "area_ja": "北部（フリースラント）",
+    "languages": [
+      "fy"
+    ],
+    "group": "ベネルクス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Friesland"
+      ]
+    },
+    "sources": [
+      "NLD"
+    ],
+    "note_ja": "フリジア語地名・街路名。自治体によりオランダ語と単独・併記が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 46,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      5.81057,
+      53.11443
+    ],
+    "bbox": [
+      4.87892,
+      52.78932,
+      6.4338,
+      53.51415
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "fra-base",
+    "iso3": "FRA",
+    "country_ja": "フランス",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "fr"
+    ],
+    "group": "フランス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "FRA-MIN"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 47,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      2.1965,
+      46.73256
+    ],
+    "bbox": [
+      -5.1328,
+      41.3725,
+      9.55958,
+      51.08754
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "fra-breton",
+    "iso3": "FRA",
+    "country_ja": "フランス",
+    "area_ja": "北西の半島（ブルターニュ）",
+    "languages": [
+      "br"
+    ],
+    "group": "フランス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Finistère",
+        "Morbihan",
+        "Côtes-d'Armor",
+        "Ille-et-Vilaine"
+      ]
+    },
+    "sources": [
+      "BRETON"
+    ],
+    "note_ja": "フランス語が基本。塗色は併記を探す地域の概略で、全道路での使用を示さない。",
+    "status_ja": "地域言語の地名・公共表示（自治体差）",
+    "statistics": [],
+    "number": 48,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      -1.74869,
+      48.16577
+    ],
+    "bbox": [
+      -5.1328,
+      47.30195,
+      -1.04063,
+      48.86987
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "fra-basque",
+    "iso3": "FRA",
+    "country_ja": "フランス",
+    "area_ja": "南西端・スペイン国境の大西洋側",
+    "languages": [
+      "eu"
+    ],
+    "group": "フランス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        -1.85,
+        43,
+        -0.8,
+        43.65
+      ]
+    },
+    "sources": [
+      "BASQUE-FR"
+    ],
+    "note_ja": "フランス語が基本。塗色は併記を探す地域の概略で、全道路での使用を示さない。",
+    "status_ja": "地域言語の地名・公共表示（自治体差）",
+    "statistics": [
+      "basque-fr"
+    ],
+    "number": 49,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      -1.28817,
+      43.32984
+    ],
+    "bbox": [
+      -1.79691,
+      43.0,
+      -0.8,
+      43.65
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "fra-catalan",
+    "iso3": "FRA",
+    "country_ja": "フランス",
+    "area_ja": "南端・スペイン国境の地中海側",
+    "languages": [
+      "ca"
+    ],
+    "group": "フランス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Pyrénées-Orientales"
+      ]
+    },
+    "sources": [
+      "OCCITAN"
+    ],
+    "note_ja": "フランス語が基本。塗色は併記を探す地域の概略で、全道路での使用を示さない。",
+    "status_ja": "地域言語の地名・公共表示（自治体差）",
+    "statistics": [],
+    "number": 50,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      2.49933,
+      42.60041
+    ],
+    "bbox": [
+      1.71217,
+      42.32566,
+      3.17937,
+      42.9138
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "fra-occitan",
+    "iso3": "FRA",
+    "country_ja": "フランス",
+    "area_ja": "南部内陸（トゥールーズ・モンペリエなど）",
+    "languages": [
+      "oc"
+    ],
+    "group": "フランス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        -0.2,
+        42.8,
+        4.8,
+        45.1
+      ]
+    },
+    "sources": [
+      "OCCITAN"
+    ],
+    "note_ja": "フランス語が基本。塗色は併記を探す地域の概略で、全道路での使用を示さない。",
+    "status_ja": "地域言語の地名・公共表示（自治体差）",
+    "statistics": [],
+    "number": 51,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      2.3,
+      44.33955
+    ],
+    "bbox": [
+      -0.2,
+      42.8,
+      4.8,
+      45.1
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "fra-corsica",
+    "iso3": "FRA",
+    "country_ja": "フランス",
+    "area_ja": "南東沖（コルシカ島）",
+    "languages": [
+      "co"
+    ],
+    "group": "フランス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Haute-Corse",
+        "Corse-du-Sud"
+      ]
+    },
+    "sources": [
+      "CORSICA",
+      "FRA-MIN"
+    ],
+    "note_ja": "フランス語が基本。塗色は併記を探す地域の概略で、全道路での使用を示さない。",
+    "status_ja": "地域言語の地名・公共表示（自治体差）",
+    "statistics": [],
+    "number": 52,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      9.06647,
+      42.20722
+    ],
+    "bbox": [
+      8.54949,
+      41.3725,
+      9.55958,
+      43.0174
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "fra-alsace",
+    "iso3": "FRA",
+    "country_ja": "フランス",
+    "area_ja": "北東部・ドイツ国境（ストラスブール周辺）",
+    "languages": [
+      "gsw"
+    ],
+    "group": "フランス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Bas-Rhin",
+        "Haute-Rhin"
+      ]
+    },
+    "sources": [
+      "ALSACE",
+      "FRA-MIN"
+    ],
+    "note_ja": "フランス語が基本。塗色は併記を探す地域の概略で、全道路での使用を示さない。",
+    "status_ja": "地域言語の地名・公共表示（自治体差）",
+    "statistics": [],
+    "number": 53,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      7.38693,
+      48.20872
+    ],
+    "bbox": [
+      6.86892,
+      47.4168,
+      8.20031,
+      49.06455
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "deu-base",
+    "iso3": "DEU",
+    "country_ja": "ドイツ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "de"
+    ],
+    "group": "ドイツ",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 54,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      10.51974,
+      51.11347
+    ],
+    "bbox": [
+      5.85249,
+      47.27112,
+      15.02206,
+      55.06533
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "deu-sorbian-upper",
+    "iso3": "DEU",
+    "country_ja": "ドイツ",
+    "area_ja": "東部・チェコとポーランドに近い内陸",
+    "languages": [
+      "hsb"
+    ],
+    "group": "ドイツ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        13.95,
+        51.05,
+        14.7,
+        51.65
+      ]
+    },
+    "sources": [
+      "DEU-MIN",
+      "CHARTER"
+    ],
+    "note_ja": "地名や自治体・文化表示の併記。ドイツ語が併用され、設置の程度には差がある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 55,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      14.325,
+      51.35
+    ],
+    "bbox": [
+      13.95,
+      51.05,
+      14.7,
+      51.65
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "deu-sorbian-lower",
+    "iso3": "DEU",
+    "country_ja": "ドイツ",
+    "area_ja": "東部（コトブス周辺）",
+    "languages": [
+      "dsb"
+    ],
+    "group": "ドイツ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        13.8,
+        51.5,
+        14.65,
+        52.05
+      ]
+    },
+    "sources": [
+      "DEU-MIN",
+      "CHARTER"
+    ],
+    "note_ja": "地名や自治体・文化表示の併記。ドイツ語が併用され、設置の程度には差がある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 56,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      14.205,
+      51.78645
+    ],
+    "bbox": [
+      13.8,
+      51.5,
+      14.65,
+      52.05
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "deu-frisian-north",
+    "iso3": "DEU",
+    "country_ja": "ドイツ",
+    "area_ja": "北西岸・デンマーク国境近く",
+    "languages": [
+      "frr"
+    ],
+    "group": "ドイツ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        8.1,
+        54.4,
+        9.15,
+        55.1
+      ]
+    },
+    "sources": [
+      "DEU-MIN",
+      "CHARTER"
+    ],
+    "note_ja": "地名や自治体・文化表示の併記。ドイツ語が併用され、設置の程度には差がある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 57,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      8.98968,
+      54.65343
+    ],
+    "bbox": [
+      8.28443,
+      54.4,
+      9.15,
+      55.06533
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "deu-danish",
+    "iso3": "DEU",
+    "country_ja": "ドイツ",
+    "area_ja": "北端（フレンスブルク周辺）",
+    "languages": [
+      "da"
+    ],
+    "group": "ドイツ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        9.43,
+        54.78
+      ]
+    },
+    "sources": [
+      "DEU-MIN",
+      "CHARTER"
+    ],
+    "note_ja": "地名や自治体・文化表示の併記。ドイツ語が併用され、設置の程度には差がある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 58,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      9.43,
+      54.78
+    ],
+    "bbox": [
+      9.43,
+      54.78,
+      9.43,
+      54.78
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "deu-saterland",
+    "iso3": "DEU",
+    "country_ja": "ドイツ",
+    "area_ja": "北西部（オルデンブルクの西）",
+    "languages": [
+      "stq"
+    ],
+    "group": "ドイツ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        7.68,
+        53.09
+      ]
+    },
+    "sources": [
+      "DEU-MIN",
+      "CHARTER"
+    ],
+    "note_ja": "地名や自治体・文化表示の併記。ドイツ語が併用され、設置の程度には差がある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 59,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      7.68,
+      53.09
+    ],
+    "bbox": [
+      7.68,
+      53.09,
+      7.68,
+      53.09
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "deu-low-german",
+    "iso3": "DEU",
+    "country_ja": "ドイツ",
+    "area_ja": "北部平野（ニーダーザクセンなど）",
+    "languages": [
+      "nds"
+    ],
+    "group": "ドイツ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        6.7,
+        52.5,
+        10.8,
+        53.8
+      ]
+    },
+    "sources": [
+      "DEU-MIN",
+      "CHARTER"
+    ],
+    "note_ja": "地名や自治体・文化表示の併記。ドイツ語が併用され、設置の程度には差がある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 60,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      8.99184,
+      53.16136
+    ],
+    "bbox": [
+      6.7,
+      52.5,
+      10.8,
+      53.8
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "aut-base",
+    "iso3": "AUT",
+    "country_ja": "オーストリア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "de"
+    ],
+    "group": "アルプス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "AUT-UN",
+      "CHARTER"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 61,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      14.74661,
+      47.69373
+    ],
+    "bbox": [
+      9.52116,
+      46.37864,
+      17.14834,
+      49.00791
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "aut-slovene",
+    "iso3": "AUT",
+    "country_ja": "オーストリア",
+    "area_ja": "南端・スロベニア国境近く",
+    "languages": [
+      "sl"
+    ],
+    "group": "アルプス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        13.6,
+        46.4,
+        15.1,
+        46.85
+      ]
+    },
+    "sources": [
+      "AUT-UN",
+      "CHARTER"
+    ],
+    "note_ja": "ケルンテン南部などの二言語地名。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 62,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      14.2982,
+      46.62899
+    ],
+    "bbox": [
+      13.6,
+      46.4,
+      15.1,
+      46.85
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "aut-croatian",
+    "iso3": "AUT",
+    "country_ja": "オーストリア",
+    "area_ja": "東端・ハンガリー国境近く",
+    "languages": [
+      "hr"
+    ],
+    "group": "アルプス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Burgenland"
+      ]
+    },
+    "sources": [
+      "AUT-UN",
+      "CHARTER"
+    ],
+    "note_ja": "ブルゲンラント内の一部集落。県全域の主表示ではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 63,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      16.46149,
+      47.47394
+    ],
+    "bbox": [
+      16.00371,
+      46.84134,
+      17.14834,
+      48.11241
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "aut-hungarian",
+    "iso3": "AUT",
+    "country_ja": "オーストリア",
+    "area_ja": "東端（オーバーヴァルト周辺）",
+    "languages": [
+      "hu"
+    ],
+    "group": "アルプス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        16.2,
+        47.29
+      ]
+    },
+    "sources": [
+      "AUT-UN",
+      "CHARTER"
+    ],
+    "note_ja": "ハンガリー語の公的地名を持つ一部集落。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 64,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      16.2,
+      47.29
+    ],
+    "bbox": [
+      16.2,
+      47.29,
+      16.2,
+      47.29
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "lie-base",
+    "iso3": "LIE",
+    "country_ja": "リヒテンシュタイン",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "de_CH"
+    ],
+    "group": "スイス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "MICRO"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 65,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      9.54189,
+      47.13746
+    ],
+    "bbox": [
+      9.47702,
+      47.05687,
+      9.61572,
+      47.2628
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "che-german",
+    "iso3": "CHE",
+    "country_ja": "スイス",
+    "area_ja": "北部・中部・東部",
+    "languages": [
+      "de_CH"
+    ],
+    "group": "スイス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Zürich",
+        "Aargau",
+        "Bern",
+        "Lucerne",
+        "Uri",
+        "Schwyz",
+        "Glarus",
+        "Sankt Gallen",
+        "Thurgau",
+        "Solothurn",
+        "Basel-Stadt",
+        "Basel-Landschaft",
+        "Schaffhausen",
+        "Zug",
+        "Obwalden",
+        "Nidwalden",
+        "Appenzell Ausserrhoden",
+        "Appenzell Innerrhoden"
+      ]
+    },
+    "sources": [
+      "CHE"
+    ],
+    "note_ja": "ベルンなどにはフランス語地区もあり、このまとめは主な位置を示す。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "che-de_CH"
+    ],
+    "number": 66,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      8.94344,
+      47.06299
+    ],
+    "bbox": [
+      6.84979,
+      46.33144,
+      9.65035,
+      47.79502
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "che-french",
+    "iso3": "CHE",
+    "country_ja": "スイス",
+    "area_ja": "西部（ジュネーブ・ローザンヌなど）",
+    "languages": [
+      "fr"
+    ],
+    "group": "スイス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Genève",
+        "Vaud",
+        "Neuchâtel",
+        "Jura",
+        "Fribourg",
+        "Valais"
+      ]
+    },
+    "sources": [
+      "CHE"
+    ],
+    "note_ja": "フリブール・ヴァレーは二言語州。州内のドイツ語地区までフランス語一色とはしない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "che-fr"
+    ],
+    "number": 67,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      6.68441,
+      46.52468
+    ],
+    "bbox": [
+      5.95853,
+      45.88047,
+      8.47693,
+      47.48909
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "che-italian",
+    "iso3": "CHE",
+    "country_ja": "スイス",
+    "area_ja": "南部（ティチーノと東隣の谷）",
+    "languages": [
+      "it"
+    ],
+    "group": "スイス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Ticino"
+      ]
+    },
+    "sources": [
+      "CHE"
+    ],
+    "note_ja": "東隣のグラウビュンデン州南側の谷にもイタリア語地区。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "che-it"
+    ],
+    "number": 68,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      8.77096,
+      46.22798
+    ],
+    "bbox": [
+      8.38591,
+      45.82072,
+      9.16379,
+      46.63235
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "che-romansh",
+    "iso3": "CHE",
+    "country_ja": "スイス",
+    "area_ja": "南東部の山地（グラウビュンデンの一部）",
+    "languages": [
+      "rm"
+    ],
+    "group": "スイス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Graubünden"
+      ]
+    },
+    "sources": [
+      "CHE"
+    ],
+    "note_ja": "州内はロマンシュ語・ドイツ語・イタリア語のモザイク。塗色は州の位置のみ。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "che-romansh-area",
+      "che-rm"
+    ],
+    "number": 69,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      9.56779,
+      46.61917
+    ],
+    "bbox": [
+      8.65397,
+      46.17299,
+      10.4659,
+      47.0639
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "esp-base",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "es"
+    ],
+    "group": "イベリア半島",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 70,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -3.48933,
+      39.88186
+    ],
+    "bbox": [
+      -18.16723,
+      27.64252,
+      4.33709,
+      43.79344
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "prt-base",
+    "iso3": "PRT",
+    "country_ja": "ポルトガル",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "pt"
+    ],
+    "group": "イベリア半島",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "PRT"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 71,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -8.28768,
+      39.54773
+    ],
+    "bbox": [
+      -31.28466,
+      30.02924,
+      -6.20595,
+      42.15363
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "and-base",
+    "iso3": "AND",
+    "country_ja": "アンドラ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "ca"
+    ],
+    "group": "イベリア半島",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "MICRO"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 72,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      1.56376,
+      42.53888
+    ],
+    "bbox": [
+      1.40646,
+      42.42868,
+      1.76509,
+      42.64936
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "gib-base",
+    "iso3": "GIB",
+    "country_ja": "ジブラルタル",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "en"
+    ],
+    "group": "イベリア半島",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 73,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -5.34713,
+      36.1302
+    ],
+    "bbox": [
+      -5.35839,
+      36.1105,
+      -5.33877,
+      36.14112
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "esp-catalan",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "北東部（バルセロナ周辺）",
+    "languages": [
+      "ca"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Lérida",
+        "Gerona",
+        "Barcelona",
+        "Tarragona"
+      ]
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "スペイン語との関係は地域差。地名が地域言語のみで公式の場合もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "catalan-speak"
+    ],
+    "number": 74,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      1.58336,
+      41.68603
+    ],
+    "bbox": [
+      0.16746,
+      40.52749,
+      3.31772,
+      42.83842
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "esp-valencian",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "東岸（バレンシア周辺）",
+    "languages": [
+      "ca"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Castellón",
+        "Valencia",
+        "Alicante"
+      ]
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "スペイン語との関係は地域差。地名が地域言語のみで公式の場合もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 75,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -0.75286,
+      39.30904
+    ],
+    "bbox": [
+      -1.51745,
+      37.8459,
+      0.51986,
+      40.77599
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "esp-balearic",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "東の沖合（バレアレス諸島）",
+    "languages": [
+      "ca"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Baleares"
+      ]
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "スペイン語との関係は地域差。地名が地域言語のみで公式の場合もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 76,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      2.8861,
+      39.61756
+    ],
+    "bbox": [
+      1.21664,
+      38.64206,
+      4.33709,
+      40.07941
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "esp-basque",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "北部・フランス国境の大西洋側",
+    "languages": [
+      "eu"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Gipuzkoa",
+        "Bizkaia",
+        "Álava"
+      ]
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "スペイン語との関係は地域差。地名が地域言語のみで公式の場合もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "basque-bac"
+    ],
+    "number": 77,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -2.55882,
+      42.96384
+    ],
+    "bbox": [
+      -3.44503,
+      42.49668,
+      -1.74973,
+      43.4525
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "esp-navarre",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "北部（ナバラの北寄り）",
+    "languages": [
+      "eu"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        -2.5,
+        42.7,
+        -0.7,
+        43.4
+      ]
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "スペイン語との関係は地域差。地名が地域言語のみで公式の場合もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "basque-nav"
+    ],
+    "number": 78,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -1.98069,
+      43.05014
+    ],
+    "bbox": [
+      -2.5,
+      42.7,
+      -0.7,
+      43.39509
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "esp-galician",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "北西端（ガリシア）",
+    "languages": [
+      "gl"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "La Coruña",
+        "Lugo",
+        "Orense",
+        "Pontevedra"
+      ]
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "スペイン語との関係は地域差。地名が地域言語のみで公式の場合もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 79,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -7.88372,
+      42.80394
+    ],
+    "bbox": [
+      -9.29198,
+      41.80595,
+      -6.73571,
+      43.78877
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "esp-asturian",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "北岸（オビエド・ヒホン周辺）",
+    "languages": [
+      "ast"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Asturias"
+      ]
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "スペイン語との関係は地域差。地名が地域言語のみで公式の場合もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 80,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -5.84989,
+      43.28746
+    ],
+    "bbox": [
+      -7.17012,
+      42.89283,
+      -4.51326,
+      43.66295
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "esp-aranese",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "北東の山中（アラン谷）",
+    "languages": [
+      "oc"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        0.8,
+        42.7
+      ]
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "スペイン語との関係は地域差。地名が地域言語のみで公式の場合もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 81,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      0.8,
+      42.7
+    ],
+    "bbox": [
+      0.8,
+      42.7,
+      0.8,
+      42.7
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "esp-aragonese",
+    "iso3": "ESP",
+    "country_ja": "スペイン",
+    "area_ja": "北東部内陸（ウエスカ北側の一部）",
+    "languages": [
+      "an"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        -0.3,
+        42.6
+      ]
+    },
+    "sources": [
+      "ESP"
+    ],
+    "note_ja": "スペイン語との関係は地域差。地名が地域言語のみで公式の場合もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 82,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -0.3,
+      42.6
+    ],
+    "bbox": [
+      -0.3,
+      42.6,
+      -0.3,
+      42.6
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "prt-mirandese",
+    "iso3": "PRT",
+    "country_ja": "ポルトガル",
+    "area_ja": "北東端（ミランダ・ド・ドウロ）",
+    "languages": [
+      "mwl"
+    ],
+    "group": "イベリア半島",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        -6.27,
+        41.5
+      ]
+    },
+    "sources": [
+      "PRT"
+    ],
+    "note_ja": "ミランダ語が地域的に公認され、ポルトガル語と併記される地名もある。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 83,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      -6.27,
+      41.5
+    ],
+    "bbox": [
+      -6.27,
+      41.5,
+      -6.27,
+      41.5
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "ita-base",
+    "iso3": "ITA",
+    "country_ja": "イタリア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "it"
+    ],
+    "group": "イタリア",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "ITA-PCGN"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 84,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      12.68696,
+      42.50055
+    ],
+    "bbox": [
+      6.60273,
+      35.48924,
+      18.51612,
+      47.08521
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "smr-base",
+    "iso3": "SMR",
+    "country_ja": "サンマリノ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "it"
+    ],
+    "group": "イタリア",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "MICRO"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 85,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      12.43504,
+      43.93647
+    ],
+    "bbox": [
+      12.38563,
+      43.89206,
+      12.48216,
+      43.98257
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "vat-base",
+    "iso3": "VAT",
+    "country_ja": "バチカン",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "it",
+      "la"
+    ],
+    "group": "イタリア",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "MICRO"
+    ],
+    "note_ja": "日常・行政の主言語はイタリア語。ラテン語は教皇庁の公式用途や銘文を含めた補助。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 86,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      12.45378,
+      41.90331
+    ],
+    "bbox": [
+      12.45303,
+      41.90275,
+      12.45403,
+      41.90391
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "mco-base",
+    "iso3": "MCO",
+    "country_ja": "モナコ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "fr",
+      "mco"
+    ],
+    "group": "イタリア",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "MICRO"
+    ],
+    "note_ja": "フランス語が公用語。モネガスク語は旧市街などの一部街路名併記。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 87,
+    "un_region_ja": "西ヨーロッパ",
+    "anchor_lonlat": [
+      7.40008,
+      43.73305
+    ],
+    "bbox": [
+      7.36575,
+      43.71797,
+      7.43745,
+      43.76351
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "ita-german",
+    "iso3": "ITA",
+    "country_ja": "イタリア",
+    "area_ja": "北端・オーストリア国境（ボルツァーノ）",
+    "languages": [
+      "de"
+    ],
+    "group": "イタリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Bozen"
+      ]
+    },
+    "sources": [
+      "ITA",
+      "ITA-PCGN"
+    ],
+    "note_ja": "イタリア語との地域的な併記。谷・集落によって言語が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "tyrol-de",
+      "tyrol-it",
+      "tyrol-lld"
+    ],
+    "number": 88,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      11.23341,
+      46.65282
+    ],
+    "bbox": [
+      10.36917,
+      46.22389,
+      12.46662,
+      47.08521
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "ita-ladin",
+    "iso3": "ITA",
+    "country_ja": "イタリア",
+    "area_ja": "北東の山地（ドロミテの谷）",
+    "languages": [
+      "lld"
+    ],
+    "group": "イタリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        11.67,
+        46.55
+      ]
+    },
+    "sources": [
+      "ITA",
+      "ITA-PCGN"
+    ],
+    "note_ja": "イタリア語との地域的な併記。谷・集落によって言語が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "tyrol-de",
+      "tyrol-it",
+      "tyrol-lld"
+    ],
+    "number": 89,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      11.67,
+      46.55
+    ],
+    "bbox": [
+      11.67,
+      46.55,
+      11.67,
+      46.55
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "ita-french",
+    "iso3": "ITA",
+    "country_ja": "イタリア",
+    "area_ja": "北西端・フランス国境（アオスタ）",
+    "languages": [
+      "fr"
+    ],
+    "group": "イタリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Aoste"
+      ]
+    },
+    "sources": [
+      "ITA",
+      "ITA-PCGN"
+    ],
+    "note_ja": "イタリア語との地域的な併記。谷・集落によって言語が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 90,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      7.36171,
+      45.71755
+    ],
+    "bbox": [
+      6.78199,
+      45.46629,
+      7.91955,
+      45.98412
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "ita-francoprov",
+    "iso3": "ITA",
+    "country_ja": "イタリア",
+    "area_ja": "北西端のアオスタ谷",
+    "languages": [
+      "frp"
+    ],
+    "group": "イタリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Aoste"
+      ]
+    },
+    "sources": [
+      "ITA",
+      "ITA-PCGN"
+    ],
+    "note_ja": "イタリア語との地域的な併記。谷・集落によって言語が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 91,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      7.36171,
+      45.71755
+    ],
+    "bbox": [
+      6.78199,
+      45.46629,
+      7.91955,
+      45.98412
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "ita-friulian",
+    "iso3": "ITA",
+    "country_ja": "イタリア",
+    "area_ja": "北東部（ウーディネ周辺）",
+    "languages": [
+      "fur"
+    ],
+    "group": "イタリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Udine",
+        "Pordenone",
+        "Gorizia"
+      ]
+    },
+    "sources": [
+      "ITA",
+      "ITA-PCGN"
+    ],
+    "note_ja": "イタリア語との地域的な併記。谷・集落によって言語が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 92,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      13.28569,
+      46.136
+    ],
+    "bbox": [
+      12.33592,
+      45.65232,
+      13.70095,
+      46.63976
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "ita-slovene",
+    "iso3": "ITA",
+    "country_ja": "イタリア",
+    "area_ja": "北東端・スロベニア国境",
+    "languages": [
+      "sl"
+    ],
+    "group": "イタリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Trieste",
+        "Gorizia"
+      ]
+    },
+    "sources": [
+      "ITA",
+      "ITA-PCGN"
+    ],
+    "note_ja": "イタリア語との地域的な併記。谷・集落によって言語が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 93,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      13.493,
+      45.83826
+    ],
+    "bbox": [
+      13.37672,
+      45.58466,
+      13.89246,
+      46.00639
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "ita-sardinian",
+    "iso3": "ITA",
+    "country_ja": "イタリア",
+    "area_ja": "西の大きな島（サルデーニャ）",
+    "languages": [
+      "sc"
+    ],
+    "group": "イタリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        8,
+        38.8,
+        10,
+        41.4
+      ]
+    },
+    "sources": [
+      "ITA",
+      "ITA-PCGN"
+    ],
+    "note_ja": "イタリア語との地域的な併記。谷・集落によって言語が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 94,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      9.10119,
+      40.07305
+    ],
+    "bbox": [
+      8.1338,
+      38.86433,
+      9.82643,
+      41.26264
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "ita-catalan",
+    "iso3": "ITA",
+    "country_ja": "イタリア",
+    "area_ja": "サルデーニャ島北西岸（アルゲーロ）",
+    "languages": [
+      "ca"
+    ],
+    "group": "イタリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        8.32,
+        40.56
+      ]
+    },
+    "sources": [
+      "ITA",
+      "ITA-PCGN"
+    ],
+    "note_ja": "イタリア語との地域的な併記。谷・集落によって言語が異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 95,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      8.32,
+      40.56
+    ],
+    "bbox": [
+      8.32,
+      40.56,
+      8.32,
+      40.56
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "pol-base",
+    "iso3": "POL",
+    "country_ja": "ポーランド",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "pl"
+    ],
+    "group": "ポーランド",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 96,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      19.15831,
+      51.92912
+    ],
+    "bbox": [
+      14.12392,
+      48.99401,
+      24.14316,
+      54.83832
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "pol-kashubian",
+    "iso3": "POL",
+    "country_ja": "ポーランド",
+    "area_ja": "北部（グダニスクの西）",
+    "languages": [
+      "csb"
+    ],
+    "group": "ポーランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        17.3,
+        53.7,
+        18.7,
+        54.9
+      ]
+    },
+    "sources": [
+      "POL-MIN"
+    ],
+    "note_ja": "公認の追加地名がある自治体の位置。塗色内の全自治体に設置されるわけではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 97,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      18.0,
+      54.0495
+    ],
+    "bbox": [
+      17.3,
+      53.7,
+      18.7,
+      54.83832
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "pol-german",
+    "iso3": "POL",
+    "country_ja": "ポーランド",
+    "area_ja": "南西部（オポーレ周辺）",
+    "languages": [
+      "de"
+    ],
+    "group": "ポーランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Opole"
+      ]
+    },
+    "sources": [
+      "POL-MIN"
+    ],
+    "note_ja": "公認の追加地名がある自治体の位置。塗色内の全自治体に設置されるわけではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 98,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      17.81533,
+      50.56283
+    ],
+    "bbox": [
+      16.94825,
+      49.97364,
+      18.65564,
+      51.1514
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "pol-belarusian",
+    "iso3": "POL",
+    "country_ja": "ポーランド",
+    "area_ja": "東端・ベラルーシ国境",
+    "languages": [
+      "be"
+    ],
+    "group": "ポーランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        22.8,
+        52.4,
+        24,
+        53.5
+      ]
+    },
+    "sources": [
+      "POL-MIN2"
+    ],
+    "note_ja": "公認の追加地名がある自治体の位置。塗色内の全自治体に設置されるわけではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 99,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      23.35476,
+      52.93703
+    ],
+    "bbox": [
+      22.8,
+      52.4,
+      23.9225,
+      53.5
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "pol-lithuanian",
+    "iso3": "POL",
+    "country_ja": "ポーランド",
+    "area_ja": "北東端・リトアニア国境",
+    "languages": [
+      "lt"
+    ],
+    "group": "ポーランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        23.18,
+        54.25
+      ]
+    },
+    "sources": [
+      "POL-MIN2"
+    ],
+    "note_ja": "公認の追加地名がある自治体の位置。塗色内の全自治体に設置されるわけではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 100,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      23.18,
+      54.25
+    ],
+    "bbox": [
+      23.18,
+      54.25,
+      23.18,
+      54.25
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "pol-lemko",
+    "iso3": "POL",
+    "country_ja": "ポーランド",
+    "area_ja": "南東の山地・スロバキア国境",
+    "languages": [
+      "rue"
+    ],
+    "group": "ポーランド",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        20.7,
+        49.2,
+        22,
+        49.75
+      ]
+    },
+    "sources": [
+      "POL-MIN"
+    ],
+    "note_ja": "公認の追加地名がある自治体の位置。塗色内の全自治体に設置されるわけではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 101,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      21.35,
+      49.59972
+    ],
+    "bbox": [
+      20.7,
+      49.25446,
+      22.0,
+      49.75
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "cze-base",
+    "iso3": "CZE",
+    "country_ja": "チェコ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "cs"
+    ],
+    "group": "中央ヨーロッパ",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CZE"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 102,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      15.51441,
+      49.79224
+    ],
+    "bbox": [
+      12.07614,
+      48.55792,
+      18.8332,
+      51.0372
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "svk-base",
+    "iso3": "SVK",
+    "country_ja": "スロバキア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "sk"
+    ],
+    "group": "中央ヨーロッパ",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "SVK"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 103,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      19.61576,
+      48.65242
+    ],
+    "bbox": [
+      16.84448,
+      47.75001,
+      22.53964,
+      49.60178
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "hun-base",
+    "iso3": "HUN",
+    "country_ja": "ハンガリー",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "hu"
+    ],
+    "group": "中央ヨーロッパ",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 104,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      19.12292,
+      47.15924
+    ],
+    "bbox": [
+      16.09404,
+      45.74181,
+      22.8776,
+      48.56923
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "cze-polish",
+    "iso3": "CZE",
+    "country_ja": "チェコ",
+    "area_ja": "東端（チェスキー・チェシーン周辺）",
+    "languages": [
+      "pl"
+    ],
+    "group": "中央ヨーロッパ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        18.63,
+        49.75
+      ]
+    },
+    "sources": [
+      "CZE",
+      "CHARTER"
+    ],
+    "note_ja": "ポーランド語との二言語地名。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 105,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      18.63,
+      49.75
+    ],
+    "bbox": [
+      18.63,
+      49.75,
+      18.63,
+      49.75
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "svk-hungarian",
+    "iso3": "SVK",
+    "country_ja": "スロバキア",
+    "area_ja": "南部・ハンガリー国境沿い",
+    "languages": [
+      "hu"
+    ],
+    "group": "中央ヨーロッパ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        17,
+        47.65,
+        22.2,
+        48.6
+      ]
+    },
+    "sources": [
+      "SVK",
+      "CHARTER"
+    ],
+    "note_ja": "南部のハンガリー語使用自治体。北寄りにかかる塗色は概略。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 106,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      18.25237,
+      48.17741
+    ],
+    "bbox": [
+      17.0,
+      47.75001,
+      22.18528,
+      48.6
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "svk-rusyn",
+    "iso3": "SVK",
+    "country_ja": "スロバキア",
+    "area_ja": "北東端（ポーランド・ウクライナ近く）",
+    "languages": [
+      "rue"
+    ],
+    "group": "中央ヨーロッパ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        21,
+        48.85,
+        22.65,
+        49.5
+      ]
+    },
+    "sources": [
+      "SVK",
+      "CHARTER"
+    ],
+    "note_ja": "一部自治体の少数言語地名。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 107,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      21.60347,
+      49.156
+    ],
+    "bbox": [
+      21.0,
+      48.85,
+      22.53964,
+      49.44944
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "hun-german",
+    "iso3": "HUN",
+    "country_ja": "ハンガリー",
+    "area_ja": "南西部（ペーチ周辺の集落）",
+    "languages": [
+      "de"
+    ],
+    "group": "中央ヨーロッパ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        18.23,
+        46.08
+      ]
+    },
+    "sources": [
+      "HUN-SIGNS",
+      "CHARTER"
+    ],
+    "note_ja": "ドイツ語は他地方の集落にもある。点は代表的な地域を示す。",
+    "status_ja": "少数言語の自治体・文化表示",
+    "statistics": [],
+    "number": 108,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      18.23,
+      46.08
+    ],
+    "bbox": [
+      18.23,
+      46.08,
+      18.23,
+      46.08
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "hun-slovak",
+    "iso3": "HUN",
+    "country_ja": "ハンガリー",
+    "area_ja": "南東部（ベーケーシュチャバ周辺）",
+    "languages": [
+      "sk"
+    ],
+    "group": "中央ヨーロッパ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        21.09,
+        46.68
+      ]
+    },
+    "sources": [
+      "HUN-SIGNS",
+      "CHARTER"
+    ],
+    "note_ja": "",
+    "status_ja": "少数言語の自治体・文化表示",
+    "statistics": [],
+    "number": 109,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      21.09,
+      46.68
+    ],
+    "bbox": [
+      21.09,
+      46.68,
+      21.09,
+      46.68
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "svn-base",
+    "iso3": "SVN",
+    "country_ja": "スロベニア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "sl"
+    ],
+    "group": "西バルカン",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "SVN"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 110,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      14.61434,
+      46.14338
+    ],
+    "bbox": [
+      13.36526,
+      45.42364,
+      16.5153,
+      46.86396
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "hrv-base",
+    "iso3": "HRV",
+    "country_ja": "クロアチア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "hr"
+    ],
+    "group": "西バルカン",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CHARTER"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 111,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      15.31809,
+      44.74668
+    ],
+    "bbox": [
+      13.50709,
+      42.41633,
+      19.40784,
+      46.54698
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "bih-base",
+    "iso3": "BIH",
+    "country_ja": "ボスニア・ヘルツェゴビナ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "bs",
+      "hr",
+      "sr"
+    ],
+    "group": "西バルカン",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "BIH"
+    ],
+    "note_ja": "3言語の綴りは非常に近く、ラテン文字とキリル文字が併存する。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 112,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      17.95457,
+      43.89918
+    ],
+    "bbox": [
+      15.71607,
+      42.56477,
+      19.61144,
+      45.28452
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "svn-italian",
+    "iso3": "SVN",
+    "country_ja": "スロベニア",
+    "area_ja": "南西端の海岸（コペル・ピラン）",
+    "languages": [
+      "it"
+    ],
+    "group": "西バルカン",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Koper",
+        "Piran",
+        "Izola"
+      ]
+    },
+    "sources": [
+      "SVN"
+    ],
+    "note_ja": "",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 113,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      13.80024,
+      45.51142
+    ],
+    "bbox": [
+      13.56861,
+      45.42364,
+      13.98383,
+      45.60217
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "svn-hungarian",
+    "iso3": "SVN",
+    "country_ja": "スロベニア",
+    "area_ja": "北東端・ハンガリー国境",
+    "languages": [
+      "hu"
+    ],
+    "group": "西バルカン",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Lendava",
+        "Dobrovnik",
+        "Hodoš",
+        "Šalovci",
+        "Moravske Toplice"
+      ]
+    },
+    "sources": [
+      "SVN"
+    ],
+    "note_ja": "自治体の中の混住地域。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 114,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      16.26106,
+      46.73101
+    ],
+    "bbox": [
+      16.17563,
+      46.50171,
+      16.5153,
+      46.85991
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "hrv-italian",
+    "iso3": "HRV",
+    "country_ja": "クロアチア",
+    "area_ja": "北西の半島（イストラ）",
+    "languages": [
+      "it"
+    ],
+    "group": "西バルカン",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Istarska"
+      ]
+    },
+    "sources": [
+      "HRV-SIGNS",
+      "HRV-OP"
+    ],
+    "note_ja": "二言語自治体ではクロアチア語とイタリア語を併記。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 115,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      13.94181,
+      45.13987
+    ],
+    "bbox": [
+      13.50762,
+      44.77241,
+      14.23415,
+      45.51423
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "hrv-serbian",
+    "iso3": "HRV",
+    "country_ja": "クロアチア",
+    "area_ja": "東端（ドナウ川近くの一部自治体）",
+    "languages": [
+      "sr"
+    ],
+    "group": "西バルカン",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        18.95,
+        45.42
+      ]
+    },
+    "sources": [
+      "HRV-SIGNS",
+      "HRV-OP"
+    ],
+    "note_ja": "キリル文字の地名・公共施設表示がある自治体。設置状況に地域差。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 116,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      18.95,
+      45.42
+    ],
+    "bbox": [
+      18.95,
+      45.42,
+      18.95,
+      45.42
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "hrv-czech",
+    "iso3": "HRV",
+    "country_ja": "クロアチア",
+    "area_ja": "北部内陸（ダルヴァル周辺）",
+    "languages": [
+      "cs"
+    ],
+    "group": "西バルカン",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        17.23,
+        45.55
+      ]
+    },
+    "sources": [
+      "HRV-SIGNS"
+    ],
+    "note_ja": "周辺の一部集落・自治体。2024年の規定を含む2025年報告に基づく。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 117,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      17.23,
+      45.55
+    ],
+    "bbox": [
+      17.23,
+      45.55,
+      17.23,
+      45.55
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "srb-base",
+    "iso3": "SRB",
+    "country_ja": "セルビア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "sr",
+      "sr_Latn"
+    ],
+    "group": "セルビア・コソボ",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "SRB"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 118,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      21.00738,
+      44.20982
+    ],
+    "bbox": [
+      18.84498,
+      42.23495,
+      22.98457,
+      46.1731
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "xkx-base",
+    "iso3": "XKX",
+    "country_ja": "コソボ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "sq",
+      "sr"
+    ],
+    "group": "セルビア・コソボ",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "XKX"
+    ],
+    "note_ja": "国際的地位には立場の違いがあるため学習上の地域として別掲。セルビア語の実表示は自治体差。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 119,
+    "un_region_ja": "南ヨーロッパ（学習用の別掲）",
+    "anchor_lonlat": [
+      20.90308,
+      42.5877
+    ],
+    "bbox": [
+      20.02475,
+      41.84401,
+      21.77276,
+      43.26307
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "srb-vojvodina",
+    "iso3": "SRB",
+    "country_ja": "セルビア",
+    "area_ja": "北部（ヴォイヴォディナ）",
+    "languages": [
+      "hu",
+      "sk",
+      "ro",
+      "rsk",
+      "hr"
+    ],
+    "group": "セルビア・コソボ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Severno-Backi",
+        "Zapadno-Backi",
+        "Severno-Banatski",
+        "Južno-Backi",
+        "Srednje-Banatski",
+        "Južno-Banatski",
+        "Sremski"
+      ]
+    },
+    "sources": [
+      "SRB"
+    ],
+    "note_ja": "州の5つの追加公用語。実際の併記は言語集落・自治体ごとに異なる。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 120,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      19.94738,
+      45.40367
+    ],
+    "bbox": [
+      18.84498,
+      44.63178,
+      21.53629,
+      46.17195
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "srb-bosnian",
+    "iso3": "SRB",
+    "country_ja": "セルビア",
+    "area_ja": "南西部（ノヴィ・パザル周辺）",
+    "languages": [
+      "bs"
+    ],
+    "group": "セルビア・コソボ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        20.52,
+        43.14
+      ]
+    },
+    "sources": [
+      "SRB",
+      "CHARTER"
+    ],
+    "note_ja": "サンジャク地方の自治体で公的使用。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 121,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      20.52,
+      43.14
+    ],
+    "bbox": [
+      20.52,
+      43.14,
+      20.52,
+      43.14
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "srb-albanian",
+    "iso3": "SRB",
+    "country_ja": "セルビア",
+    "area_ja": "南端（プレシェヴォ周辺）",
+    "languages": [
+      "sq"
+    ],
+    "group": "セルビア・コソボ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        21.65,
+        42.31
+      ]
+    },
+    "sources": [
+      "SRB",
+      "CHARTER"
+    ],
+    "note_ja": "北マケドニア・コソボに近い一部自治体。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 122,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      21.65,
+      42.31
+    ],
+    "bbox": [
+      21.65,
+      42.31,
+      21.65,
+      42.31
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "xkx-turkish",
+    "iso3": "XKX",
+    "country_ja": "コソボ",
+    "area_ja": "南部（プリズレンなど）",
+    "languages": [
+      "tr",
+      "bs"
+    ],
+    "group": "セルビア・コソボ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        20.74,
+        42.21
+      ]
+    },
+    "sources": [
+      "XKX"
+    ],
+    "note_ja": "トルコ語などの自治体公用語。地域全体の主表示ではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 123,
+    "un_region_ja": "南ヨーロッパ（学習用の別掲）",
+    "anchor_lonlat": [
+      20.74,
+      42.21
+    ],
+    "bbox": [
+      20.74,
+      42.21,
+      20.74,
+      42.21
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "mne-base",
+    "iso3": "MNE",
+    "country_ja": "モンテネグロ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "cnr",
+      "cnr_Cyrl",
+      "sr",
+      "bs",
+      "hr",
+      "sq"
+    ],
+    "group": "バルカン南部",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "MNE"
+    ],
+    "note_ja": "モンテネグロ語が国の公用語。残る4言語は憲法上「公的使用」。使用地域・名称は重なる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 124,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      19.29773,
+      42.68803
+    ],
+    "bbox": [
+      18.43353,
+      41.85236,
+      20.35362,
+      43.54623
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "alb-base",
+    "iso3": "ALB",
+    "country_ja": "アルバニア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "sq"
+    ],
+    "group": "バルカン南部",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 125,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      20.00648,
+      41.14564
+    ],
+    "bbox": [
+      19.27203,
+      39.63701,
+      21.03668,
+      42.65481
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "mkd-base",
+    "iso3": "MKD",
+    "country_ja": "北マケドニア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "mk",
+      "sq"
+    ],
+    "group": "バルカン南部",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "MKD"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 126,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      21.7331,
+      41.59881
+    ],
+    "bbox": [
+      20.44416,
+      40.84939,
+      23.00958,
+      42.37033
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "mne-albanian",
+    "iso3": "MNE",
+    "country_ja": "モンテネグロ",
+    "area_ja": "南東端（ウルツィニ・トゥジ）",
+    "languages": [
+      "sq"
+    ],
+    "group": "バルカン南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        19.1,
+        41.8,
+        19.6,
+        42.5
+      ]
+    },
+    "sources": [
+      "MNE"
+    ],
+    "note_ja": "アルバニア国境近く。Ulcinj / Ulqinなどの地名。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 127,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      19.18925,
+      42.17792
+    ],
+    "bbox": [
+      19.1,
+      41.85236,
+      19.55273,
+      42.5
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "alb-greek",
+    "iso3": "ALB",
+    "country_ja": "アルバニア",
+    "area_ja": "南端・ギリシャ国境近く",
+    "languages": [
+      "el"
+    ],
+    "group": "バルカン南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        20.26,
+        39.88
+      ]
+    },
+    "sources": [
+      "ALB-SIGNS"
+    ],
+    "note_ja": "ギリシャ語少数言語地域の一部表示。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 128,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      20.26,
+      39.88
+    ],
+    "bbox": [
+      20.26,
+      39.88,
+      20.26,
+      39.88
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "mkd-albanian",
+    "iso3": "MKD",
+    "country_ja": "北マケドニア",
+    "area_ja": "西部・北西部（テトヴォなど）",
+    "languages": [
+      "sq"
+    ],
+    "group": "バルカン南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        20.45,
+        40.85,
+        21.45,
+        42.4
+      ]
+    },
+    "sources": [
+      "MKD"
+    ],
+    "note_ja": "アルバニア語の併記が位置の補助。国の公的使用の範囲はこれより広い。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "mkd-sq"
+    ],
+    "number": 129,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      20.95,
+      41.52996
+    ],
+    "bbox": [
+      20.45,
+      40.85,
+      21.45,
+      42.24688
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "mkd-turkish",
+    "iso3": "MKD",
+    "country_ja": "北マケドニア",
+    "area_ja": "中西部の一部自治体",
+    "languages": [
+      "tr"
+    ],
+    "group": "バルカン南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        21,
+        41.51
+      ]
+    },
+    "sources": [
+      "MKD",
+      "CHARTER"
+    ],
+    "note_ja": "自治体公用語の一つ。マケドニア語との併記。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 130,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      21.0,
+      41.51
+    ],
+    "bbox": [
+      21.0,
+      41.51,
+      21.0,
+      41.51
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "mkd-romani",
+    "iso3": "MKD",
+    "country_ja": "北マケドニア",
+    "area_ja": "北部・首都スコピエの一地区",
+    "languages": [
+      "rom"
+    ],
+    "group": "バルカン南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        21.42,
+        42.04
+      ]
+    },
+    "sources": [
+      "MKD",
+      "CHARTER"
+    ],
+    "note_ja": "シュト・オリザリ地区の地域公用語。全国の道路標識の言語ではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 131,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      21.42,
+      42.04
+    ],
+    "bbox": [
+      21.42,
+      42.04,
+      21.42,
+      42.04
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "mkd-serbian",
+    "iso3": "MKD",
+    "country_ja": "北マケドニア",
+    "area_ja": "北端（首都スコピエの北側）",
+    "languages": [
+      "sr"
+    ],
+    "group": "バルカン南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        21.3844,
+        42.1019
+      ]
+    },
+    "sources": [
+      "MKD"
+    ],
+    "note_ja": "チュチェル・サンデヴォの自治体公用語。セルビア語の字形があっても国境の北側とは限らない。",
+    "status_ja": "自治体公用語（表示の量は未測定）",
+    "statistics": [],
+    "number": 132,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      21.3844,
+      42.1019
+    ],
+    "bbox": [
+      21.3844,
+      42.1019,
+      21.3844,
+      42.1019
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "mkd-aromanian",
+    "iso3": "MKD",
+    "country_ja": "北マケドニア",
+    "area_ja": "中西部内陸（クルシェヴォ周辺）",
+    "languages": [
+      "rup"
+    ],
+    "group": "バルカン南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        21.2483,
+        41.3694
+      ]
+    },
+    "sources": [
+      "MKD"
+    ],
+    "note_ja": "クルシェヴォの自治体公用語。Crushuvaはアルーマニア語の地名形。地図の点は自治体の代表位置。",
+    "status_ja": "自治体公用語（表示の量は未測定）",
+    "statistics": [],
+    "number": 133,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      21.2483,
+      41.3694
+    ],
+    "bbox": [
+      21.2483,
+      41.3694,
+      21.2483,
+      41.3694
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "alb-macedonian",
+    "iso3": "ALB",
+    "country_ja": "アルバニア",
+    "area_ja": "南東端（プレスパ湖畔）",
+    "languages": [
+      "mk"
+    ],
+    "group": "バルカン南部",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        20.91,
+        40.79
+      ]
+    },
+    "sources": [
+      "ALB-SIGNS"
+    ],
+    "note_ja": "プステツなどのマケドニア語との二言語表示。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 134,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      20.91,
+      40.79
+    ],
+    "bbox": [
+      20.91,
+      40.79,
+      20.91,
+      40.79
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "grc-base",
+    "iso3": "GRC",
+    "country_ja": "ギリシャ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "el"
+    ],
+    "group": "ギリシャ・キプロス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 135,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      21.96854,
+      39.07111
+    ],
+    "bbox": [
+      19.62647,
+      34.81501,
+      28.23976,
+      41.74968
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "mlt-base",
+    "iso3": "MLT",
+    "country_ja": "マルタ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "mt",
+      "en"
+    ],
+    "group": "ギリシャ・キプロス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "EU"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 136,
+    "un_region_ja": "南ヨーロッパ",
+    "anchor_lonlat": [
+      14.41513,
+      35.9252
+    ],
+    "bbox": [
+      14.1836,
+      35.80121,
+      14.56715,
+      36.07559
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "cyp-south",
+    "iso3": "CYP",
+    "country_ja": "キプロス",
+    "area_ja": "島の南部（共和国政府管理地域）",
+    "languages": [
+      "el"
+    ],
+    "group": "ギリシャ・キプロス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "country",
+      "adm0": [
+        "CYP"
+      ]
+    },
+    "sources": [
+      "CYP",
+      "CYP-PIO"
+    ],
+    "note_ja": "ギリシャ語が主表示。英語やラテン文字への転写も併用される。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 137,
+    "un_region_ja": "西アジア",
+    "anchor_lonlat": [
+      32.98765,
+      34.90532
+    ],
+    "bbox": [
+      32.27174,
+      34.62502,
+      34.09913,
+      35.18708
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "cyp-north",
+    "iso3": "CYP",
+    "country_ja": "キプロス",
+    "area_ja": "島の北部（事実上別の行政下）",
+    "languages": [
+      "tr"
+    ],
+    "group": "ギリシャ・キプロス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "country",
+      "adm0": [
+        "CYN"
+      ]
+    },
+    "sources": [
+      "CYP",
+      "CYP-PIO"
+    ],
+    "note_ja": "トルコ語が主表示。キプロスの憲法上の公用語はギリシャ語とトルコ語。境界はNatural Earthの表示区分。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 138,
+    "un_region_ja": "西アジア",
+    "anchor_lonlat": [
+      33.8088,
+      35.34382
+    ],
+    "bbox": [
+      32.60274,
+      35.00272,
+      34.59254,
+      35.69196
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "bgr-base",
+    "iso3": "BGR",
+    "country_ja": "ブルガリア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "bg"
+    ],
+    "group": "黒海周辺",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 139,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      25.1718,
+      42.7737
+    ],
+    "bbox": [
+      22.34502,
+      41.2409,
+      28.60353,
+      44.22843
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "rou-base",
+    "iso3": "ROU",
+    "country_ja": "ルーマニア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "ro"
+    ],
+    "group": "黒海周辺",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "ROU"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 140,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      24.26879,
+      45.94754
+    ],
+    "bbox": [
+      20.24283,
+      43.65005,
+      29.69956,
+      48.27483
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "mda-base",
+    "iso3": "MDA",
+    "country_ja": "モルドバ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "ro"
+    ],
+    "group": "黒海周辺",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "MDA"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 141,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      28.81767,
+      47.00225
+    ],
+    "bbox": [
+      26.61789,
+      45.46177,
+      30.13158,
+      48.48412
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "rou-hungarian-east",
+    "iso3": "ROU",
+    "country_ja": "ルーマニア",
+    "area_ja": "中央の東寄り（セーケイ地方）",
+    "languages": [
+      "hu"
+    ],
+    "group": "黒海周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Harghita",
+        "Covasna",
+        "Mures"
+      ]
+    },
+    "sources": [
+      "ROU"
+    ],
+    "note_ja": "地域の中でも市町村差。ルーマニア語とハンガリー語の併記が補助。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 142,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      25.12191,
+      46.34506
+    ],
+    "bbox": [
+      23.9717,
+      45.5644,
+      26.48482,
+      47.13973
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rou-hungarian-west",
+    "iso3": "ROU",
+    "country_ja": "ルーマニア",
+    "area_ja": "北西部・ハンガリー国境近く",
+    "languages": [
+      "hu"
+    ],
+    "group": "黒海周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Satu Mare",
+        "Bihor",
+        "Salaj"
+      ]
+    },
+    "sources": [
+      "ROU"
+    ],
+    "note_ja": "自治体ごとに併記。中央東寄りの集住地とは分けて覚える。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 143,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      22.83232,
+      47.25628
+    ],
+    "bbox": [
+      21.42354,
+      46.36652,
+      23.82876,
+      48.09813
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rou-german",
+    "iso3": "ROU",
+    "country_ja": "ルーマニア",
+    "area_ja": "中央南部（シビウ・ブラショヴ周辺）",
+    "languages": [
+      "de"
+    ],
+    "group": "黒海周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        24.15,
+        45.8
+      ]
+    },
+    "sources": [
+      "ROU",
+      "CHARTER"
+    ],
+    "note_ja": "ドイツ語の旧地名・文化案内など。現住民の多数言語ではない。",
+    "status_ja": "少数言語・歴史的地名の表示",
+    "statistics": [],
+    "number": 144,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      24.15,
+      45.8
+    ],
+    "bbox": [
+      24.15,
+      45.8,
+      24.15,
+      45.8
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "mda-gagauz",
+    "iso3": "MDA",
+    "country_ja": "モルドバ",
+    "area_ja": "南部（コムラト周辺）",
+    "languages": [
+      "gag",
+      "ru"
+    ],
+    "group": "黒海周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        28.4,
+        45.7,
+        29.1,
+        46.6
+      ]
+    },
+    "sources": [
+      "MDA",
+      "MDA-REG"
+    ],
+    "note_ja": "ガガウズ自治地域は飛び地を含む。地図は南部の概略でロシア語表示も多い。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [
+      "mda-gag-reg"
+    ],
+    "number": 145,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      28.68854,
+      46.13595
+    ],
+    "bbox": [
+      28.4,
+      45.7,
+      29.1,
+      46.6
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "mda-bulgarian",
+    "iso3": "MDA",
+    "country_ja": "モルドバ",
+    "area_ja": "南端（タラクリア周辺）",
+    "languages": [
+      "bg"
+    ],
+    "group": "黒海周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        28.66,
+        45.9
+      ]
+    },
+    "sources": [
+      "MDA",
+      "CHARTER"
+    ],
+    "note_ja": "",
+    "status_ja": "少数言語の自治体・文化表示",
+    "statistics": [],
+    "number": 146,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      28.66,
+      45.9
+    ],
+    "bbox": [
+      28.66,
+      45.9,
+      28.66,
+      45.9
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "mda-transnistria",
+    "iso3": "MDA",
+    "country_ja": "モルドバ",
+    "area_ja": "東端・ドニエストル川東岸など",
+    "languages": [
+      "ru",
+      "uk"
+    ],
+    "group": "黒海周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        29,
+        46.6,
+        30.2,
+        48.2
+      ]
+    },
+    "sources": [
+      "MDA"
+    ],
+    "note_ja": "沿ドニエストルの統治・表示は別事情。ロシア語が目立ち、ウクライナ語にも公的地位。キリル表記のモルドバ語は別行。",
+    "status_ja": "事実上の行政・地域表示",
+    "statistics": [],
+    "number": 147,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      29.19971,
+      47.28663
+    ],
+    "bbox": [
+      29.0,
+      46.6,
+      29.95112,
+      47.97599
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "mda-moldovan-cyrillic",
+    "iso3": "MDA",
+    "country_ja": "モルドバ",
+    "area_ja": "東端（沿ドニエストル）",
+    "languages": [
+      "ro_Cyrl"
+    ],
+    "group": "黒海周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        29.64,
+        46.84
+      ]
+    },
+    "sources": [
+      "MDA"
+    ],
+    "note_ja": "キリル文字のモルドバ語。共和国政府側のルーマニア語ラテン表記と分ける。",
+    "status_ja": "事実上の地域公用語の表記",
+    "statistics": [],
+    "number": 148,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      29.64,
+      46.84
+    ],
+    "bbox": [
+      29.64,
+      46.84,
+      29.64,
+      46.84
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "ukr-base",
+    "iso3": "UKR",
+    "country_ja": "ウクライナ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "uk"
+    ],
+    "group": "ウクライナ・ベラルーシ",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "UKR"
+    ],
+    "note_ja": "戦争・占領・改称・撮影年により表示が変化。旧画像のロシア語だけで現在の国を判定しない。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 149,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      33.90489,
+      48.37115
+    ],
+    "bbox": [
+      22.13284,
+      44.38105,
+      40.15954,
+      52.3673
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "blr-base",
+    "iso3": "BLR",
+    "country_ja": "ベラルーシ",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "be",
+      "ru"
+    ],
+    "group": "ウクライナ・ベラルーシ",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 150,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      28.02015,
+      53.69554
+    ],
+    "bbox": [
+      23.16565,
+      51.2368,
+      32.71953,
+      56.15681
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "ukr-hungarian",
+    "iso3": "UKR",
+    "country_ja": "ウクライナ",
+    "area_ja": "西端（ハンガリー国境近く）",
+    "languages": [
+      "hu"
+    ],
+    "group": "ウクライナ・ベラルーシ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        22.64,
+        48.21
+      ]
+    },
+    "sources": [
+      "UKR",
+      "CHARTER"
+    ],
+    "note_ja": "ザカルパッチャ南西側の一部。資料は戦前の地域状況を含む。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 151,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      22.64,
+      48.21
+    ],
+    "bbox": [
+      22.64,
+      48.21,
+      22.64,
+      48.21
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "ukr-romanian",
+    "iso3": "UKR",
+    "country_ja": "ウクライナ",
+    "area_ja": "南西部（チェルニウツィの南など）",
+    "languages": [
+      "ro"
+    ],
+    "group": "ウクライナ・ベラルーシ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "point",
+      "coordinates": [
+        25.92,
+        48.15
+      ]
+    },
+    "sources": [
+      "UKR",
+      "CHARTER"
+    ],
+    "note_ja": "ルーマニア国境近くの一部。資料・画像の撮影年を確認。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 152,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      25.92,
+      48.15
+    ],
+    "bbox": [
+      25.92,
+      48.15,
+      25.92,
+      48.15
+    ],
+    "geometry_note_ja": "代表地点。周辺全体を意味しない"
+  },
+  {
+    "id": "ukr-russian",
+    "iso3": "UKR",
+    "country_ja": "ウクライナ",
+    "area_ja": "東部・南部・クリミアなどの旧画像",
+    "languages": [
+      "ru"
+    ],
+    "group": "ウクライナ・ベラルーシ",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        33,
+        44.3,
+        40.3,
+        50.4
+      ]
+    },
+    "sources": [
+      "UKR",
+      "RUS"
+    ],
+    "note_ja": "ロシア語は旧画像や現在の一部表示にもある。言語と国境を結び付けない。地図の範囲は便宜的。",
+    "status_ja": "歴史的・事実上の表示（撮影年依存）",
+    "statistics": [],
+    "number": 153,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      35.61167,
+      47.34711
+    ],
+    "bbox": [
+      33.0,
+      44.38105,
+      40.15954,
+      50.4
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "arm-base",
+    "iso3": "ARM",
+    "country_ja": "アルメニア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "hy"
+    ],
+    "group": "南コーカサス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "CLDR-T"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 154,
+    "un_region_ja": "西アジア",
+    "anchor_lonlat": [
+      44.84023,
+      40.07678
+    ],
+    "bbox": [
+      43.44043,
+      38.8637,
+      46.60261,
+      41.29045
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "aze-base",
+    "iso3": "AZE",
+    "country_ja": "アゼルバイジャン",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "az"
+    ],
+    "group": "南コーカサス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "AZE"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 155,
+    "un_region_ja": "西アジア",
+    "anchor_lonlat": [
+      47.72856,
+      40.14785
+    ],
+    "bbox": [
+      44.77456,
+      38.39598,
+      50.61891,
+      41.89044
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "geo-base",
+    "iso3": "GEO",
+    "country_ja": "ジョージア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "ka"
+    ],
+    "group": "南コーカサス",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "GEO"
+    ],
+    "note_ja": "観光地の英語訳・ラテン文字への転写は他国でも現れる。固有の文字と短い語を組み合わせる。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 156,
+    "un_region_ja": "西アジア",
+    "anchor_lonlat": [
+      43.63581,
+      42.28696
+    ],
+    "bbox": [
+      39.98598,
+      41.04411,
+      46.6948,
+      43.57584
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "geo-abkhazia",
+    "iso3": "GEO",
+    "country_ja": "ジョージア",
+    "area_ja": "北西部・黒海沿岸（アブハジア）",
+    "languages": [
+      "ab",
+      "ru"
+    ],
+    "group": "南コーカサス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Abkhazia"
+      ]
+    },
+    "sources": [
+      "GEO",
+      "GEO-LAW"
+    ],
+    "note_ja": "アブハズ語の法的位置と、事実上の行政・表示状況を分ける。ジョージア文字だけではない。",
+    "status_ja": "地域言語の地名・公共表示",
+    "statistics": [],
+    "number": 157,
+    "un_region_ja": "西アジア",
+    "anchor_lonlat": [
+      41.45162,
+      43.00343
+    ],
+    "bbox": [
+      39.98598,
+      42.40646,
+      42.15323,
+      43.57576
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "geo-ossetia",
+    "iso3": "GEO",
+    "country_ja": "ジョージア",
+    "area_ja": "北寄りの中央山地（南オセチア）",
+    "languages": [
+      "os",
+      "ru"
+    ],
+    "group": "南コーカサス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "bbox",
+      "bounds": [
+        43.7,
+        42,
+        44.7,
+        42.8
+      ]
+    },
+    "sources": [
+      "GEO"
+    ],
+    "note_ja": "塗色は位置の概略。行政上・国際的な地位の主張ではない。",
+    "status_ja": "事実上の地域公用語・表示",
+    "statistics": [],
+    "number": 158,
+    "un_region_ja": "西アジア",
+    "anchor_lonlat": [
+      44.2,
+      42.27611
+    ],
+    "bbox": [
+      43.7,
+      42.0,
+      44.7,
+      42.77084
+    ],
+    "geometry_note_ja": "国の外形で切り取った概略範囲"
+  },
+  {
+    "id": "rus-base",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "全域（基本の表示）",
+    "languages": [
+      "ru"
+    ],
+    "group": "ロシア全域",
+    "kind": "national",
+    "geometry_spec": {
+      "type": "country"
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "ロシア語は全域。アジア側と地域公用語も後半の拡大図に収録。",
+    "status_ja": "全国の公用語・主要公共表示",
+    "statistics": [],
+    "number": 159,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      88.3972,
+      59.46427
+    ],
+    "bbox": [
+      -180.0,
+      41.19268,
+      180.0,
+      81.85871
+    ],
+    "geometry_note_ja": "国・地域の外形"
+  },
+  {
+    "id": "rus-tatar",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "西部内陸（カザン周辺）",
+    "languages": [
+      "tt"
+    ],
+    "group": "ロシア・ヴォルガ川周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Tatarstan"
+      ]
+    },
+    "sources": [
+      "RUS",
+      "RUS-SIGNS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。 2018年調査で街路名・公共施設への併記を確認。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 160,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      50.72148,
+      55.32831
+    ],
+    "bbox": [
+      47.2419,
+      53.97019,
+      54.23093,
+      56.6761
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-bashkir",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "西部内陸（ウファ周辺）",
+    "languages": [
+      "ba"
+    ],
+    "group": "ロシア・ヴォルガ川周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Bashkortostan"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 161,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      56.33564,
+      54.02518
+    ],
+    "bbox": [
+      53.14108,
+      51.5721,
+      59.97425,
+      56.53841
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-chuvash",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "西部内陸（カザンの西）",
+    "languages": [
+      "cv"
+    ],
+    "group": "ロシア・ヴォルガ川周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Chuvash"
+      ]
+    },
+    "sources": [
+      "RUS",
+      "RUS-SIGNS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。 2018年調査ではチェボクサルの街路名併記。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 162,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      47.1459,
+      55.47553
+    ],
+    "bbox": [
+      45.92012,
+      54.63026,
+      48.41237,
+      56.33517
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-mari",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "西部内陸（カザンの北西）",
+    "languages": [
+      "mhr",
+      "mrj"
+    ],
+    "group": "ロシア・ヴォルガ川周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Mariy-El"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 163,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      47.91879,
+      56.57692
+    ],
+    "bbox": [
+      45.62867,
+      55.82936,
+      50.19759,
+      57.33012
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-udmurt",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "西部内陸（カザンの北東）",
+    "languages": [
+      "udm"
+    ],
+    "group": "ロシア・ヴォルガ川周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Udmurt"
+      ]
+    },
+    "sources": [
+      "RUS",
+      "RUS-SIGNS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。 2018年調査では一部道路・公共表示に使用。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 164,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      52.75688,
+      57.17924
+    ],
+    "bbox": [
+      51.11557,
+      55.85827,
+      54.39981,
+      58.54382
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-mordovia",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "西部内陸（モスクワの東南東）",
+    "languages": [
+      "myv",
+      "mdf"
+    ],
+    "group": "ロシア・ヴォルガ川周辺",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Mordovia"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 165,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      44.56785,
+      54.42074
+    ],
+    "bbox": [
+      42.18361,
+      53.66135,
+      46.74178,
+      55.17676
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-komi",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "北西部内陸（ウラル山脈の西）",
+    "languages": [
+      "kv"
+    ],
+    "group": "ロシア・北西部とカスピ海",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Komi"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 166,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      53.10183,
+      63.80447
+    ],
+    "bbox": [
+      45.42713,
+      59.20884,
+      66.20591,
+      68.43045
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-kalmyk",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南西部（カスピ海北西）",
+    "languages": [
+      "xal"
+    ],
+    "group": "ロシア・北西部とカスピ海",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Kalmyk"
+      ]
+    },
+    "sources": [
+      "RUS",
+      "RUS-SIGNS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。 2018年調査では街路名より民間の表示が中心。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 167,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      45.43546,
+      46.50392
+    ],
+    "bbox": [
+      41.6471,
+      44.75187,
+      47.53826,
+      48.25819
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-adyghe",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南西端（黒海の北東側）",
+    "languages": [
+      "ady"
+    ],
+    "group": "ロシア・北コーカサス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Adygey"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 168,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      40.14044,
+      44.47355
+    ],
+    "bbox": [
+      38.67292,
+      43.75493,
+      40.75413,
+      45.19352
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-karachay",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南西端（黒海とカスピ海の間・西寄り）",
+    "languages": [
+      "krc",
+      "kbd",
+      "abq",
+      "nog"
+    ],
+    "group": "ロシア・北コーカサス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Karachay-Cherkess"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 169,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      41.70665,
+      43.82682
+    ],
+    "bbox": [
+      40.69046,
+      43.18057,
+      42.68321,
+      44.49072
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-kabardin",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南西端（コーカサス山脈の中央）",
+    "languages": [
+      "kbd",
+      "krc"
+    ],
+    "group": "ロシア・北コーカサス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Kabardin-Balkar"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 170,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      43.4197,
+      43.46076
+    ],
+    "bbox": [
+      42.36256,
+      42.88957,
+      44.43308,
+      43.9952
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-ossetian",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南西端（ジョージア北隣）",
+    "languages": [
+      "os"
+    ],
+    "group": "ロシア・北コーカサス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "North Ossetia"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 171,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      44.27179,
+      43.19101
+    ],
+    "bbox": [
+      43.38762,
+      42.55221,
+      44.94437,
+      43.83071
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-ingush",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南西端（北オセチアの東隣）",
+    "languages": [
+      "inh"
+    ],
+    "group": "ロシア・北コーカサス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Ingush"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 172,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      45.00433,
+      43.11965
+    ],
+    "bbox": [
+      44.49778,
+      42.60965,
+      45.18022,
+      43.61853
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-chechen",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南西端（イングーシの東隣）",
+    "languages": [
+      "ce"
+    ],
+    "group": "ロシア・北コーカサス",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Chechnya"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 173,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      45.76471,
+      43.2615
+    ],
+    "bbox": [
+      44.83854,
+      42.47065,
+      46.67553,
+      44.01519
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-dagestan",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南西端（カスピ海西岸・ダゲスタン）",
+    "languages": [
+      "av",
+      "dar",
+      "kum",
+      "lez",
+      "lak",
+      "tab",
+      "nog",
+      "ce",
+      "az_Cyrl",
+      "agx",
+      "rut",
+      "jdt",
+      "tkr"
+    ],
+    "group": "ロシア・ダゲスタン",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Dagestan"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。 言語ごとの使用集落は異なる。全13言語が同じ看板に並ぶという意味ではない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 174,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      46.93739,
+      43.09689
+    ],
+    "bbox": [
+      45.10498,
+      41.19268,
+      48.57895,
+      45.00051
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-altai",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南部（カザフスタン・モンゴルの間）",
+    "languages": [
+      "alt"
+    ],
+    "group": "ロシア・南シベリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Gorno-Altay"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 175,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      86.96118,
+      50.8715
+    ],
+    "bbox": [
+      84.00493,
+      49.07101,
+      89.86845,
+      52.66779
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-khakas",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南部（クラスノヤルスクの南）",
+    "languages": [
+      "kjh"
+    ],
+    "group": "ロシア・南シベリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Khakass"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 176,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      90.36518,
+      53.3763
+    ],
+    "bbox": [
+      87.83911,
+      51.31635,
+      91.84641,
+      55.44559
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-tuva",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南部・モンゴル北隣（キジル周辺）",
+    "languages": [
+      "tyv"
+    ],
+    "group": "ロシア・南シベリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Tuva"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 177,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      94.14606,
+      51.72701
+    ],
+    "bbox": [
+      88.7357,
+      49.72835,
+      99.24979,
+      53.72907
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-buryat",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "南東部（バイカル湖東側）",
+    "languages": [
+      "bua"
+    ],
+    "group": "ロシア・南シベリア",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Buryat"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 178,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      111.06947,
+      53.58053
+    ],
+    "bbox": [
+      98.62926,
+      49.96735,
+      116.92747,
+      57.24328
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  },
+  {
+    "id": "rus-sakha",
+    "iso3": "RUS",
+    "country_ja": "ロシア",
+    "area_ja": "東部の広い内陸（ヤクーツク周辺）",
+    "languages": [
+      "sah"
+    ],
+    "group": "ロシア・極東",
+    "kind": "regional",
+    "geometry_spec": {
+      "type": "admin1",
+      "names": [
+        "Sakha (Yakutia)"
+      ]
+    },
+    "sources": [
+      "RUS"
+    ],
+    "note_ja": "共和国の公用語を収録。塗色は共和国の外形で、話者の密度・看板の頻度・言語の排他的境界を示さない。",
+    "status_ja": "共和国公用語（実際の表示は局所・地域差）",
+    "statistics": [],
+    "number": 179,
+    "un_region_ja": "東ヨーロッパ",
+    "anchor_lonlat": [
+      129.26749,
+      64.75333
+    ],
+    "bbox": [
+      105.54015,
+      55.46519,
+      162.84694,
+      77.1258
+    ],
+    "geometry_note_ja": "行政区を使った位置の概略"
+  }
+]

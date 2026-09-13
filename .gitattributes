@@ -2,3 +2,6 @@
 data/*.geojson linguist-generated=true
 data/*regions.json linguist-generated=true
 output/* linguist-generated=true
+topics/*/data/*.json linguist-generated=true
+topics/*/data/*.geojson linguist-generated=true
+topics/*/output/* linguist-generated=true

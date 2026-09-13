@@ -1,0 +1,601 @@
+{
+  "release": "48.2",
+  "commit": "fc1fd058cc6f50544a450a3b15a4bba0e0c1e653",
+  "locales": {
+    "en": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/en.xml",
+      "alias": null,
+      "main": "[a b c d e f g h i j k l m n o p q r s t u v w x y z]",
+      "auxiliary": "[áàăâåäãā æ ç éèĕêëē íìĭîïī ñ óòŏôöøō œ úùŭûüū ÿ]",
+      "conjunction": "{0}, and {1}"
+    },
+    "cy": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cy.xml",
+      "alias": null,
+      "main": "[aáàâä b c {ch} d {dd} eéèêë f {ff} g {ng} h iíìîï j l {ll} m n oóòôö p {ph} r {rh} s t {th} uúùûü wẃẁŵẅ yýỳŷÿ]",
+      "auxiliary": "[ăåãā æ ç ĕē ĭī k ñ ŏøō œ q ŭū v x z]",
+      "conjunction": "{0}, a(c) {1}"
+    },
+    "ga": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ga.xml",
+      "alias": null,
+      "main": "[aá b c d eé f g h ií l m n oó p r s t uú]",
+      "auxiliary": "[å ḃ ċ ḋ ḟ ġ j k ṁ ṗ q ṡ ṫ v w x y z]",
+      "conjunction": "{0} agus {1}"
+    },
+    "gd": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gd.xml",
+      "alias": null,
+      "main": "[aà b c d eè f g h iì l m n oò p r s t uù]",
+      "auxiliary": "[áăâåäãā æ ċç ḋ éĕêëē ḟ ġ íĭîïī ı j k ł ṁ ñ óŏôöøō œ ṗ q ṡşș ṫ úŭûüū v w x yÿ z]",
+      "conjunction": "{0} agus {1}"
+    },
+    "kw": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/kw.xml",
+      "alias": null,
+      "main": "[a b c d e f g h i j k l m n o p q r s t u v w x y z]",
+      "auxiliary": null,
+      "conjunction": null
+    },
+    "gv": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gv.xml",
+      "alias": null,
+      "main": "[a b cç d e f g h i j k l m n o p q r s t u v w x y z]",
+      "auxiliary": null,
+      "conjunction": null
+    },
+    "fo": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fo.xml",
+      "alias": null,
+      "main": "[aá b dð e f g h ií j k l m n oó p r s t uú v yý æ ø]",
+      "auxiliary": "[c q w x z]",
+      "conjunction": "{0}, og {1}"
+    },
+    "is": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/is.xml",
+      "alias": null,
+      "main": "[a á b d ð e é f g h i í j k l m n o ó p r s t u ú v x y ý þ æ ö]",
+      "auxiliary": "[c q w z]",
+      "conjunction": "{0} og {1}"
+    },
+    "da": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/da.xml",
+      "alias": null,
+      "main": "[a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å]",
+      "auxiliary": "[áàâ ç éèêë íîï ñ óô œ úùû ÿü ä ǿö]",
+      "conjunction": "{0} og {1}"
+    },
+    "nb": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nb.xml",
+      "alias": null,
+      "main": null,
+      "auxiliary": null,
+      "conjunction": null
+    },
+    "nn": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nn.xml",
+      "alias": null,
+      "main": "↑↑↑",
+      "auxiliary": "↑↑↑",
+      "conjunction": "↑↑↑"
+    },
+    "sv": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sv.xml",
+      "alias": null,
+      "main": "[aà b c d eé f g h i j k l m n o p q r s t u v w x y z å ä ö]",
+      "auxiliary": "[áâãā ç èë íîïī ñ ó ú ÿü æ ø]",
+      "conjunction": "{0} och {1}"
+    },
+    "fi": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fi.xml",
+      "alias": null,
+      "main": "[a b c d e f g h i j k l m n o p q r sš t u v w x y zž å ä ö]",
+      "auxiliary": "[áàăâãąā ćčċç ďð đ éèêěëėęē ğǧģ ǥ ȟħ íîïİįī ı ǩķ ĺľļł ńňñņ ŋ óòôőõ œ ŕř śŝşș ß ťţț ŧ úùûůűųū ýÿü źż ʒǯ þ æ ø]",
+      "conjunction": "{0} ja {1}"
+    },
+    "se": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/se.xml",
+      "alias": null,
+      "main": "[a á b c č d đ e f g h i j k l m n ŋ o p r s š t ŧ u v z ž]",
+      "auxiliary": "[à ç éè í ńñ óò q ú w x yü ø æ å äã ö]",
+      "conjunction": "{0} ja {1}"
+    },
+    "smj": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/smj.xml",
+      "alias": null,
+      "main": "[aáåä b d e f g h i j k l m nń o p r s t u v]",
+      "auxiliary": "[c ñ ö q w x y z]",
+      "conjunction": null
+    },
+    "sma": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sma.xml",
+      "alias": null,
+      "main": "[aåä b d e f g h i j k l m n oö p r s t u v y]",
+      "auxiliary": "[c ï q w x z]",
+      "conjunction": null
+    },
+    "smn": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/smn.xml",
+      "alias": null,
+      "main": "[a â b c č d đ e f g h i j k l m n ŋ o p r s š t u v y z ž ä á]",
+      "auxiliary": "[à ç éè í ñń óò q úü w x æ ø å ã ö]",
+      "conjunction": null
+    },
+    "sms": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sms.xml",
+      "alias": null,
+      "main": "[aâåä b cč dđ e f gǧ ǥ h i j kǩ l m n ŋ oõ p r sš t u v zž ʒǯ]",
+      "auxiliary": "[ö q w x y]",
+      "conjunction": null
+    },
+    "et": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/et.xml",
+      "alias": null,
+      "main": "[a b c d e f g h i j k l m n o p q r s š z ž t u v w õ ä ö ü x y]",
+      "auxiliary": "[áàâåãā æ ç éèêëē íìîïī ñ óòŏôøō œ úùûū]",
+      "conjunction": "{0} ja {1}"
+    },
+    "lv": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lv.xml",
+      "alias": null,
+      "main": "[a ā b c č d e ē f g ģ h i ī j k ķ l ļ m n ņ o p r s š t u ū v z ž]",
+      "auxiliary": "[y ō q ŗ w x]",
+      "conjunction": "{0} un {1}"
+    },
+    "lt": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lt.xml",
+      "alias": null,
+      "main": "[aą b c č d eęė f g h iįy j k l m n o p r s š t uųū v z ž]",
+      "auxiliary": "[áàã{ą́}{ą̃} {ch} {dz} {dž} éèẽ{ę́}{ę̃}{ė́}{ė̃} í{i̇́}ì{i̇̀}ĩ{i̇̃}{į́}{į̇́}{į̃}{į̇̃} {j̃}{j̇̃} {l̃} {m̃} ñ óòõ q {r̃} úùũ{ų́}{ų̃}{ū́}{ū̃} w x]",
+      "conjunction": "{0} ir {1}"
+    },
+    "de": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml",
+      "alias": null,
+      "main": "[aä b c d e f g h i j k l m n oö p q r s ß t uü v w x y z]",
+      "auxiliary": "[áàăâåãā æ ç éèĕêëē ğ íìĭîïİī ı ñ óòŏôøō œ ş úùŭûū ÿ]",
+      "conjunction": "{0} und {1}"
+    },
+    "fr": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml",
+      "alias": null,
+      "main": "[aàâ æ b cç d eéèêë f g h iîï j k l m n oô œ p q r s t uùûü v w x yÿ z]",
+      "auxiliary": "[áåäãā ć ē íìī ĳ ñ óòöõø ř šſ ß úǔ]",
+      "conjunction": "{0} et {1}"
+    },
+    "nl": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nl.xml",
+      "alias": null,
+      "main": "[aáä b c d eéë f g h iíï {ij}{íj́} j k l m n oóö p q r s t uúü v w x y z]",
+      "auxiliary": "[àâåã æ ç èê î ñ ôø œ ùû ýÿ]",
+      "conjunction": "{0} en {1}"
+    },
+    "fy": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fy.xml",
+      "alias": null,
+      "main": "[aáàâä b c d eéèêë f g h iíïyý {ij}{íj́} j k l m n oóôö p r s t uúûü v w z]",
+      "auxiliary": "[æ ò ù]",
+      "conjunction": "{0} en {1}"
+    },
+    "lb": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lb.xml",
+      "alias": null,
+      "main": "[aä b c d eéë f g h i j k l m n o p q r s t u v w x y z]",
+      "auxiliary": "[áàăâåãā æ ç èĕêē ğ íìĭîïİī ı ñ óòŏôöøō œ ş ß úùŭûüū ÿ]",
+      "conjunction": "{0} a(n) {1}"
+    },
+    "br": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/br.xml",
+      "alias": null,
+      "main": "[a b {cʼh} {ch} d eê f g h i j k l m nñ o p r s t uù v w x y z]",
+      "auxiliary": "[áàăâåäãā æ cç éèĕëē íìĭîïī óòŏôöøō œ q úŭûüū ÿ]",
+      "conjunction": "{0} ha {1}"
+    },
+    "co": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/co.xml",
+      "alias": null,
+      "main": "[aà b c {chj} d eè f g {ghj} h iìï j l m n oò p q r s {sc} {sg} t uùü v z]",
+      "auxiliary": "[â æ ç éêë î k ñ ô œ úû w x yÿ]",
+      "conjunction": "{0} è {1}"
+    },
+    "oc": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/oc.xml",
+      "alias": null,
+      "main": "[aáà b cç d eéè f g h iíï j k l m n oóò p q r s t uúü v w x y z]",
+      "auxiliary": "[ăâåäãā æ ĕêëē ìĭîī ñ ŏôöøō œ ùŭûū ÿ]",
+      "conjunction": "{0} e {1}"
+    },
+    "ca": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ca.xml",
+      "alias": null,
+      "main": "[· aà b cç d eéè f g h iíï j k l m n oóò p q r s t uúü v w x y z]",
+      "auxiliary": "[áăâåäãā æ ĕêëē ìĭîī ŀ ñ ºŏôöøō œ ùŭûū ÿ]",
+      "conjunction": "{0} i {1}"
+    },
+    "eu": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/eu.xml",
+      "alias": null,
+      "main": "[a b cç d e f g h i j k l m nñ o p q r s t u v w x y z]",
+      "auxiliary": "[áàăâåäãā æ éèĕêëē íìĭîïī óòŏôöøō œ úùŭûüū ÿ]",
+      "conjunction": "{0} eta {1}"
+    },
+    "gl": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gl.xml",
+      "alias": null,
+      "main": "[aá b c d eé f g h iíï j k l m n ñ oó p q r s t uúü v w x y z]",
+      "auxiliary": "[ªàăâåäãā æ ɑ ç èĕêëē ìĭîī ºòŏôöõøō œ ùŭûū]",
+      "conjunction": "{0} e {1}"
+    },
+    "ast": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ast.xml",
+      "alias": null,
+      "main": "[aá b c d eé f g hḥ ií lḷ m nñ oó p q r s t uúü v x y z]",
+      "auxiliary": "[ªàăâåäãā æ ç èĕêëē ìĭîïī j k ºòŏôöøō œ ùŭûū w ÿ]",
+      "conjunction": "{0} y {1}"
+    },
+    "an": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/an.xml",
+      "alias": null,
+      "main": "[aá b c d eé f g h ií j k l m n oó p q r s t uúü v w x y z]",
+      "auxiliary": "[· àâä ç èêë ìîï ñ òôö ùû]",
+      "conjunction": "{0} y {1}"
+    },
+    "pt": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/pt.xml",
+      "alias": null,
+      "main": "[aáàâã b cç d eéê f g h ií j k l m n oóòôõ p q r s t uú v w x y z]",
+      "auxiliary": "[ªăåäā æ èĕëē ìĭîïī ñ ºŏöøō œ ùŭûüū ÿ]",
+      "conjunction": "{0} e {1}"
+    },
+    "it": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/it.xml",
+      "alias": null,
+      "main": "[aà b c d eéè f g h iì j k l m n oò p q r s t uù v w x y z]",
+      "auxiliary": "[ªáâåäã æ ç êë íîï ñ ºóôöõø œ ß úûü ÿ]",
+      "conjunction": "{0} e {1}"
+    },
+    "rm": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/rm.xml",
+      "alias": null,
+      "main": "[aà b c d eéè f g h iì j k l m n oò p q r s t uù v w x y z]",
+      "auxiliary": "[áăâåäā æ ç ĕêëē íĭîïī ñ óŏôöøō œ úŭûüū ÿ]",
+      "conjunction": "{0} e {1}"
+    },
+    "fur": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fur.xml",
+      "alias": null,
+      "main": "[aàâ b cç d eèê f g h iìî j k l m n oòô p q r s t uùû v w x y z]",
+      "auxiliary": "[å č éë ğ ï ñ ó š ü]",
+      "conjunction": "{0} e {1}"
+    },
+    "lld": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lld.xml",
+      "alias": null,
+      "main": "[aáàâ b cć d eéèêë f g h iíî j k l m n oóôö p q r s t uúü v w x y z]",
+      "auxiliary": "[ăåäãąā ĉčċç ð ěėē ğ ìïī ńňñ òŏőõō ŕř śŝş ß ùûůűū ýÿ źžż]",
+      "conjunction": "{0} y {1}"
+    },
+    "sc": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sc.xml",
+      "alias": null,
+      "main": "[aà b c d eè f g h iì j l m n oò p r s t uù v z]",
+      "auxiliary": "[ªáâåäã æ ç éêë íîï k ñ ºóôöõø œ q ß úûü w x yÿ]",
+      "conjunction": "{0} e {1}"
+    },
+    "el": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/el.xml",
+      "alias": null,
+      "main": "[αά β γ δ εέ ζ ηή θ ιίϊΐ κ λ μ ν ξ οό π ρ σς τ υύϋΰ φ χ ψ ωώ]",
+      "auxiliary": "[ἀἄἂἆἁἅἃἇὰᾶ ἐἔἒἑἕἓὲ ἠἤἢἦἡἥἣἧὴῆ ἰἴἲἶἱἵἳἷὶῖῒῗ ὄὂὃὸ ὐὔὒὖὑὕὓὗὺῦῢῧ ὤὢὦὥὣὧὼῶ]",
+      "conjunction": "{0} και {1}"
+    },
+    "mt": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mt.xml",
+      "alias": null,
+      "main": "[aà b ċ d eè f ġ g {għ} h ħ iì j k l m n oò p q r s t uù v w x ż z]",
+      "auxiliary": "[c y]",
+      "conjunction": "{0}, u {1}"
+    },
+    "sq": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sq.xml",
+      "alias": null,
+      "main": "[a b c ç d {dh} e ë f g {gj} h i j k l {ll} m n {nj} o p q r {rr} s {sh} t {th} u v x {xh} y z {zh}]",
+      "auxiliary": "[w]",
+      "conjunction": "{0} dhe {1}"
+    },
+    "bs": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bs.xml",
+      "alias": null,
+      "main": "[a b c č ć d {dž} đ e f g h i j k l {lj} m n {nj} o p r s š t u v z ž]",
+      "auxiliary": "[q w x y]",
+      "conjunction": "{0} i {1}"
+    },
+    "hr": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hr.xml",
+      "alias": null,
+      "main": "[a b c č ć d {dž} đ e f g h i j k l {lj} m n {nj} o p r s š t u v z ž]",
+      "auxiliary": "[q w x y]",
+      "conjunction": "{0} i {1}"
+    },
+    "sr": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr.xml",
+      "alias": null,
+      "main": "[а б в г д ђ е ж з и ј к л љ м н њ о п р с т ћ у ф х ц ч џ ш]",
+      "auxiliary": "[{а̂} {е̂} {и̂} {о̂} {у̂}]",
+      "conjunction": "{0} и {1}"
+    },
+    "sr_Latn": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr_Latn.xml",
+      "alias": null,
+      "main": "[a b c č ć d {dž} đ e f g h i j k l {lj} m n {nj} o p r s š t u v z ž]",
+      "auxiliary": "[å q w x y]",
+      "conjunction": "{0} i {1}"
+    },
+    "sl": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sl.xml",
+      "alias": null,
+      "main": "[a b c č d e f g h i j k l m n o p r s š t u v z ž]",
+      "auxiliary": "[áàăâåäā æ ç ć đ éèĕêëē íìĭîïī ñ óòŏôöøō œ q úùŭûüū w x yÿ]",
+      "conjunction": "{0} in {1}"
+    },
+    "mk": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mk.xml",
+      "alias": null,
+      "main": "[а б в г д ѓ е ж з ѕ и ј к л љ м н њ о п р с т ќ у ф х ц ч џ ш]",
+      "auxiliary": "[ѐ ѝ]",
+      "conjunction": "{0} и {1}"
+    },
+    "bg": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bg.xml",
+      "alias": null,
+      "main": "[а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ь ю я]",
+      "auxiliary": "[{а̀} ѐё ѝ {о̀} {у̀} {ъ̀} ы ѣ э {ю̀} {я̀} ѫ]",
+      "conjunction": "{0} и {1}"
+    },
+    "ro": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ro.xml",
+      "alias": null,
+      "main": "[a ă â b c d e f g h i î j k l m n o p q r s ș t ț u v w x y z]",
+      "auxiliary": "[áàåä ç éèêë ñ ö ş ţ ü]",
+      "conjunction": "{0} și {1}"
+    },
+    "hu": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml",
+      "alias": null,
+      "main": "[aá b c {cs} {ccs} d {dz} {ddz} {dzs} {ddzs} eé f g {gy} {ggy} h ií j k l {ly} {lly} m n {ny} {nny} oó öő p r s {sz} {ssz} t {ty} {tty} uú üű v z {zs} {zzs}]",
+      "auxiliary": "[àăâåäãā æ ç èĕêëē ìĭîïī ñ òŏôøō œ q ùŭûū w x yÿ]",
+      "conjunction": "{0} és {1}"
+    },
+    "cs": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cs.xml",
+      "alias": null,
+      "main": "[aá b c č dď eéě f g h {ch} ií j k l m nň oó p q r ř s š tť uúů v w x yý z ž]",
+      "auxiliary": "[àăâåäãā æ ç èĕêëē ìĭîïī ľł ñ òŏôöøō œ ŕ ùŭûüū ÿ]",
+      "conjunction": "{0} a {1}"
+    },
+    "sk": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sk.xml",
+      "alias": null,
+      "main": "[aá ä b c č dď {dz} {dž} eé f g h {ch} ií j k lĺľ m nň oó ô p q rŕ s š tť uú v w x yý z ž]",
+      "auxiliary": "[àăâåā æ ç èĕêëē ìĭîïī ñ òŏöőøō œ ř ùŭûüűū ÿ]",
+      "conjunction": "{0} a {1}"
+    },
+    "pl": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/pl.xml",
+      "alias": null,
+      "main": "[a ą b c ć d e ę f g h i j k l ł m n ń o ó p r s ś t u w y z ź ż]",
+      "auxiliary": "[àâåä æ ç éèêë îï ôö œ q ß ùûü v x ÿ]",
+      "conjunction": "{0} i {1}"
+    },
+    "be": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/be.xml",
+      "alias": null,
+      "main": "[а б в г д {дж} {дз} е ё ж з і й к л м н о п р с т у ў ф х ц ч ш ы ь э ю я]",
+      "auxiliary": "[{а́} {е́} {ё́} {і́} {о́} {у́} {ы́} {э́} {ю́} {я́}]",
+      "conjunction": "{0} і {1}"
+    },
+    "uk": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/uk.xml",
+      "alias": null,
+      "main": "[а б в г ґ д е є ж з и і ї й к л м н о п р с т у ф х ц ч ш щ ь ю я ʼ]",
+      "auxiliary": "[{а́} {е́}ё {є́} {и́} {і́} {ї́} {о́} {у́} ъ ы э {ю́} {я́}]",
+      "conjunction": "{0} і {1}"
+    },
+    "ru": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml",
+      "alias": null,
+      "main": "[а б в г д её ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я]",
+      "auxiliary": "[{а́} {е́} {и́} {о́} {у́} {ы́} {э́} {ю́} {я́}]",
+      "conjunction": "{0} и {1}"
+    },
+    "hy": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hy.xml",
+      "alias": null,
+      "main": "[ա բ գ դ ե զ է ը թ ժ ի լ խ ծ կ հ ձ ղ ճ մ յ ն շ ո չ պ ջ ռ ս վ տ ր ց ւ փ ք օ ֆ]",
+      "auxiliary": "[և]",
+      "conjunction": "{0} և {1}"
+    },
+    "az": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/az.xml",
+      "alias": null,
+      "main": "[a b c ç d e ə f g ğ h x ı iİ j k q l m n o ö p r s ş t u ü v y z]",
+      "auxiliary": "[w]",
+      "conjunction": "{0} və {1}"
+    },
+    "ka": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ka.xml",
+      "alias": null,
+      "main": "[ა ბ გ დ ე ვ ზ თ ი კ ლ მ ნ ო პ ჟ რ ს ტ უ ფ ქ ღ ყ შ ჩ ც ძ წ ჭ ხ ჯ ჰ]",
+      "auxiliary": "[ⴀ ⴁ ⴂ ⴃ ⴄ ⴅ ⴆ ჱ ⴡ ⴇ ⴈ ⴉ ⴊ ⴋ ⴌ ჲ ⴢ ⴍ ⴎ ⴏ ⴐ ⴑ ⴒ ჳ ⴣ ⴓ ⴔ ⴕ ⴖ ⴗ ⴘ ⴙ ⴚ ⴛ ⴜ ⴝ ⴞ ჴ ⴤ ⴟ ⴠ ჵ ⴥ ჶ ჷ ჸ ჹ ჺ]",
+      "conjunction": "{0} და {1}"
+    },
+    "tr": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tr.xml",
+      "alias": null,
+      "main": "[a b c ç d e f g ğ h ı iİ j k l m n o ö p r s ş t u ü v y z]",
+      "auxiliary": "[áàăâåäãā æ éèĕêëē íìĭîïī ñ óòŏôøō œ q ß úùŭûū w x ÿ]",
+      "conjunction": "{0} ve {1}"
+    },
+    "hsb": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hsb.xml",
+      "alias": null,
+      "main": "[a b c č ć d {dź} e ě f g h {ch} i j k ł l m nń oó p q r ř s š t u v w x y z ž]",
+      "auxiliary": "[áàăâåäãąā æ ç ďđ éèĕêëėęē ğ íìĭîïİī ı ĺľ ňñ òŏôöőøō œ ŕ śş ß ť úùŭûůüűū ýÿ ż ź]",
+      "conjunction": "{0} a {1}"
+    },
+    "dsb": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/dsb.xml",
+      "alias": null,
+      "main": "[a b c č ć d e ě f g h {ch} i j k ł l m n ń oó p q r ŕ s š ś t u v w x y z ž ź]",
+      "auxiliary": "[áàăâåäãąā æ ç ďđ éèĕêëėęē ğ íìĭîïİī ı ĺľ ňñ òŏôöőøō œ ř ş ß ť úùŭûůüűū ýÿ ż]",
+      "conjunction": "{0} a {1}"
+    },
+    "nds": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nds.xml",
+      "alias": null,
+      "main": "[aåä b c d e f g h i j k l m n oö p q r s t uü v w x y z]",
+      "auxiliary": "[áàăâā æ ç éèĕêëęē íìĭîïī ñ óòŏôøō œ úùŭûū ÿ]",
+      "conjunction": "{0} un {1}"
+    },
+    "wa": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/wa.xml",
+      "alias": null,
+      "main": "[aàâå æ b cç d eéèêë f g h iîï j k l m n oô œ p q r s t uùûü v w x yÿ z]",
+      "auxiliary": "[áäãā ē íìī ñ óòöø úǔ]",
+      "conjunction": null
+    },
+    "tt": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tt.xml",
+      "alias": null,
+      "main": "[а ә б в г д её ж җ з и й к л м н ң о ө п р с т у ү ф х һ ц ч ш щ ъ ы ь э ю я]",
+      "auxiliary": "[ғ қ]",
+      "conjunction": "{0} һәм {1}"
+    },
+    "ba": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ba.xml",
+      "alias": null,
+      "main": "[а ә б в г ғ д ҙ её ж з и й к ҡ л м н ң о ө п р с ҫ т у ү ф х һ ц ч ш щ ъ ы ь э ю я]",
+      "auxiliary": "↑↑↑",
+      "conjunction": "{0} һәм {1}"
+    },
+    "cv": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cv.xml",
+      "alias": null,
+      "main": "[аӑ б в г д еӗё ж з и й к л м н о п р с ҫ т уӳ ф х ц ч ш щ ъ ы ь э ю я]",
+      "auxiliary": "[{а́} {е́} {и́} {о́} {у́} {ы́} {э́} {ю́} {я́}]",
+      "conjunction": "{0} тата {1}"
+    },
+    "ce": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ce.xml",
+      "alias": null,
+      "main": "[а {аь} б в г {гӏ} д её ж з и {ий} й к {кк} {ккх} {кх} {кь} {кӏ} л м н о {ов} {оь} п {пп} {пӏ} р {рхӏ} с {сс} т {тт} {тӏ} у {ув} {уь} {уьй} ф х {хь} {хӏ} ц {цӏ} ч {чӏ} ш щ ъ ы ь э ю {юь} я {яь}]",
+      "auxiliary": null,
+      "conjunction": null
+    },
+    "os": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/os.xml",
+      "alias": null,
+      "main": "[а ӕ б в г {гъ} д {дж} {дз} её ж з и й к {къ} л м н о п {пъ} р с т {тъ} у ф х {хъ} ц {цъ} ч {чъ} ш щ ъ ы ь э ю я]",
+      "auxiliary": "↑↑↑",
+      "conjunction": "{0} ӕмӕ {1}"
+    },
+    "ab": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ab.xml",
+      "alias": null,
+      "main": "[а ә б в г {гә} {гь} ӷ {ӷә} {ӷь} д {дә} е ж {жә} {жь} з ӡ {ӡә} и к {кә} {кь} қ {қә} {қь} ҟ {ҟә} {ҟь} л м н о п ԥ р с т {тә} ҭ {ҭә} у ф х {хә} {хь} ҳ {ҳә} ц {цә} ҵ {ҵә} ч ҷ ҽ ҿ џ {џь} ш {шә} {шь} ы ь ҩ]",
+      "auxiliary": "[{а́} ҕ {ҕә} {ҕь} {е́} {и́} {о́} ҧ {у́} {ы́}]",
+      "conjunction": "{0}-и {1}-и"
+    },
+    "myv": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/myv.xml",
+      "alias": null,
+      "main": "[а б в г д её ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я]",
+      "auxiliary": "[ӓ ә є җ ѕ і ҥ ў ѡ џ ѣ ѳ ѵѷ]",
+      "conjunction": null
+    },
+    "mdf": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mdf.xml",
+      "alias": null,
+      "main": "[а б в г д её ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я]",
+      "auxiliary": "[ӓ ә є җ ѕ і ԕ ҥ ԗ ў ѡ џ ѣ ԙ ѳ ѵѷ]",
+      "conjunction": null
+    },
+    "sah": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sah.xml",
+      "alias": null,
+      "main": "[а б г ҕ д {дь} и й к л м н {нь} ҥ о ө п р с т у ү х һ ч ы э]",
+      "auxiliary": "[в её ж з ф ц ш щ ъ ь ю я]",
+      "conjunction": "{0} уонна {1}"
+    },
+    "bua": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bua.xml",
+      "alias": null,
+      "main": "[а б в г д её ж з и й к л м н о ө п р с т у ү ф х һ ц ч ш щ ъ ы ь э ю я]",
+      "auxiliary": "[{а́} {е́} {и́} {о́} {у́} {ы́} {э́} {ю́} {я́}]",
+      "conjunction": null
+    },
+    "tyv": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tyv.xml",
+      "alias": null,
+      "main": "[а б в г д её ж з и й к л м н ң о ө п р с т у ү ф х ц ч ш щ ъ ы ь э ю я]",
+      "auxiliary": "↑↑↑",
+      "conjunction": null
+    },
+    "frr": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/frr.xml",
+      "alias": null,
+      "main": "[aåäā b c dđ eē f g h i j k l m n oö p r s t uü w]",
+      "auxiliary": "[áàăâã æ ç éèĕêë ğ íìĭîïİī ı ñ óòŏôøō œ q ş ß úùŭûū v x yÿ z]",
+      "conjunction": "{0} an {1}"
+    },
+    "lij": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lij.xml",
+      "alias": null,
+      "main": "[aàâä æ b cç d eéèêë f g h iìîï j k l m nñ oóòôö p q r s t uùûü v w x y z]",
+      "auxiliary": "[õō œ ř]",
+      "conjunction": "{0} e {1}"
+    },
+    "vec": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/vec.xml",
+      "alias": null,
+      "main": "[aà b c d eéè f g h iì j l m n oóò p r s t uù v x z]",
+      "auxiliary": "[ªá ćç ḑ ʣ ǵ í k ł º q ş ţ ʦ ú w y {z̧}]",
+      "conjunction": "{0} e {1}"
+    },
+    "scn": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/scn.xml",
+      "alias": null,
+      "main": "[aàâ b c dḍ eèê f g h iìî j l m n oòô p q r s t uùû v z]",
+      "auxiliary": "[ç đ éë ə ḥ k š w x y]",
+      "conjunction": "{0} e {1}"
+    },
+    "es": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/es.xml",
+      "alias": null,
+      "main": "[aá b c d eé f g h ií j k l m n ñ oó p q r s t uúü v w x y z]",
+      "auxiliary": "[ªàăâåäãā æ ç èĕêëē ìĭîïī ºòŏôöøō œ ùŭûū ýÿ]",
+      "conjunction": "{0} y {1}"
+    },
+    "no": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/no.xml",
+      "alias": null,
+      "main": "[aà b c d eé f g h i j k l m n oóòô p q r s t u v w x y z æ ø å]",
+      "auxiliary": "[áǎã čç đ èê í ńñ ŋ š ŧ ú ü ž ä ö]",
+      "conjunction": "{0} og {1}"
+    },
+    "gsw": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gsw.xml",
+      "alias": null,
+      "main": "[aä b c d e f g h i j k l m n oö p q r s t uü v w x y z]",
+      "auxiliary": "[áàăâåā æ ç éèĕêëē íìĭîïī ñ óòŏôøō œ úùŭûū ÿ]",
+      "conjunction": "{0} und {1}"
+    },
+    "az_Cyrl": {
+      "source_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/az_Cyrl.xml",
+      "alias": null,
+      "main": "[а ә б в г ғ д е ж з и й ј к ҝ л м н о ө п р с т у ү ф х һ ч ҹ ш ы]",
+      "auxiliary": "[ц щ ъ ь э ю я]",
+      "conjunction": null
+    }
+  }
+}

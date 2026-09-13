@@ -1,0 +1,1920 @@
+[
+  {
+    "id": "gbr-base:en",
+    "region_id": "gbr-base",
+    "language_id": "en",
+    "page": 3,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/en.xml"
+  },
+  {
+    "id": "irl-base:en",
+    "region_id": "irl-base",
+    "language_id": "en",
+    "page": 3,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/en.xml"
+  },
+  {
+    "id": "irl-base:ga",
+    "region_id": "irl-base",
+    "language_id": "ga",
+    "page": 3,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ga.xml"
+  },
+  {
+    "id": "imn-base:en",
+    "region_id": "imn-base",
+    "language_id": "en",
+    "page": 3,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/en.xml"
+  },
+  {
+    "id": "imn-base:gv",
+    "region_id": "imn-base",
+    "language_id": "gv",
+    "page": 3,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gv.xml"
+  },
+  {
+    "id": "gbr-wales:cy",
+    "region_id": "gbr-wales",
+    "language_id": "cy",
+    "page": 4,
+    "statistic_ids": [
+      "welsh-all",
+      "welsh-gwynedd",
+      "welsh-anglesey",
+      "welsh-ceredigion"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cy.xml"
+  },
+  {
+    "id": "gbr-gaelic:gd",
+    "region_id": "gbr-gaelic",
+    "language_id": "gd",
+    "page": 4,
+    "statistic_ids": [
+      "gaelic-islands"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gd.xml"
+  },
+  {
+    "id": "gbr-scots:sco",
+    "region_id": "gbr-scots",
+    "language_id": "sco",
+    "page": 4,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/scots.htm"
+  },
+  {
+    "id": "gbr-cornwall:kw",
+    "region_id": "gbr-cornwall",
+    "language_id": "kw",
+    "page": 4,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/kw.xml"
+  },
+  {
+    "id": "gbr-northern-ireland:ga",
+    "region_id": "gbr-northern-ireland",
+    "language_id": "ga",
+    "page": 4,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ga.xml"
+  },
+  {
+    "id": "irl-gaeltacht:ga",
+    "region_id": "irl-gaeltacht",
+    "language_id": "ga",
+    "page": 4,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ga.xml"
+  },
+  {
+    "id": "jey-base:en",
+    "region_id": "jey-base",
+    "language_id": "en",
+    "page": 5,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/en.xml"
+  },
+  {
+    "id": "jey-base:fr",
+    "region_id": "jey-base",
+    "language_id": "fr",
+    "page": 5,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml"
+  },
+  {
+    "id": "jey-base:nrf_JE",
+    "region_id": "jey-base",
+    "language_id": "nrf_JE",
+    "page": 5,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/jerriais.htm"
+  },
+  {
+    "id": "ggy-base:en",
+    "region_id": "ggy-base",
+    "language_id": "en",
+    "page": 5,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/en.xml"
+  },
+  {
+    "id": "ggy-base:fr",
+    "region_id": "ggy-base",
+    "language_id": "fr",
+    "page": 5,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml"
+  },
+  {
+    "id": "ggy-base:nrf_GG",
+    "region_id": "ggy-base",
+    "language_id": "nrf_GG",
+    "page": 5,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/guernesiais.htm"
+  },
+  {
+    "id": "isl-base:is",
+    "region_id": "isl-base",
+    "language_id": "is",
+    "page": 6,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/is.xml"
+  },
+  {
+    "id": "fro-base:fo",
+    "region_id": "fro-base",
+    "language_id": "fo",
+    "page": 6,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fo.xml"
+  },
+  {
+    "id": "fro-base:da",
+    "region_id": "fro-base",
+    "language_id": "da",
+    "page": 6,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/da.xml"
+  },
+  {
+    "id": "sjm-base:nb",
+    "region_id": "sjm-base",
+    "language_id": "nb",
+    "page": 6,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/no.xml"
+  },
+  {
+    "id": "sjm-russian:ru",
+    "region_id": "sjm-russian",
+    "language_id": "ru",
+    "page": 6,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml"
+  },
+  {
+    "id": "dnk-base:da",
+    "region_id": "dnk-base",
+    "language_id": "da",
+    "page": 7,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/da.xml"
+  },
+  {
+    "id": "nor-base:nb",
+    "region_id": "nor-base",
+    "language_id": "nb",
+    "page": 7,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/no.xml"
+  },
+  {
+    "id": "nor-base:nn",
+    "region_id": "nor-base",
+    "language_id": "nn",
+    "page": 7,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/no.xml"
+  },
+  {
+    "id": "swe-base:sv",
+    "region_id": "swe-base",
+    "language_id": "sv",
+    "page": 7,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sv.xml"
+  },
+  {
+    "id": "dnk-german:de",
+    "region_id": "dnk-german",
+    "language_id": "de",
+    "page": 7,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "nor-nynorsk-west:nn",
+    "region_id": "nor-nynorsk-west",
+    "language_id": "nn",
+    "page": 7,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/no.xml"
+  },
+  {
+    "id": "fin-base:fi",
+    "region_id": "fin-base",
+    "language_id": "fi",
+    "page": 8,
+    "statistic_ids": [
+      "fin-fi"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fi.xml"
+  },
+  {
+    "id": "fin-base:sv",
+    "region_id": "fin-base",
+    "language_id": "sv",
+    "page": 8,
+    "statistic_ids": [
+      "fin-sv"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sv.xml"
+  },
+  {
+    "id": "ala-base:sv",
+    "region_id": "ala-base",
+    "language_id": "sv",
+    "page": 8,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sv.xml"
+  },
+  {
+    "id": "fin-swedish-west:sv",
+    "region_id": "fin-swedish-west",
+    "language_id": "sv",
+    "page": 8,
+    "statistic_ids": [
+      "fin-sv"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sv.xml"
+  },
+  {
+    "id": "fin-swedish-south:sv",
+    "region_id": "fin-swedish-south",
+    "language_id": "sv",
+    "page": 8,
+    "statistic_ids": [
+      "fin-sv"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sv.xml"
+  },
+  {
+    "id": "nor-sami-north:se",
+    "region_id": "nor-sami-north",
+    "language_id": "se",
+    "page": 9,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/se.xml"
+  },
+  {
+    "id": "nor-sami-lule:smj",
+    "region_id": "nor-sami-lule",
+    "language_id": "smj",
+    "page": 9,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/smj.xml"
+  },
+  {
+    "id": "nor-sami-south:sma",
+    "region_id": "nor-sami-south",
+    "language_id": "sma",
+    "page": 9,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sma.xml"
+  },
+  {
+    "id": "nor-kven:fkv",
+    "region_id": "nor-kven",
+    "language_id": "fkv",
+    "page": 9,
+    "statistic_ids": [],
+    "orthography_url": "https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/GEGN.2_2025_12_CRP12_item7d.pdf"
+  },
+  {
+    "id": "swe-sami-north:se",
+    "region_id": "swe-sami-north",
+    "language_id": "se",
+    "page": 9,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/se.xml"
+  },
+  {
+    "id": "swe-sami-lule:smj",
+    "region_id": "swe-sami-lule",
+    "language_id": "smj",
+    "page": 9,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/smj.xml"
+  },
+  {
+    "id": "swe-sami-south:sma",
+    "region_id": "swe-sami-south",
+    "language_id": "sma",
+    "page": 10,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sma.xml"
+  },
+  {
+    "id": "swe-meankieli:fit",
+    "region_id": "swe-meankieli",
+    "language_id": "fit",
+    "page": 10,
+    "statistic_ids": [],
+    "orthography_url": "https://assets.publishing.service.gov.uk/media/69b175fc1daa1b70ca2331ae/Sweden_Toponymic_Factfile.pdf"
+  },
+  {
+    "id": "fin-sami-north:se",
+    "region_id": "fin-sami-north",
+    "language_id": "se",
+    "page": 10,
+    "statistic_ids": [
+      "fin-se"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/se.xml"
+  },
+  {
+    "id": "fin-sami-inari:smn",
+    "region_id": "fin-sami-inari",
+    "language_id": "smn",
+    "page": 10,
+    "statistic_ids": [
+      "fin-se"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/smn.xml"
+  },
+  {
+    "id": "fin-sami-skolt:sms",
+    "region_id": "fin-sami-skolt",
+    "language_id": "sms",
+    "page": 10,
+    "statistic_ids": [
+      "fin-se"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sms.xml"
+  },
+  {
+    "id": "swe-sami-ume:sju",
+    "region_id": "swe-sami-ume",
+    "language_id": "sju",
+    "page": 10,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/umesami.htm"
+  },
+  {
+    "id": "est-base:et",
+    "region_id": "est-base",
+    "language_id": "et",
+    "page": 11,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/et.xml"
+  },
+  {
+    "id": "lva-base:lv",
+    "region_id": "lva-base",
+    "language_id": "lv",
+    "page": 11,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lv.xml"
+  },
+  {
+    "id": "ltu-base:lt",
+    "region_id": "ltu-base",
+    "language_id": "lt",
+    "page": 11,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lt.xml"
+  },
+  {
+    "id": "nld-base:nl",
+    "region_id": "nld-base",
+    "language_id": "nl",
+    "page": 12,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nl.xml"
+  },
+  {
+    "id": "lux-base:lb",
+    "region_id": "lux-base",
+    "language_id": "lb",
+    "page": 12,
+    "statistic_ids": [
+      "lux-main"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lb.xml"
+  },
+  {
+    "id": "lux-base:fr",
+    "region_id": "lux-base",
+    "language_id": "fr",
+    "page": 12,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml"
+  },
+  {
+    "id": "lux-base:de",
+    "region_id": "lux-base",
+    "language_id": "de",
+    "page": 12,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "bel-north:nl",
+    "region_id": "bel-north",
+    "language_id": "nl",
+    "page": 12,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nl.xml"
+  },
+  {
+    "id": "bel-south:fr",
+    "region_id": "bel-south",
+    "language_id": "fr",
+    "page": 13,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml"
+  },
+  {
+    "id": "bel-brussels:fr",
+    "region_id": "bel-brussels",
+    "language_id": "fr",
+    "page": 13,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml"
+  },
+  {
+    "id": "bel-brussels:nl",
+    "region_id": "bel-brussels",
+    "language_id": "nl",
+    "page": 13,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nl.xml"
+  },
+  {
+    "id": "bel-german:de",
+    "region_id": "bel-german",
+    "language_id": "de",
+    "page": 13,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "nld-friesland:fy",
+    "region_id": "nld-friesland",
+    "language_id": "fy",
+    "page": 13,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fy.xml"
+  },
+  {
+    "id": "fra-base:fr",
+    "region_id": "fra-base",
+    "language_id": "fr",
+    "page": 14,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml"
+  },
+  {
+    "id": "fra-breton:br",
+    "region_id": "fra-breton",
+    "language_id": "br",
+    "page": 14,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/br.xml"
+  },
+  {
+    "id": "fra-basque:eu",
+    "region_id": "fra-basque",
+    "language_id": "eu",
+    "page": 14,
+    "statistic_ids": [
+      "basque-fr"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/eu.xml"
+  },
+  {
+    "id": "fra-catalan:ca",
+    "region_id": "fra-catalan",
+    "language_id": "ca",
+    "page": 14,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ca.xml"
+  },
+  {
+    "id": "fra-occitan:oc",
+    "region_id": "fra-occitan",
+    "language_id": "oc",
+    "page": 14,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/oc.xml"
+  },
+  {
+    "id": "fra-corsica:co",
+    "region_id": "fra-corsica",
+    "language_id": "co",
+    "page": 14,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/co.xml"
+  },
+  {
+    "id": "fra-alsace:gsw",
+    "region_id": "fra-alsace",
+    "language_id": "gsw",
+    "page": 14,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gsw.xml"
+  },
+  {
+    "id": "deu-base:de",
+    "region_id": "deu-base",
+    "language_id": "de",
+    "page": 15,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "deu-sorbian-upper:hsb",
+    "region_id": "deu-sorbian-upper",
+    "language_id": "hsb",
+    "page": 15,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hsb.xml"
+  },
+  {
+    "id": "deu-sorbian-lower:dsb",
+    "region_id": "deu-sorbian-lower",
+    "language_id": "dsb",
+    "page": 15,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/dsb.xml"
+  },
+  {
+    "id": "deu-frisian-north:frr",
+    "region_id": "deu-frisian-north",
+    "language_id": "frr",
+    "page": 15,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/frr.xml"
+  },
+  {
+    "id": "deu-danish:da",
+    "region_id": "deu-danish",
+    "language_id": "da",
+    "page": 15,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/da.xml"
+  },
+  {
+    "id": "deu-saterland:stq",
+    "region_id": "deu-saterland",
+    "language_id": "stq",
+    "page": 15,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/frisian.htm"
+  },
+  {
+    "id": "deu-low-german:nds",
+    "region_id": "deu-low-german",
+    "language_id": "nds",
+    "page": 15,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/nds.xml"
+  },
+  {
+    "id": "aut-base:de",
+    "region_id": "aut-base",
+    "language_id": "de",
+    "page": 16,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "aut-slovene:sl",
+    "region_id": "aut-slovene",
+    "language_id": "sl",
+    "page": 16,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sl.xml"
+  },
+  {
+    "id": "aut-croatian:hr",
+    "region_id": "aut-croatian",
+    "language_id": "hr",
+    "page": 16,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hr.xml"
+  },
+  {
+    "id": "aut-hungarian:hu",
+    "region_id": "aut-hungarian",
+    "language_id": "hu",
+    "page": 16,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml"
+  },
+  {
+    "id": "lie-base:de_CH",
+    "region_id": "lie-base",
+    "language_id": "de_CH",
+    "page": 17,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "che-german:de_CH",
+    "region_id": "che-german",
+    "language_id": "de_CH",
+    "page": 17,
+    "statistic_ids": [
+      "che-de_CH"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "che-french:fr",
+    "region_id": "che-french",
+    "language_id": "fr",
+    "page": 17,
+    "statistic_ids": [
+      "che-fr"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml"
+  },
+  {
+    "id": "che-italian:it",
+    "region_id": "che-italian",
+    "language_id": "it",
+    "page": 17,
+    "statistic_ids": [
+      "che-it"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/it.xml"
+  },
+  {
+    "id": "che-romansh:rm",
+    "region_id": "che-romansh",
+    "language_id": "rm",
+    "page": 17,
+    "statistic_ids": [
+      "che-rm",
+      "che-romansh-area"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/rm.xml"
+  },
+  {
+    "id": "esp-base:es",
+    "region_id": "esp-base",
+    "language_id": "es",
+    "page": 18,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/es.xml"
+  },
+  {
+    "id": "prt-base:pt",
+    "region_id": "prt-base",
+    "language_id": "pt",
+    "page": 18,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/pt.xml"
+  },
+  {
+    "id": "and-base:ca",
+    "region_id": "and-base",
+    "language_id": "ca",
+    "page": 18,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ca.xml"
+  },
+  {
+    "id": "gib-base:en",
+    "region_id": "gib-base",
+    "language_id": "en",
+    "page": 18,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/en.xml"
+  },
+  {
+    "id": "esp-catalan:ca",
+    "region_id": "esp-catalan",
+    "language_id": "ca",
+    "page": 18,
+    "statistic_ids": [
+      "catalan-speak"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ca.xml"
+  },
+  {
+    "id": "esp-valencian:ca",
+    "region_id": "esp-valencian",
+    "language_id": "ca",
+    "page": 18,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ca.xml"
+  },
+  {
+    "id": "esp-balearic:ca",
+    "region_id": "esp-balearic",
+    "language_id": "ca",
+    "page": 18,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ca.xml"
+  },
+  {
+    "id": "esp-basque:eu",
+    "region_id": "esp-basque",
+    "language_id": "eu",
+    "page": 19,
+    "statistic_ids": [
+      "basque-bac"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/eu.xml"
+  },
+  {
+    "id": "esp-navarre:eu",
+    "region_id": "esp-navarre",
+    "language_id": "eu",
+    "page": 19,
+    "statistic_ids": [
+      "basque-nav"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/eu.xml"
+  },
+  {
+    "id": "esp-galician:gl",
+    "region_id": "esp-galician",
+    "language_id": "gl",
+    "page": 19,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/gl.xml"
+  },
+  {
+    "id": "esp-asturian:ast",
+    "region_id": "esp-asturian",
+    "language_id": "ast",
+    "page": 19,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ast.xml"
+  },
+  {
+    "id": "esp-aranese:oc",
+    "region_id": "esp-aranese",
+    "language_id": "oc",
+    "page": 19,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/oc.xml"
+  },
+  {
+    "id": "esp-aragonese:an",
+    "region_id": "esp-aragonese",
+    "language_id": "an",
+    "page": 19,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/an.xml"
+  },
+  {
+    "id": "prt-mirandese:mwl",
+    "region_id": "prt-mirandese",
+    "language_id": "mwl",
+    "page": 19,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/mirandese.htm"
+  },
+  {
+    "id": "ita-base:it",
+    "region_id": "ita-base",
+    "language_id": "it",
+    "page": 20,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/it.xml"
+  },
+  {
+    "id": "smr-base:it",
+    "region_id": "smr-base",
+    "language_id": "it",
+    "page": 20,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/it.xml"
+  },
+  {
+    "id": "vat-base:it",
+    "region_id": "vat-base",
+    "language_id": "it",
+    "page": 20,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/it.xml"
+  },
+  {
+    "id": "vat-base:la",
+    "region_id": "vat-base",
+    "language_id": "la",
+    "page": 20,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/latin.htm"
+  },
+  {
+    "id": "mco-base:fr",
+    "region_id": "mco-base",
+    "language_id": "fr",
+    "page": 20,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml"
+  },
+  {
+    "id": "mco-base:mco",
+    "region_id": "mco-base",
+    "language_id": "mco",
+    "page": 20,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/monegasque.htm"
+  },
+  {
+    "id": "ita-german:de",
+    "region_id": "ita-german",
+    "language_id": "de",
+    "page": 20,
+    "statistic_ids": [
+      "tyrol-de"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "ita-ladin:lld",
+    "region_id": "ita-ladin",
+    "language_id": "lld",
+    "page": 21,
+    "statistic_ids": [
+      "tyrol-lld"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lld.xml"
+  },
+  {
+    "id": "ita-french:fr",
+    "region_id": "ita-french",
+    "language_id": "fr",
+    "page": 21,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fr.xml"
+  },
+  {
+    "id": "ita-francoprov:frp",
+    "region_id": "ita-francoprov",
+    "language_id": "frp",
+    "page": 21,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/francoprovencal.htm"
+  },
+  {
+    "id": "ita-friulian:fur",
+    "region_id": "ita-friulian",
+    "language_id": "fur",
+    "page": 21,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/fur.xml"
+  },
+  {
+    "id": "ita-slovene:sl",
+    "region_id": "ita-slovene",
+    "language_id": "sl",
+    "page": 21,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sl.xml"
+  },
+  {
+    "id": "ita-sardinian:sc",
+    "region_id": "ita-sardinian",
+    "language_id": "sc",
+    "page": 21,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sc.xml"
+  },
+  {
+    "id": "ita-catalan:ca",
+    "region_id": "ita-catalan",
+    "language_id": "ca",
+    "page": 21,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ca.xml"
+  },
+  {
+    "id": "pol-base:pl",
+    "region_id": "pol-base",
+    "language_id": "pl",
+    "page": 22,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/pl.xml"
+  },
+  {
+    "id": "pol-kashubian:csb",
+    "region_id": "pol-kashubian",
+    "language_id": "csb",
+    "page": 22,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/kashubian.htm"
+  },
+  {
+    "id": "pol-german:de",
+    "region_id": "pol-german",
+    "language_id": "de",
+    "page": 22,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "pol-belarusian:be",
+    "region_id": "pol-belarusian",
+    "language_id": "be",
+    "page": 22,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/be.xml"
+  },
+  {
+    "id": "pol-lithuanian:lt",
+    "region_id": "pol-lithuanian",
+    "language_id": "lt",
+    "page": 22,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/lt.xml"
+  },
+  {
+    "id": "pol-lemko:rue",
+    "region_id": "pol-lemko",
+    "language_id": "rue",
+    "page": 22,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/rusyn.htm"
+  },
+  {
+    "id": "cze-base:cs",
+    "region_id": "cze-base",
+    "language_id": "cs",
+    "page": 23,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cs.xml"
+  },
+  {
+    "id": "svk-base:sk",
+    "region_id": "svk-base",
+    "language_id": "sk",
+    "page": 23,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sk.xml"
+  },
+  {
+    "id": "hun-base:hu",
+    "region_id": "hun-base",
+    "language_id": "hu",
+    "page": 23,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml"
+  },
+  {
+    "id": "cze-polish:pl",
+    "region_id": "cze-polish",
+    "language_id": "pl",
+    "page": 23,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/pl.xml"
+  },
+  {
+    "id": "svk-hungarian:hu",
+    "region_id": "svk-hungarian",
+    "language_id": "hu",
+    "page": 24,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml"
+  },
+  {
+    "id": "svk-rusyn:rue",
+    "region_id": "svk-rusyn",
+    "language_id": "rue",
+    "page": 24,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/rusyn.htm"
+  },
+  {
+    "id": "hun-german:de",
+    "region_id": "hun-german",
+    "language_id": "de",
+    "page": 24,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "hun-slovak:sk",
+    "region_id": "hun-slovak",
+    "language_id": "sk",
+    "page": 24,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sk.xml"
+  },
+  {
+    "id": "svn-base:sl",
+    "region_id": "svn-base",
+    "language_id": "sl",
+    "page": 25,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sl.xml"
+  },
+  {
+    "id": "hrv-base:hr",
+    "region_id": "hrv-base",
+    "language_id": "hr",
+    "page": 25,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hr.xml"
+  },
+  {
+    "id": "bih-base:bs",
+    "region_id": "bih-base",
+    "language_id": "bs",
+    "page": 25,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bs.xml"
+  },
+  {
+    "id": "bih-base:hr",
+    "region_id": "bih-base",
+    "language_id": "hr",
+    "page": 25,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hr.xml"
+  },
+  {
+    "id": "bih-base:sr",
+    "region_id": "bih-base",
+    "language_id": "sr",
+    "page": 25,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr.xml"
+  },
+  {
+    "id": "svn-italian:it",
+    "region_id": "svn-italian",
+    "language_id": "it",
+    "page": 26,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/it.xml"
+  },
+  {
+    "id": "svn-hungarian:hu",
+    "region_id": "svn-hungarian",
+    "language_id": "hu",
+    "page": 26,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml"
+  },
+  {
+    "id": "hrv-italian:it",
+    "region_id": "hrv-italian",
+    "language_id": "it",
+    "page": 26,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/it.xml"
+  },
+  {
+    "id": "hrv-serbian:sr",
+    "region_id": "hrv-serbian",
+    "language_id": "sr",
+    "page": 26,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr.xml"
+  },
+  {
+    "id": "hrv-czech:cs",
+    "region_id": "hrv-czech",
+    "language_id": "cs",
+    "page": 26,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cs.xml"
+  },
+  {
+    "id": "srb-base:sr",
+    "region_id": "srb-base",
+    "language_id": "sr",
+    "page": 27,
+    "statistic_ids": [
+      "srb-sr"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr.xml"
+  },
+  {
+    "id": "srb-base:sr_Latn",
+    "region_id": "srb-base",
+    "language_id": "sr_Latn",
+    "page": 27,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr_Latn.xml"
+  },
+  {
+    "id": "xkx-base:sq",
+    "region_id": "xkx-base",
+    "language_id": "sq",
+    "page": 27,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sq.xml"
+  },
+  {
+    "id": "xkx-base:sr",
+    "region_id": "xkx-base",
+    "language_id": "sr",
+    "page": 27,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr.xml"
+  },
+  {
+    "id": "srb-vojvodina:hu",
+    "region_id": "srb-vojvodina",
+    "language_id": "hu",
+    "page": 27,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml"
+  },
+  {
+    "id": "srb-vojvodina:sk",
+    "region_id": "srb-vojvodina",
+    "language_id": "sk",
+    "page": 27,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sk.xml"
+  },
+  {
+    "id": "srb-vojvodina:ro",
+    "region_id": "srb-vojvodina",
+    "language_id": "ro",
+    "page": 28,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ro.xml"
+  },
+  {
+    "id": "srb-vojvodina:rsk",
+    "region_id": "srb-vojvodina",
+    "language_id": "rsk",
+    "page": 28,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/rusyn.htm"
+  },
+  {
+    "id": "srb-vojvodina:hr",
+    "region_id": "srb-vojvodina",
+    "language_id": "hr",
+    "page": 28,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hr.xml"
+  },
+  {
+    "id": "srb-bosnian:bs",
+    "region_id": "srb-bosnian",
+    "language_id": "bs",
+    "page": 28,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bs.xml"
+  },
+  {
+    "id": "srb-albanian:sq",
+    "region_id": "srb-albanian",
+    "language_id": "sq",
+    "page": 28,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sq.xml"
+  },
+  {
+    "id": "xkx-turkish:tr",
+    "region_id": "xkx-turkish",
+    "language_id": "tr",
+    "page": 28,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tr.xml"
+  },
+  {
+    "id": "xkx-turkish:bs",
+    "region_id": "xkx-turkish",
+    "language_id": "bs",
+    "page": 28,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bs.xml"
+  },
+  {
+    "id": "mne-base:cnr",
+    "region_id": "mne-base",
+    "language_id": "cnr",
+    "page": 29,
+    "statistic_ids": [
+      "mne-cnr"
+    ],
+    "orthography_url": "https://assets.publishing.service.gov.uk/media/69285cf3b3b9afff34e9615a/Montenegro_Toponymic_factfile.pdf"
+  },
+  {
+    "id": "mne-base:cnr_Cyrl",
+    "region_id": "mne-base",
+    "language_id": "cnr_Cyrl",
+    "page": 29,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/montenegrin.htm"
+  },
+  {
+    "id": "mne-base:sr",
+    "region_id": "mne-base",
+    "language_id": "sr",
+    "page": 29,
+    "statistic_ids": [
+      "mne-sr"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr.xml"
+  },
+  {
+    "id": "mne-base:bs",
+    "region_id": "mne-base",
+    "language_id": "bs",
+    "page": 29,
+    "statistic_ids": [
+      "mne-bs"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bs.xml"
+  },
+  {
+    "id": "mne-base:hr",
+    "region_id": "mne-base",
+    "language_id": "hr",
+    "page": 29,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hr.xml"
+  },
+  {
+    "id": "mne-base:sq",
+    "region_id": "mne-base",
+    "language_id": "sq",
+    "page": 30,
+    "statistic_ids": [
+      "mne-sq"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sq.xml"
+  },
+  {
+    "id": "alb-base:sq",
+    "region_id": "alb-base",
+    "language_id": "sq",
+    "page": 30,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sq.xml"
+  },
+  {
+    "id": "mkd-base:mk",
+    "region_id": "mkd-base",
+    "language_id": "mk",
+    "page": 30,
+    "statistic_ids": [
+      "mkd-mk"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mk.xml"
+  },
+  {
+    "id": "mkd-base:sq",
+    "region_id": "mkd-base",
+    "language_id": "sq",
+    "page": 30,
+    "statistic_ids": [
+      "mkd-sq"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sq.xml"
+  },
+  {
+    "id": "mne-albanian:sq",
+    "region_id": "mne-albanian",
+    "language_id": "sq",
+    "page": 30,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sq.xml"
+  },
+  {
+    "id": "alb-greek:el",
+    "region_id": "alb-greek",
+    "language_id": "el",
+    "page": 30,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/el.xml"
+  },
+  {
+    "id": "mkd-albanian:sq",
+    "region_id": "mkd-albanian",
+    "language_id": "sq",
+    "page": 31,
+    "statistic_ids": [
+      "mkd-sq"
+    ],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sq.xml"
+  },
+  {
+    "id": "mkd-turkish:tr",
+    "region_id": "mkd-turkish",
+    "language_id": "tr",
+    "page": 31,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tr.xml"
+  },
+  {
+    "id": "mkd-romani:rom",
+    "region_id": "mkd-romani",
+    "language_id": "rom",
+    "page": 31,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/romani.htm"
+  },
+  {
+    "id": "mkd-serbian:sr",
+    "region_id": "mkd-serbian",
+    "language_id": "sr",
+    "page": 31,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sr.xml"
+  },
+  {
+    "id": "mkd-aromanian:rup",
+    "region_id": "mkd-aromanian",
+    "language_id": "rup",
+    "page": 31,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/aromanian.htm"
+  },
+  {
+    "id": "alb-macedonian:mk",
+    "region_id": "alb-macedonian",
+    "language_id": "mk",
+    "page": 31,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mk.xml"
+  },
+  {
+    "id": "grc-base:el",
+    "region_id": "grc-base",
+    "language_id": "el",
+    "page": 32,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/el.xml"
+  },
+  {
+    "id": "mlt-base:mt",
+    "region_id": "mlt-base",
+    "language_id": "mt",
+    "page": 32,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mt.xml"
+  },
+  {
+    "id": "mlt-base:en",
+    "region_id": "mlt-base",
+    "language_id": "en",
+    "page": 32,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/en.xml"
+  },
+  {
+    "id": "cyp-south:el",
+    "region_id": "cyp-south",
+    "language_id": "el",
+    "page": 32,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/el.xml"
+  },
+  {
+    "id": "cyp-north:tr",
+    "region_id": "cyp-north",
+    "language_id": "tr",
+    "page": 32,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tr.xml"
+  },
+  {
+    "id": "bgr-base:bg",
+    "region_id": "bgr-base",
+    "language_id": "bg",
+    "page": 33,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bg.xml"
+  },
+  {
+    "id": "rou-base:ro",
+    "region_id": "rou-base",
+    "language_id": "ro",
+    "page": 33,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ro.xml"
+  },
+  {
+    "id": "mda-base:ro",
+    "region_id": "mda-base",
+    "language_id": "ro",
+    "page": 33,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ro.xml"
+  },
+  {
+    "id": "rou-hungarian-east:hu",
+    "region_id": "rou-hungarian-east",
+    "language_id": "hu",
+    "page": 33,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml"
+  },
+  {
+    "id": "rou-hungarian-west:hu",
+    "region_id": "rou-hungarian-west",
+    "language_id": "hu",
+    "page": 33,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml"
+  },
+  {
+    "id": "rou-german:de",
+    "region_id": "rou-german",
+    "language_id": "de",
+    "page": 33,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/de.xml"
+  },
+  {
+    "id": "mda-gagauz:gag",
+    "region_id": "mda-gagauz",
+    "language_id": "gag",
+    "page": 34,
+    "statistic_ids": [
+      "mda-gag-reg"
+    ],
+    "orthography_url": "https://www.omniglot.com/writing/gagauz.htm"
+  },
+  {
+    "id": "mda-gagauz:ru",
+    "region_id": "mda-gagauz",
+    "language_id": "ru",
+    "page": 34,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml"
+  },
+  {
+    "id": "mda-bulgarian:bg",
+    "region_id": "mda-bulgarian",
+    "language_id": "bg",
+    "page": 34,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bg.xml"
+  },
+  {
+    "id": "mda-transnistria:ru",
+    "region_id": "mda-transnistria",
+    "language_id": "ru",
+    "page": 34,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml"
+  },
+  {
+    "id": "mda-transnistria:uk",
+    "region_id": "mda-transnistria",
+    "language_id": "uk",
+    "page": 34,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/uk.xml"
+  },
+  {
+    "id": "mda-moldovan-cyrillic:ro_Cyrl",
+    "region_id": "mda-moldovan-cyrillic",
+    "language_id": "ro_Cyrl",
+    "page": 34,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/moldovan.htm"
+  },
+  {
+    "id": "ukr-base:uk",
+    "region_id": "ukr-base",
+    "language_id": "uk",
+    "page": 35,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/uk.xml"
+  },
+  {
+    "id": "blr-base:be",
+    "region_id": "blr-base",
+    "language_id": "be",
+    "page": 35,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/be.xml"
+  },
+  {
+    "id": "blr-base:ru",
+    "region_id": "blr-base",
+    "language_id": "ru",
+    "page": 35,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml"
+  },
+  {
+    "id": "ukr-hungarian:hu",
+    "region_id": "ukr-hungarian",
+    "language_id": "hu",
+    "page": 35,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hu.xml"
+  },
+  {
+    "id": "ukr-romanian:ro",
+    "region_id": "ukr-romanian",
+    "language_id": "ro",
+    "page": 35,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ro.xml"
+  },
+  {
+    "id": "ukr-russian:ru",
+    "region_id": "ukr-russian",
+    "language_id": "ru",
+    "page": 35,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml"
+  },
+  {
+    "id": "arm-base:hy",
+    "region_id": "arm-base",
+    "language_id": "hy",
+    "page": 36,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/hy.xml"
+  },
+  {
+    "id": "aze-base:az",
+    "region_id": "aze-base",
+    "language_id": "az",
+    "page": 36,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/az.xml"
+  },
+  {
+    "id": "geo-base:ka",
+    "region_id": "geo-base",
+    "language_id": "ka",
+    "page": 36,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ka.xml"
+  },
+  {
+    "id": "geo-abkhazia:ab",
+    "region_id": "geo-abkhazia",
+    "language_id": "ab",
+    "page": 36,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ab.xml"
+  },
+  {
+    "id": "geo-abkhazia:ru",
+    "region_id": "geo-abkhazia",
+    "language_id": "ru",
+    "page": 36,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml"
+  },
+  {
+    "id": "geo-ossetia:os",
+    "region_id": "geo-ossetia",
+    "language_id": "os",
+    "page": 36,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/os.xml"
+  },
+  {
+    "id": "geo-ossetia:ru",
+    "region_id": "geo-ossetia",
+    "language_id": "ru",
+    "page": 36,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml"
+  },
+  {
+    "id": "rus-base:ru",
+    "region_id": "rus-base",
+    "language_id": "ru",
+    "page": 37,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ru.xml"
+  },
+  {
+    "id": "rus-tatar:tt",
+    "region_id": "rus-tatar",
+    "language_id": "tt",
+    "page": 38,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tt.xml"
+  },
+  {
+    "id": "rus-bashkir:ba",
+    "region_id": "rus-bashkir",
+    "language_id": "ba",
+    "page": 38,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ba.xml"
+  },
+  {
+    "id": "rus-chuvash:cv",
+    "region_id": "rus-chuvash",
+    "language_id": "cv",
+    "page": 38,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/cv.xml"
+  },
+  {
+    "id": "rus-mari:mhr",
+    "region_id": "rus-mari",
+    "language_id": "mhr",
+    "page": 38,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/mari.htm"
+  },
+  {
+    "id": "rus-mari:mrj",
+    "region_id": "rus-mari",
+    "language_id": "mrj",
+    "page": 39,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/mari.htm"
+  },
+  {
+    "id": "rus-udmurt:udm",
+    "region_id": "rus-udmurt",
+    "language_id": "udm",
+    "page": 39,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/udmurt.htm"
+  },
+  {
+    "id": "rus-mordovia:myv",
+    "region_id": "rus-mordovia",
+    "language_id": "myv",
+    "page": 39,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/myv.xml"
+  },
+  {
+    "id": "rus-mordovia:mdf",
+    "region_id": "rus-mordovia",
+    "language_id": "mdf",
+    "page": 39,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/mdf.xml"
+  },
+  {
+    "id": "rus-komi:kv",
+    "region_id": "rus-komi",
+    "language_id": "kv",
+    "page": 40,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/komi.htm"
+  },
+  {
+    "id": "rus-kalmyk:xal",
+    "region_id": "rus-kalmyk",
+    "language_id": "xal",
+    "page": 40,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/kalmyk.htm"
+  },
+  {
+    "id": "rus-adyghe:ady",
+    "region_id": "rus-adyghe",
+    "language_id": "ady",
+    "page": 41,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/adyghe.htm"
+  },
+  {
+    "id": "rus-karachay:krc",
+    "region_id": "rus-karachay",
+    "language_id": "krc",
+    "page": 41,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/balkar.htm"
+  },
+  {
+    "id": "rus-karachay:kbd",
+    "region_id": "rus-karachay",
+    "language_id": "kbd",
+    "page": 41,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/kabardian.htm"
+  },
+  {
+    "id": "rus-karachay:abq",
+    "region_id": "rus-karachay",
+    "language_id": "abq",
+    "page": 41,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/abaza.htm"
+  },
+  {
+    "id": "rus-karachay:nog",
+    "region_id": "rus-karachay",
+    "language_id": "nog",
+    "page": 41,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/nogai.htm"
+  },
+  {
+    "id": "rus-kabardin:kbd",
+    "region_id": "rus-kabardin",
+    "language_id": "kbd",
+    "page": 42,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/kabardian.htm"
+  },
+  {
+    "id": "rus-kabardin:krc",
+    "region_id": "rus-kabardin",
+    "language_id": "krc",
+    "page": 42,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/balkar.htm"
+  },
+  {
+    "id": "rus-ossetian:os",
+    "region_id": "rus-ossetian",
+    "language_id": "os",
+    "page": 42,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/os.xml"
+  },
+  {
+    "id": "rus-ingush:inh",
+    "region_id": "rus-ingush",
+    "language_id": "inh",
+    "page": 42,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/ingush.htm"
+  },
+  {
+    "id": "rus-chechen:ce",
+    "region_id": "rus-chechen",
+    "language_id": "ce",
+    "page": 42,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ce.xml"
+  },
+  {
+    "id": "rus-dagestan:av",
+    "region_id": "rus-dagestan",
+    "language_id": "av",
+    "page": 43,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/avar.htm"
+  },
+  {
+    "id": "rus-dagestan:dar",
+    "region_id": "rus-dagestan",
+    "language_id": "dar",
+    "page": 43,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/dargwa.htm"
+  },
+  {
+    "id": "rus-dagestan:kum",
+    "region_id": "rus-dagestan",
+    "language_id": "kum",
+    "page": 43,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/kumyk.php"
+  },
+  {
+    "id": "rus-dagestan:lez",
+    "region_id": "rus-dagestan",
+    "language_id": "lez",
+    "page": 43,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/lezgi.htm"
+  },
+  {
+    "id": "rus-dagestan:lak",
+    "region_id": "rus-dagestan",
+    "language_id": "lak",
+    "page": 43,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/lak.htm"
+  },
+  {
+    "id": "rus-dagestan:tab",
+    "region_id": "rus-dagestan",
+    "language_id": "tab",
+    "page": 43,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/tabassaran.htm"
+  },
+  {
+    "id": "rus-dagestan:nog",
+    "region_id": "rus-dagestan",
+    "language_id": "nog",
+    "page": 44,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/nogai.htm"
+  },
+  {
+    "id": "rus-dagestan:ce",
+    "region_id": "rus-dagestan",
+    "language_id": "ce",
+    "page": 44,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/ce.xml"
+  },
+  {
+    "id": "rus-dagestan:az_Cyrl",
+    "region_id": "rus-dagestan",
+    "language_id": "az_Cyrl",
+    "page": 44,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/az_Cyrl.xml"
+  },
+  {
+    "id": "rus-dagestan:agx",
+    "region_id": "rus-dagestan",
+    "language_id": "agx",
+    "page": 44,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/aghul.htm"
+  },
+  {
+    "id": "rus-dagestan:rut",
+    "region_id": "rus-dagestan",
+    "language_id": "rut",
+    "page": 44,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/rutul.htm"
+  },
+  {
+    "id": "rus-dagestan:jdt",
+    "region_id": "rus-dagestan",
+    "language_id": "jdt",
+    "page": 44,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/juhuri.htm"
+  },
+  {
+    "id": "rus-dagestan:tkr",
+    "region_id": "rus-dagestan",
+    "language_id": "tkr",
+    "page": 44,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/tsakhur.htm"
+  },
+  {
+    "id": "rus-altai:alt",
+    "region_id": "rus-altai",
+    "language_id": "alt",
+    "page": 45,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/altay.htm"
+  },
+  {
+    "id": "rus-khakas:kjh",
+    "region_id": "rus-khakas",
+    "language_id": "kjh",
+    "page": 45,
+    "statistic_ids": [],
+    "orthography_url": "https://www.omniglot.com/writing/khakas.htm"
+  },
+  {
+    "id": "rus-tuva:tyv",
+    "region_id": "rus-tuva",
+    "language_id": "tyv",
+    "page": 45,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/tyv.xml"
+  },
+  {
+    "id": "rus-buryat:bua",
+    "region_id": "rus-buryat",
+    "language_id": "bua",
+    "page": 45,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/bua.xml"
+  },
+  {
+    "id": "rus-sakha:sah",
+    "region_id": "rus-sakha",
+    "language_id": "sah",
+    "page": 46,
+    "statistic_ids": [],
+    "orthography_url": "https://raw.githubusercontent.com/unicode-org/cldr/fc1fd058cc6f50544a450a3b15a4bba0e0c1e653/common/main/sah.xml"
+  }
+]

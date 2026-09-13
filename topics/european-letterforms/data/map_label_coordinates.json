@@ -1,0 +1,4943 @@
+[
+  {
+    "page": 3,
+    "region_id": "gbr-base",
+    "anchor_lonlat": [
+      -1.9097251733205838,
+      54.31035
+    ],
+    "label_lonlat": [
+      -1.9097251733205862,
+      54.31035
+    ],
+    "label_pdf_xy": [
+      419.91671809698875,
+      382.67279370000006
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -11,
+      49,
+      2.5,
+      61
+    ]
+  },
+  {
+    "page": 3,
+    "region_id": "irl-base",
+    "anchor_lonlat": [
+      -7.958805343459641,
+      53.41608
+    ],
+    "label_lonlat": [
+      -7.958805343459641,
+      53.41608
+    ],
+    "label_pdf_xy": [
+      257.60143022573965,
+      340.83705456
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -11,
+      49,
+      2.5,
+      61
+    ]
+  },
+  {
+    "page": 3,
+    "region_id": "imn-base",
+    "anchor_lonlat": [
+      -4.507768999385653,
+      54.249335
+    ],
+    "label_lonlat": [
+      -4.507768999385656,
+      54.249335
+    ],
+    "label_pdf_xy": [
+      350.20327081758546,
+      379.8183899700001
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -11,
+      49,
+      2.5,
+      61
+    ]
+  },
+  {
+    "page": 4,
+    "region_id": "gbr-wales",
+    "anchor_lonlat": [
+      -3.6142105743858064,
+      52.372985
+    ],
+    "label_lonlat": [
+      -3.614210574385808,
+      52.372985
+    ],
+    "label_pdf_xy": [
+      374.18017125603603,
+      292.03898427000007
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -11,
+      49,
+      2.5,
+      61
+    ]
+  },
+  {
+    "page": 4,
+    "region_id": "gbr-gaelic",
+    "anchor_lonlat": [
+      -4.655531409213947,
+      56.987719999999996
+    ],
+    "label_lonlat": [
+      -4.655531409213946,
+      56.987719999999996
+    ],
+    "label_pdf_xy": [
+      346.238354266103,
+      507.9255170399997
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -11,
+      49,
+      2.5,
+      61
+    ]
+  },
+  {
+    "page": 4,
+    "region_id": "gbr-scots",
+    "anchor_lonlat": [
+      -3.8777875315887256,
+      56.668220000000005
+    ],
+    "label_lonlat": [
+      -3.3948011164878444,
+      56.668220000000005
+    ],
+    "label_pdf_xy": [
+      380.0675968345871,
+      492.9786680400002
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -11,
+      49,
+      2.5,
+      61
+    ]
+  },
+  {
+    "page": 4,
+    "region_id": "gbr-cornwall",
+    "anchor_lonlat": [
+      -4.6336130231582064,
+      50.445915
+    ],
+    "label_lonlat": [
+      -4.6336130231582064,
+      50.445915
+    ],
+    "label_pdf_xy": [
+      346.82649147742194,
+      201.88679552999994
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -11,
+      49,
+      2.5,
+      61
+    ]
+  },
+  {
+    "page": 4,
+    "region_id": "gbr-northern-ireland",
+    "anchor_lonlat": [
+      -6.896779255841384,
+      54.64846
+    ],
+    "label_lonlat": [
+      -6.896779255841384,
+      54.64846
+    ],
+    "label_pdf_xy": [
+      286.09883235796684,
+      398.49025571999994
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -11,
+      49,
+      2.5,
+      61
+    ]
+  },
+  {
+    "page": 4,
+    "region_id": "irl-gaeltacht",
+    "anchor_lonlat": [
+      -9.141974285959218,
+      53.655159999999995
+    ],
+    "label_lonlat": [
+      -9.14197428595922,
+      53.655159999999995
+    ],
+    "label_pdf_xy": [
+      225.85339546664244,
+      352.0216951199998
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -11,
+      49,
+      2.5,
+      61
+    ]
+  },
+  {
+    "page": 5,
+    "region_id": "jey-base",
+    "anchor_lonlat": [
+      -2.125998445919177,
+      49.223865
+    ],
+    "label_lonlat": [
+      -2.1259984459191776,
+      49.223864999999996
+    ],
+    "label_pdf_xy": [
+      452.925361409846,
+      325.62571490526256
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -3.1,
+      48.9,
+      -1.65,
+      49.85
+    ]
+  },
+  {
+    "page": 5,
+    "region_id": "ggy-base",
+    "anchor_lonlat": [
+      -2.5445508077075356,
+      49.485175
+    ],
+    "label_lonlat": [
+      -2.544550807707536,
+      49.48517499999999
+    ],
+    "label_pdf_xy": [
+      291.8839557121831,
+      480.04177073683707
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -3.1,
+      48.9,
+      -1.65,
+      49.85
+    ]
+  },
+  {
+    "page": 6,
+    "region_id": "isl-base",
+    "anchor_lonlat": [
+      -18.460946914713563,
+      64.96470500000001
+    ],
+    "label_lonlat": [
+      -18.46094691471356,
+      64.96470500000001
+    ],
+    "label_pdf_xy": [
+      187.3680490564483,
+      358.07708915345466
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -26,
+      54,
+      33,
+      81.5
+    ]
+  },
+  {
+    "page": 6,
+    "region_id": "fro-base",
+    "anchor_lonlat": [
+      -7.226957754298077,
+      62.097155
+    ],
+    "label_lonlat": [
+      -7.226957754298077,
+      62.097154999999994
+    ],
+    "label_pdf_xy": [
+      274.2036297017246,
+      299.53902772799995
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -26,
+      54,
+      33,
+      81.5
+    ]
+  },
+  {
+    "page": 6,
+    "region_id": "sjm-base",
+    "anchor_lonlat": [
+      22.684865078250315,
+      79.857955
+    ],
+    "label_lonlat": [
+      22.684865078250333,
+      79.85795499999999
+    ],
+    "label_pdf_xy": [
+      505.4136181335551,
+      662.1073530807271
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -26,
+      54,
+      33,
+      81.5
+    ]
+  },
+  {
+    "page": 6,
+    "region_id": "sjm-russian",
+    "anchor_lonlat": [
+      14.23,
+      78.06
+    ],
+    "label_lonlat": [
+      14.230000000000004,
+      78.05999999999999
+    ],
+    "label_pdf_xy": [
+      440.0598860030015,
+      625.4039650909089
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -26,
+      54,
+      33,
+      81.5
+    ]
+  },
+  {
+    "page": 7,
+    "region_id": "dnk-base",
+    "anchor_lonlat": [
+      9.244991353273734,
+      56.26124
+    ],
+    "label_lonlat": [
+      9.244991353273734,
+      56.26124
+    ],
+    "label_pdf_xy": [
+      258.81181488383373,
+      218.8722637440001
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      4.5,
+      54,
+      25,
+      69
+    ]
+  },
+  {
+    "page": 7,
+    "region_id": "nor-base",
+    "anchor_lonlat": [
+      11.491352885864263,
+      63.49671
+    ],
+    "label_lonlat": [
+      11.491352885864261,
+      63.49671
+    ],
+    "label_pdf_xy": [
+      298.9272333246516,
+      489.664069776
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      4.5,
+      54,
+      25,
+      69
+    ]
+  },
+  {
+    "page": 7,
+    "region_id": "swe-base",
+    "anchor_lonlat": [
+      14.905202347993875,
+      62.182685000000006
+    ],
+    "label_lonlat": [
+      14.905202347993873,
+      62.182685000000006
+    ],
+    "label_pdf_xy": [
+      359.89159622012926,
+      440.48589573600026
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      4.5,
+      54,
+      25,
+      69
+    ]
+  },
+  {
+    "page": 7,
+    "region_id": "dnk-german",
+    "anchor_lonlat": [
+      9.42,
+      55.04
+    ],
+    "label_lonlat": [
+      9.42,
+      55.04
+    ],
+    "label_pdf_xy": [
+      261.93711105380925,
+      173.16662399999998
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      4.5,
+      54,
+      25,
+      69
+    ]
+  },
+  {
+    "page": 7,
+    "region_id": "nor-nynorsk-west",
+    "anchor_lonlat": [
+      8.04882322306238,
+      60.497749999999996
+    ],
+    "label_lonlat": [
+      8.04882322306238,
+      60.497749999999996
+    ],
+    "label_pdf_xy": [
+      237.4507007564642,
+      377.4261923999999
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      4.5,
+      54,
+      25,
+      69
+    ]
+  },
+  {
+    "page": 8,
+    "region_id": "fin-base",
+    "anchor_lonlat": [
+      27.4222292236689,
+      64.93895
+    ],
+    "label_lonlat": [
+      27.4222292236689,
+      64.93895
+    ],
+    "label_pdf_xy": [
+      405.0097184198086,
+      412.07995890000063
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18,
+      59,
+      32,
+      71
+    ]
+  },
+  {
+    "page": 8,
+    "region_id": "ala-base",
+    "anchor_lonlat": [
+      19.93877177119421,
+      60.22842
+    ],
+    "label_lonlat": [
+      19.93877177119421,
+      60.22842
+    ],
+    "label_pdf_xy": [
+      257.0548235222896,
+      191.71194444000034
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18,
+      59,
+      32,
+      71
+    ]
+  },
+  {
+    "page": 8,
+    "region_id": "fin-swedish-west",
+    "anchor_lonlat": [
+      22.088333303689552,
+      63.06093
+    ],
+    "label_lonlat": [
+      22.088333303689552,
+      63.06093
+    ],
+    "label_pdf_xy": [
+      299.5536487826546,
+      324.2224272600003
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18,
+      59,
+      32,
+      71
+    ]
+  },
+  {
+    "page": 8,
+    "region_id": "fin-swedish-south",
+    "anchor_lonlat": [
+      23.717639649136473,
+      60.152715
+    ],
+    "label_lonlat": [
+      23.717639649136473,
+      60.152715
+    ],
+    "label_pdf_xy": [
+      331.7665464475893,
+      188.1703131300002
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18,
+      59,
+      32,
+      71
+    ]
+  },
+  {
+    "page": 9,
+    "region_id": "nor-sami-north",
+    "anchor_lonlat": [
+      24.181439593051806,
+      69.840055
+    ],
+    "label_lonlat": [
+      24.181439593051806,
+      69.84005500000002
+    ],
+    "label_pdf_xy": [
+      437.12527725188005,
+      585.3954032836368
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 9,
+    "region_id": "nor-sami-lule",
+    "anchor_lonlat": [
+      16.1,
+      68.05
+    ],
+    "label_lonlat": [
+      16.1,
+      68.05
+    ],
+    "label_pdf_xy": [
+      272.6669916968591,
+      494.04010909090874
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 9,
+    "region_id": "nor-sami-south",
+    "anchor_lonlat": [
+      11.813995534565933,
+      63.746790000000004
+    ],
+    "label_lonlat": [
+      11.813995534565933,
+      63.74679000000001
+    ],
+    "label_pdf_xy": [
+      185.44627586394276,
+      274.42617794181825
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 9,
+    "region_id": "nor-kven",
+    "anchor_lonlat": [
+      25.483076190323295,
+      70.004095
+    ],
+    "label_lonlat": [
+      25.483076190323292,
+      70.004095
+    ],
+    "label_pdf_xy": [
+      463.6137414342995,
+      593.7671697709088
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 9,
+    "region_id": "swe-sami-north",
+    "anchor_lonlat": [
+      20.0,
+      67.33403
+    ],
+    "label_lonlat": [
+      19.999999999999996,
+      67.33403
+    ],
+    "label_pdf_xy": [
+      352.0324693793289,
+      457.50064522909037
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 9,
+    "region_id": "swe-sami-lule",
+    "anchor_lonlat": [
+      19.84,
+      66.61
+    ],
+    "label_lonlat": [
+      19.84,
+      66.61
+    ],
+    "label_pdf_xy": [
+      348.77644978209946,
+      420.54983999999985
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 10,
+    "region_id": "swe-sami-south",
+    "anchor_lonlat": [
+      14.05495,
+      63.38467
+    ],
+    "label_lonlat": [
+      14.05495,
+      63.38467
+    ],
+    "label_pdf_xy": [
+      231.04997371364493,
+      255.94541666181766
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 10,
+    "region_id": "swe-meankieli",
+    "anchor_lonlat": [
+      22.937505,
+      66.93213
+    ],
+    "label_lonlat": [
+      22.937504999999998,
+      66.93213
+    ],
+    "label_pdf_xy": [
+      411.8110559228273,
+      436.9897152654541
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 10,
+    "region_id": "fin-sami-north",
+    "anchor_lonlat": [
+      27.11872956599075,
+      69.18627
+    ],
+    "label_lonlat": [
+      27.118729565990748,
+      69.18627000000001
+    ],
+    "label_pdf_xy": [
+      496.8994879683487,
+      552.029545243636
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 10,
+    "region_id": "fin-sami-inari",
+    "anchor_lonlat": [
+      27.02,
+      68.91
+    ],
+    "label_lonlat": [
+      27.019999999999996,
+      68.6560561754521
+    ],
+    "label_pdf_xy": [
+      494.89032920777464,
+      524.9701309090902
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 10,
+    "region_id": "fin-sami-skolt",
+    "anchor_lonlat": [
+      28.6,
+      69.51
+    ],
+    "label_lonlat": [
+      28.6,
+      69.51
+    ],
+    "label_pdf_xy": [
+      527.0435227304165,
+      568.5510763636363
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 10,
+    "region_id": "swe-sami-ume",
+    "anchor_lonlat": [
+      18.15,
+      65.53
+    ],
+    "label_lonlat": [
+      18.15,
+      65.53000000000002
+    ],
+    "label_pdf_xy": [
+      314.3847427863624,
+      365.4321381818183
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      8.5,
+      61,
+      32,
+      72
+    ]
+  },
+  {
+    "page": 11,
+    "region_id": "est-base",
+    "anchor_lonlat": [
+      25.494711660163166,
+      58.593455
+    ],
+    "label_lonlat": [
+      25.494711660163162,
+      58.593455
+    ],
+    "label_pdf_xy": [
+      401.15000112956994,
+      582.8263059599997
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      20,
+      53,
+      29,
+      60
+    ]
+  },
+  {
+    "page": 11,
+    "region_id": "lva-base",
+    "anchor_lonlat": [
+      24.376839714909153,
+      56.857704999999996
+    ],
+    "label_lonlat": [
+      24.37683971490915,
+      56.857704999999996
+    ],
+    "label_pdf_xy": [
+      351.668422715002,
+      443.62312338857083
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      20,
+      53,
+      29,
+      60
+    ]
+  },
+  {
+    "page": 11,
+    "region_id": "ltu-base",
+    "anchor_lonlat": [
+      24.14372177916797,
+      55.16909
+    ],
+    "label_lonlat": [
+      24.143721779167965,
+      55.169090000000004
+    ],
+    "label_pdf_xy": [
+      341.3496706735072,
+      308.2000600800001
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      20,
+      53,
+      29,
+      60
+    ]
+  },
+  {
+    "page": 12,
+    "region_id": "nld-base",
+    "anchor_lonlat": [
+      5.5341037376560465,
+      52.10788
+    ],
+    "label_lonlat": [
+      5.5341037376560465,
+      52.107879999999994
+    ],
+    "label_pdf_xy": [
+      407.81912614969275,
+      469.62674594042534
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      2.2,
+      49.3,
+      7.5,
+      54
+    ]
+  },
+  {
+    "page": 12,
+    "region_id": "lux-base",
+    "anchor_lonlat": [
+      6.07899135359116,
+      49.80704
+    ],
+    "label_lonlat": [
+      6.07899135359116,
+      49.80704
+    ],
+    "label_pdf_xy": [
+      448.20090519442164,
+      194.80658369361714
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      2.2,
+      49.3,
+      7.5,
+      54
+    ]
+  },
+  {
+    "page": 12,
+    "region_id": "bel-north",
+    "anchor_lonlat": [
+      3.358050281382565,
+      51.092079999999996
+    ],
+    "label_lonlat": [
+      3.358050281382565,
+      51.092079999999996
+    ],
+    "label_pdf_xy": [
+      246.55117420706964,
+      348.29613589787203
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      2.2,
+      49.3,
+      7.5,
+      54
+    ]
+  },
+  {
+    "page": 13,
+    "region_id": "bel-south",
+    "anchor_lonlat": [
+      5.392548428022656,
+      50.156345
+    ],
+    "label_lonlat": [
+      5.392548428022656,
+      50.156345
+    ],
+    "label_pdf_xy": [
+      397.32842115098623,
+      236.52876201702165
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      2.2,
+      49.3,
+      7.5,
+      54
+    ]
+  },
+  {
+    "page": 13,
+    "region_id": "bel-brussels",
+    "anchor_lonlat": [
+      4.35,
+      50.85
+    ],
+    "label_lonlat": [
+      4.35,
+      50.85
+    ],
+    "label_pdf_xy": [
+      320.0648551740092,
+      319.3812765957453
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      2.2,
+      49.3,
+      7.5,
+      54
+    ]
+  },
+  {
+    "page": 13,
+    "region_id": "bel-german",
+    "anchor_lonlat": [
+      6.03,
+      50.63
+    ],
+    "label_lonlat": [
+      6.030000000000001,
+      50.629999999999995
+    ],
+    "label_pdf_xy": [
+      444.57014178933815,
+      293.1037276595742
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      2.2,
+      49.3,
+      7.5,
+      54
+    ]
+  },
+  {
+    "page": 13,
+    "region_id": "nld-friesland",
+    "anchor_lonlat": [
+      5.810574490648578,
+      53.114425
+    ],
+    "label_lonlat": [
+      5.810574490648578,
+      53.114425
+    ],
+    "label_pdf_xy": [
+      428.30845373427064,
+      589.851907276595
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      2.2,
+      49.3,
+      7.5,
+      54
+    ]
+  },
+  {
+    "page": 14,
+    "region_id": "fra-base",
+    "anchor_lonlat": [
+      2.196502986335925,
+      46.732555000000005
+    ],
+    "label_lonlat": [
+      2.1965029863359273,
+      46.732555000000005
+    ],
+    "label_pdf_xy": [
+      355.14211673949563,
+      440.7358720114287
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -5.5,
+      41,
+      10,
+      51.5
+    ]
+  },
+  {
+    "page": 14,
+    "region_id": "fra-breton",
+    "anchor_lonlat": [
+      -1.7486921090793741,
+      48.165769999999995
+    ],
+    "label_lonlat": [
+      -1.7486921090793732,
+      48.165769999999995
+    ],
+    "label_pdf_xy": [
+      209.28097787958467,
+      517.3629167314282
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -5.5,
+      41,
+      10,
+      51.5
+    ]
+  },
+  {
+    "page": 14,
+    "region_id": "fra-basque",
+    "anchor_lonlat": [
+      -1.2881725000000033,
+      43.329840000000004
+    ],
+    "label_lonlat": [
+      -1.2881725000000017,
+      43.329840000000004
+    ],
+    "label_pdf_xy": [
+      226.30723717046192,
+      258.8092284342858
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -5.5,
+      41,
+      10,
+      51.5
+    ]
+  },
+  {
+    "page": 14,
+    "region_id": "fra-catalan",
+    "anchor_lonlat": [
+      2.4993305446211913,
+      42.60041
+    ],
+    "label_lonlat": [
+      2.499330544621193,
+      42.60041
+    ],
+    "label_pdf_xy": [
+      366.33821007870347,
+      219.81014927999968
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -5.5,
+      41,
+      10,
+      51.5
+    ]
+  },
+  {
+    "page": 14,
+    "region_id": "fra-occitan",
+    "anchor_lonlat": [
+      2.3,
+      44.339545
+    ],
+    "label_lonlat": [
+      2.3000000000000007,
+      44.339545
+    ],
+    "label_pdf_xy": [
+      358.9685922157489,
+      312.79325050285706
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -5.5,
+      41,
+      10,
+      51.5
+    ]
+  },
+  {
+    "page": 14,
+    "region_id": "fra-corsica",
+    "anchor_lonlat": [
+      9.066466679716541,
+      42.20722
+    ],
+    "label_lonlat": [
+      9.066466679716543,
+      42.20721999999999
+    ],
+    "label_pdf_xy": [
+      609.137344860718,
+      198.78818975999974
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -5.5,
+      41,
+      10,
+      51.5
+    ]
+  },
+  {
+    "page": 14,
+    "region_id": "fra-alsace",
+    "anchor_lonlat": [
+      7.38693223014875,
+      48.208715
+    ],
+    "label_lonlat": [
+      7.38693223014875,
+      48.208715
+    ],
+    "label_pdf_xy": [
+      547.0418586696545,
+      519.6589772914284
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -5.5,
+      41,
+      10,
+      51.5
+    ]
+  },
+  {
+    "page": 15,
+    "region_id": "deu-base",
+    "anchor_lonlat": [
+      10.519741257598564,
+      51.11347
+    ],
+    "label_lonlat": [
+      10.519741257598564,
+      51.11347
+    ],
+    "label_pdf_xy": [
+      357.936088312895,
+      405.9188520564705
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.5,
+      47,
+      15.5,
+      55.5
+    ]
+  },
+  {
+    "page": 15,
+    "region_id": "deu-sorbian-upper",
+    "anchor_lonlat": [
+      14.325,
+      51.349999999999994
+    ],
+    "label_lonlat": [
+      14.324999999999998,
+      51.34999999999999
+    ],
+    "label_pdf_xy": [
+      515.242540128859,
+      421.54051764705787
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.5,
+      47,
+      15.5,
+      55.5
+    ]
+  },
+  {
+    "page": 15,
+    "region_id": "deu-sorbian-lower",
+    "anchor_lonlat": [
+      14.204997500000001,
+      51.78645
+    ],
+    "label_lonlat": [
+      14.204997500000001,
+      51.786449999999995
+    ],
+    "label_pdf_xy": [
+      510.2817296394962,
+      450.36593491764665
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.5,
+      47,
+      15.5,
+      55.5
+    ]
+  },
+  {
+    "page": 15,
+    "region_id": "deu-frisian-north",
+    "anchor_lonlat": [
+      8.989677499999999,
+      54.65343
+    ],
+    "label_lonlat": [
+      8.989677499999999,
+      54.65342999999999
+    ],
+    "label_pdf_xy": [
+      294.68443657156377,
+      639.7161349552936
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.5,
+      47,
+      15.5,
+      55.5
+    ]
+  },
+  {
+    "page": 15,
+    "region_id": "deu-danish",
+    "anchor_lonlat": [
+      9.43,
+      54.78
+    ],
+    "label_lonlat": [
+      9.743503691248584,
+      54.779999999999994
+    ],
+    "label_pdf_xy": [
+      325.8470279900969,
+      648.075472941176
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.5,
+      47,
+      15.5,
+      55.5
+    ]
+  },
+  {
+    "page": 15,
+    "region_id": "deu-saterland",
+    "anchor_lonlat": [
+      7.68,
+      53.09
+    ],
+    "label_lonlat": [
+      7.68,
+      53.09
+    ],
+    "label_pdf_xy": [
+      240.5433821795078,
+      536.4591247058825
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.5,
+      47,
+      15.5,
+      55.5
+    ]
+  },
+  {
+    "page": 15,
+    "region_id": "deu-low-german",
+    "anchor_lonlat": [
+      8.9918375,
+      53.161355
+    ],
+    "label_lonlat": [
+      8.9918375,
+      53.161355
+    ],
+    "label_pdf_xy": [
+      294.7737293001071,
+      541.1717782729411
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.5,
+      47,
+      15.5,
+      55.5
+    ]
+  },
+  {
+    "page": 16,
+    "region_id": "aut-base",
+    "anchor_lonlat": [
+      14.746611803196888,
+      47.69373
+    ],
+    "label_lonlat": [
+      14.746611803196888,
+      47.69373
+    ],
+    "label_pdf_xy": [
+      473.77871886970826,
+      447.66819212687
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      9,
+      45.6,
+      17.4,
+      49.2
+    ]
+  },
+  {
+    "page": 16,
+    "region_id": "aut-slovene",
+    "anchor_lonlat": [
+      14.298202401585566,
+      46.62899
+    ],
+    "label_lonlat": [
+      14.298202401585566,
+      46.62899
+    ],
+    "label_pdf_xy": [
+      439.9558382910257,
+      329.01747805216337
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      9,
+      45.6,
+      17.4,
+      49.2
+    ]
+  },
+  {
+    "page": 16,
+    "region_id": "aut-croatian",
+    "anchor_lonlat": [
+      16.461485409143066,
+      47.47394
+    ],
+    "label_lonlat": [
+      16.461485409143066,
+      47.47394
+    ],
+    "label_pdf_xy": [
+      603.1291851467913,
+      423.1756019673193
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      9,
+      45.6,
+      17.4,
+      49.2
+    ]
+  },
+  {
+    "page": 16,
+    "region_id": "aut-hungarian",
+    "anchor_lonlat": [
+      16.2,
+      47.29
+    ],
+    "label_lonlat": [
+      16.2,
+      47.29
+    ],
+    "label_pdf_xy": [
+      583.4057142857145,
+      402.6780041059621
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      9,
+      45.6,
+      17.4,
+      49.2
+    ]
+  },
+  {
+    "page": 17,
+    "region_id": "lie-base",
+    "anchor_lonlat": [
+      9.541894507025248,
+      47.137460000000004
+    ],
+    "label_lonlat": [
+      9.541894507025248,
+      47.137460000000004
+    ],
+    "label_pdf_xy": [
+      514.4928719302393,
+      472.8039550848799
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.8,
+      45.7,
+      10.8,
+      47.95
+    ]
+  },
+  {
+    "page": 17,
+    "region_id": "che-german",
+    "anchor_lonlat": [
+      8.94343525821466,
+      47.062985
+    ],
+    "label_lonlat": [
+      8.94343525821466,
+      47.062985
+    ],
+    "label_pdf_xy": [
+      438.65611592096155,
+      459.0110985434128
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.8,
+      45.7,
+      10.8,
+      47.95
+    ]
+  },
+  {
+    "page": 17,
+    "region_id": "che-french",
+    "anchor_lonlat": [
+      6.684407674187085,
+      46.524680000000004
+    ],
+    "label_lonlat": [
+      6.684407674187085,
+      46.524680000000004
+    ],
+    "label_pdf_xy": [
+      152.39214047298736,
+      359.3163870220492
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.8,
+      45.7,
+      10.8,
+      47.95
+    ]
+  },
+  {
+    "page": 17,
+    "region_id": "che-italian",
+    "anchor_lonlat": [
+      8.770957555055794,
+      46.22798
+    ],
+    "label_lonlat": [
+      8.770957555055794,
+      46.227979999999995
+    ],
+    "label_pdf_xy": [
+      416.7997413766701,
+      304.3672022506109
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.8,
+      45.7,
+      10.8,
+      47.95
+    ]
+  },
+  {
+    "page": 17,
+    "region_id": "che-romansh",
+    "anchor_lonlat": [
+      9.567787387149519,
+      46.61917
+    ],
+    "label_lonlat": [
+      9.567787387149519,
+      46.61917
+    ],
+    "label_pdf_xy": [
+      517.7740176995869,
+      376.8160448213512
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      5.8,
+      45.7,
+      10.8,
+      47.95
+    ]
+  },
+  {
+    "page": 18,
+    "region_id": "esp-base",
+    "anchor_lonlat": [
+      -3.4893297331291184,
+      39.881855
+    ],
+    "label_lonlat": [
+      -3.489329733129119,
+      39.881855
+    ],
+    "label_pdf_xy": [
+      326.89810845738003,
+      413.96916675367976
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 18,
+    "region_id": "prt-base",
+    "anchor_lonlat": [
+      -8.287680405094903,
+      39.54773
+    ],
+    "label_lonlat": [
+      -8.287680405094903,
+      39.54773
+    ],
+    "label_pdf_xy": [
+      130.7539158278625,
+      396.1657411032614
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 18,
+    "region_id": "and-base",
+    "anchor_lonlat": [
+      1.563758491686842,
+      42.538880000000006
+    ],
+    "label_lonlat": [
+      1.5637584916868423,
+      42.538880000000006
+    ],
+    "label_pdf_xy": [
+      533.4553148601796,
+      555.5453644006758
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 18,
+    "region_id": "gib-base",
+    "anchor_lonlat": [
+      -5.3471263063357295,
+      36.1302
+    ],
+    "label_lonlat": [
+      -5.347126306335731,
+      36.1302
+    ],
+    "label_pdf_xy": [
+      250.95617885843106,
+      214.0670018198385
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 18,
+    "region_id": "esp-catalan",
+    "anchor_lonlat": [
+      1.5833585268163892,
+      41.68603
+    ],
+    "label_lonlat": [
+      1.5833585268163883,
+      41.68603000000001
+    ],
+    "label_pdf_xy": [
+      534.2565137155397,
+      510.1023368931285
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 18,
+    "region_id": "esp-valencian",
+    "anchor_lonlat": [
+      -0.7528573182028055,
+      39.309045
+    ],
+    "label_lonlat": [
+      -0.7528573182028051,
+      39.309045
+    ],
+    "label_pdf_xy": [
+      438.7580389152712,
+      383.4477144624231
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 18,
+    "region_id": "esp-balearic",
+    "anchor_lonlat": [
+      2.886101278482212,
+      39.61756
+    ],
+    "label_lonlat": [
+      2.8861012784822115,
+      39.61756
+    ],
+    "label_pdf_xy": [
+      587.50927548686,
+      399.8865438362765
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 19,
+    "region_id": "esp-basque",
+    "anchor_lonlat": [
+      -2.5588163016372136,
+      42.963840000000005
+    ],
+    "label_lonlat": [
+      -2.558816301637215,
+      42.963840000000005
+    ],
+    "label_pdf_xy": [
+      364.93509621178464,
+      578.1888174927869
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 19,
+    "region_id": "esp-navarre",
+    "anchor_lonlat": [
+      -1.9806855850340117,
+      43.050135
+    ],
+    "label_lonlat": [
+      -1.9806855850340135,
+      43.050135
+    ],
+    "label_pdf_xy": [
+      388.56758795628707,
+      582.7869368089192
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 19,
+    "region_id": "esp-galician",
+    "anchor_lonlat": [
+      -7.883722467935544,
+      42.80394
+    ],
+    "label_lonlat": [
+      -7.883722467935545,
+      42.80394
+    ],
+    "label_pdf_xy": [
+      147.2666738268412,
+      569.6687493700724
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 19,
+    "region_id": "esp-asturian",
+    "anchor_lonlat": [
+      -5.849893239339419,
+      43.287459999999996
+    ],
+    "label_lonlat": [
+      -5.84989323933942,
+      43.287459999999996
+    ],
+    "label_pdf_xy": [
+      230.40436410029312,
+      595.4324975795455
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 19,
+    "region_id": "esp-aranese",
+    "anchor_lonlat": [
+      0.8,
+      42.7
+    ],
+    "label_lonlat": [
+      0.7999999999999989,
+      42.7
+    ],
+    "label_pdf_xy": [
+      502.23483870967743,
+      564.1304386716679
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 19,
+    "region_id": "esp-aragonese",
+    "anchor_lonlat": [
+      -0.3,
+      42.6
+    ],
+    "label_lonlat": [
+      -0.3000000000000007,
+      42.60000000000001
+    ],
+    "label_pdf_xy": [
+      457.2696774193548,
+      558.8020658619657
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 19,
+    "region_id": "prt-mirandese",
+    "anchor_lonlat": [
+      -6.27,
+      41.5
+    ],
+    "label_lonlat": [
+      -6.2700000000000005,
+      41.5
+    ],
+    "label_pdf_xy": [
+      213.2314838709677,
+      500.1899649552387
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      -10.5,
+      35.5,
+      5,
+      44.3
+    ]
+  },
+  {
+    "page": 20,
+    "region_id": "ita-base",
+    "anchor_lonlat": [
+      12.686959276387377,
+      42.500545
+    ],
+    "label_lonlat": [
+      12.686959276387379,
+      42.500545
+    ],
+    "label_pdf_xy": [
+      363.54526171010707,
+      476.576191404878
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 20,
+    "region_id": "smr-base",
+    "anchor_lonlat": [
+      12.435038737982604,
+      43.93647
+    ],
+    "label_lonlat": [
+      12.435038737982604,
+      43.93647
+    ],
+    "label_pdf_xy": [
+      354.8874650996414,
+      542.1132093073168
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 20,
+    "region_id": "vat-base",
+    "anchor_lonlat": [
+      12.453778275862067,
+      41.903305
+    ],
+    "label_lonlat": [
+      12.453778275862069,
+      41.903305
+    ],
+    "label_pdf_xy": [
+      355.53149003131983,
+      449.3175751317074
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 20,
+    "region_id": "mco-base",
+    "anchor_lonlat": [
+      7.4000834122442285,
+      43.733045000000004
+    ],
+    "label_lonlat": [
+      7.400083412244229,
+      43.733045000000004
+    ],
+    "label_pdf_xy": [
+      181.85028667402713,
+      532.8286938439023
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 20,
+    "region_id": "ita-german",
+    "anchor_lonlat": [
+      11.233414004818886,
+      46.652815000000004
+    ],
+    "label_lonlat": [
+      11.233414004818888,
+      46.652815000000004
+    ],
+    "label_pdf_xy": [
+      313.5910205631472,
+      666.0898452000001
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 21,
+    "region_id": "ita-ladin",
+    "anchor_lonlat": [
+      11.67,
+      46.55
+    ],
+    "label_lonlat": [
+      11.67,
+      46.55
+    ],
+    "label_pdf_xy": [
+      328.595246789365,
+      661.3972682926827
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 21,
+    "region_id": "ita-french",
+    "anchor_lonlat": [
+      7.361714646139504,
+      45.717545
+    ],
+    "label_lonlat": [
+      7.3617146461395055,
+      45.717544999999994
+    ],
+    "label_pdf_xy": [
+      180.53166066904657,
+      623.4032099414632
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 21,
+    "region_id": "ita-francoprov",
+    "anchor_lonlat": [
+      7.361714646139504,
+      45.717545
+    ],
+    "label_lonlat": [
+      8.032121848571327,
+      45.717544999999994
+    ],
+    "label_pdf_xy": [
+      203.57166066904654,
+      623.4032099414632
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 21,
+    "region_id": "ita-friulian",
+    "anchor_lonlat": [
+      13.285686111740052,
+      46.135999999999996
+    ],
+    "label_lonlat": [
+      13.285686111740054,
+      46.135999999999996
+    ],
+    "label_pdf_xy": [
+      384.1218101667572,
+      642.5019043902436
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 21,
+    "region_id": "ita-slovene",
+    "anchor_lonlat": [
+      13.4929998172584,
+      45.83826
+    ],
+    "label_lonlat": [
+      13.4929998172584,
+      45.55430463255098
+    ],
+    "label_pdf_xy": [
+      391.2465960548213,
+      615.952760312195
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 21,
+    "region_id": "ita-sardinian",
+    "anchor_lonlat": [
+      9.101192063519672,
+      40.073045
+    ],
+    "label_lonlat": [
+      9.101192063519672,
+      40.073045
+    ],
+    "label_pdf_xy": [
+      240.31258120668772,
+      365.7827231121951
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 21,
+    "region_id": "ita-catalan",
+    "anchor_lonlat": [
+      8.32,
+      40.56
+    ],
+    "label_lonlat": [
+      8.320000000000002,
+      40.56
+    ],
+    "label_pdf_xy": [
+      213.46521877053667,
+      388.00782439024397
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      6,
+      35,
+      19,
+      47.3
+    ]
+  },
+  {
+    "page": 22,
+    "region_id": "pol-base",
+    "anchor_lonlat": [
+      19.15830852986347,
+      51.92912
+    ],
+    "label_lonlat": [
+      19.15830852986347,
+      51.92912
+    ],
+    "label_pdf_xy": [
+      365.9646992928654,
+      417.57269388387033
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13.7,
+      48.8,
+      24.3,
+      55
+    ]
+  },
+  {
+    "page": 22,
+    "region_id": "pol-kashubian",
+    "anchor_lonlat": [
+      18.0,
+      54.049495
+    ],
+    "label_lonlat": [
+      18.0,
+      54.04949500000001
+    ],
+    "label_pdf_xy": [
+      301.24998907580425,
+      609.5637582387094
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13.7,
+      48.8,
+      24.3,
+      55
+    ]
+  },
+  {
+    "page": 22,
+    "region_id": "pol-german",
+    "anchor_lonlat": [
+      17.815333858765406,
+      50.56283
+    ],
+    "label_lonlat": [
+      17.815333858765406,
+      50.56283
+    ],
+    "label_pdf_xy": [
+      290.93268974769853,
+      293.8608639870961
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13.7,
+      48.8,
+      24.3,
+      55
+    ]
+  },
+  {
+    "page": 22,
+    "region_id": "pol-belarusian",
+    "anchor_lonlat": [
+      23.3547625,
+      52.93703
+    ],
+    "label_lonlat": [
+      23.3547625,
+      52.93703
+    ],
+    "label_pdf_xy": [
+      600.4206284472781,
+      508.8347176645155
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13.7,
+      48.8,
+      24.3,
+      55
+    ]
+  },
+  {
+    "page": 22,
+    "region_id": "pol-lithuanian",
+    "anchor_lonlat": [
+      23.18,
+      54.25
+    ],
+    "label_lonlat": [
+      23.18,
+      54.25
+    ],
+    "label_pdf_xy": [
+      590.6566456631385,
+      627.7186451612895
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13.7,
+      48.8,
+      24.3,
+      55
+    ]
+  },
+  {
+    "page": 22,
+    "region_id": "pol-lemko",
+    "anchor_lonlat": [
+      21.35,
+      49.599720000000005
+    ],
+    "label_lonlat": [
+      21.35,
+      49.599720000000005
+    ],
+    "label_pdf_xy": [
+      488.4145256718603,
+      206.65529233548412
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13.7,
+      48.8,
+      24.3,
+      55
+    ]
+  },
+  {
+    "page": 23,
+    "region_id": "cze-base",
+    "anchor_lonlat": [
+      15.514412065183974,
+      49.792235
+    ],
+    "label_lonlat": [
+      15.514412065183972,
+      49.792235000000005
+    ],
+    "label_pdf_xy": [
+      250.44959683040764,
+      533.5647291512573
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ]
+  },
+  {
+    "page": 23,
+    "region_id": "svk-base",
+    "anchor_lonlat": [
+      19.615761227006757,
+      48.65242
+    ],
+    "label_lonlat": [
+      19.615761227006757,
+      48.652420000000006
+    ],
+    "label_pdf_xy": [
+      482.46877798495376,
+      436.444052744228
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ]
+  },
+  {
+    "page": 23,
+    "region_id": "hun-base",
+    "anchor_lonlat": [
+      19.12292048532592,
+      47.15924
+    ],
+    "label_lonlat": [
+      19.12292048532592,
+      47.159240000000004
+    ],
+    "label_pdf_xy": [
+      454.58807316986633,
+      309.21406226555547
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ]
+  },
+  {
+    "page": 23,
+    "region_id": "cze-polish",
+    "anchor_lonlat": [
+      18.63,
+      49.75
+    ],
+    "label_lonlat": [
+      18.629999999999995,
+      49.75000000000001
+    ],
+    "label_pdf_xy": [
+      426.7028571428571,
+      529.9659944723392
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ]
+  },
+  {
+    "page": 24,
+    "region_id": "svk-hungarian",
+    "anchor_lonlat": [
+      18.252368747705926,
+      48.177405
+    ],
+    "label_lonlat": [
+      18.252368747705923,
+      48.17740500000001
+    ],
+    "label_pdf_xy": [
+      405.33971772736385,
+      395.96925805957767
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ]
+  },
+  {
+    "page": 24,
+    "region_id": "svk-rusyn",
+    "anchor_lonlat": [
+      21.6034725,
+      49.155995000000004
+    ],
+    "label_lonlat": [
+      21.6034725,
+      49.15599500000001
+    ],
+    "label_pdf_xy": [
+      594.9164442857143,
+      479.3523708674936
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ]
+  },
+  {
+    "page": 24,
+    "region_id": "hun-german",
+    "anchor_lonlat": [
+      18.23,
+      46.08
+    ],
+    "label_lonlat": [
+      18.229999999999997,
+      46.080000000000005
+    ],
+    "label_pdf_xy": [
+      404.0742857142858,
+      217.2548243142016
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ]
+  },
+  {
+    "page": 24,
+    "region_id": "hun-slovak",
+    "anchor_lonlat": [
+      21.09,
+      46.68
+    ],
+    "label_lonlat": [
+      21.09,
+      46.68000000000001
+    ],
+    "label_pdf_xy": [
+      565.8685714285715,
+      268.379266301908
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      11.8,
+      45.5,
+      23,
+      51.3
+    ]
+  },
+  {
+    "page": 25,
+    "region_id": "svn-base",
+    "anchor_lonlat": [
+      14.614342763182496,
+      46.143384999999995
+    ],
+    "label_lonlat": [
+      14.614342763182497,
+      46.143384999999995
+    ],
+    "label_pdf_xy": [
+      206.97785755063836,
+      594.301895252829
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ]
+  },
+  {
+    "page": 25,
+    "region_id": "hrv-base",
+    "anchor_lonlat": [
+      15.31808761904762,
+      44.746674999999996
+    ],
+    "label_lonlat": [
+      15.31808761904762,
+      44.746674999999996
+    ],
+    "label_pdf_xy": [
+      260.19034480078204,
+      446.36026381132035
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ]
+  },
+  {
+    "page": 25,
+    "region_id": "bih-base",
+    "anchor_lonlat": [
+      17.954568631157528,
+      43.89918
+    ],
+    "label_lonlat": [
+      17.954568631157528,
+      43.89918
+    ],
+    "label_pdf_xy": [
+      459.54343572985084,
+      356.59231417358467
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ]
+  },
+  {
+    "page": 26,
+    "region_id": "svn-italian",
+    "anchor_lonlat": [
+      13.800243454719546,
+      45.51142
+    ],
+    "label_lonlat": [
+      13.80024345471955,
+      45.51142
+    ],
+    "label_pdf_xy": [
+      145.42110340757424,
+      527.3632085433958
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ]
+  },
+  {
+    "page": 26,
+    "region_id": "svn-hungarian",
+    "anchor_lonlat": [
+      16.261055524543437,
+      46.73101
+    ],
+    "label_lonlat": [
+      16.261055524543437,
+      46.73101
+    ],
+    "label_pdf_xy": [
+      331.4912818240541,
+      656.5440222339614
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ]
+  },
+  {
+    "page": 26,
+    "region_id": "hrv-italian",
+    "anchor_lonlat": [
+      13.94180690397349,
+      45.13987
+    ],
+    "label_lonlat": [
+      13.941806903973491,
+      45.13987
+    ],
+    "label_pdf_xy": [
+      156.1251862519901,
+      488.0080717132077
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ]
+  },
+  {
+    "page": 26,
+    "region_id": "hrv-serbian",
+    "anchor_lonlat": [
+      18.95,
+      45.42
+    ],
+    "label_lonlat": [
+      18.950000000000003,
+      45.42
+    ],
+    "label_pdf_xy": [
+      534.8113095643346,
+      517.6798641509434
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ]
+  },
+  {
+    "page": 26,
+    "region_id": "hrv-czech",
+    "anchor_lonlat": [
+      17.23,
+      45.55
+    ],
+    "label_lonlat": [
+      17.230000000000004,
+      45.55
+    ],
+    "label_pdf_xy": [
+      404.75639362788564,
+      531.449660377358
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      12.7,
+      41.8,
+      20.5,
+      47.1
+    ]
+  },
+  {
+    "page": 27,
+    "region_id": "srb-base",
+    "anchor_lonlat": [
+      21.00737564112857,
+      44.20982
+    ],
+    "label_lonlat": [
+      21.00737564112857,
+      44.20981999999999
+    ],
+    "label_pdf_xy": [
+      369.830470550406,
+      438.49391817599985
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.5,
+      41.5,
+      23.2,
+      46.5
+    ]
+  },
+  {
+    "page": 27,
+    "region_id": "xkx-base",
+    "anchor_lonlat": [
+      20.903078929948283,
+      42.5877
+    ],
+    "label_lonlat": [
+      20.903078929948286,
+      42.58769999999999
+    ],
+    "label_pdf_xy": [
+      361.406928848179,
+      256.36747535999916
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.5,
+      41.5,
+      23.2,
+      46.5
+    ]
+  },
+  {
+    "page": 27,
+    "region_id": "srb-vojvodina",
+    "anchor_lonlat": [
+      19.947375289459522,
+      45.403665000000004
+    ],
+    "label_lonlat": [
+      19.947375289459526,
+      45.403665
+    ],
+    "label_pdf_xy": [
+      284.2193609994531,
+      572.5350144720002
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.5,
+      41.5,
+      23.2,
+      46.5
+    ]
+  },
+  {
+    "page": 28,
+    "region_id": "srb-vojvodina",
+    "anchor_lonlat": [
+      19.947375289459522,
+      45.403665000000004
+    ],
+    "label_lonlat": [
+      19.947375289459526,
+      45.403665
+    ],
+    "label_pdf_xy": [
+      284.2193609994531,
+      572.5350144720002
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.5,
+      41.5,
+      23.2,
+      46.5
+    ]
+  },
+  {
+    "page": 28,
+    "region_id": "srb-bosnian",
+    "anchor_lonlat": [
+      20.52,
+      43.14
+    ],
+    "label_lonlat": [
+      20.520000000000003,
+      43.13999999999999
+    ],
+    "label_pdf_xy": [
+      330.4674936047615,
+      318.3779519999994
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.5,
+      41.5,
+      23.2,
+      46.5
+    ]
+  },
+  {
+    "page": 28,
+    "region_id": "srb-albanian",
+    "anchor_lonlat": [
+      21.65,
+      42.31
+    ],
+    "label_lonlat": [
+      21.650000000000002,
+      42.309999999999995
+    ],
+    "label_pdf_xy": [
+      421.73213671573023,
+      225.18820799999958
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.5,
+      41.5,
+      23.2,
+      46.5
+    ]
+  },
+  {
+    "page": 28,
+    "region_id": "xkx-turkish",
+    "anchor_lonlat": [
+      20.74,
+      42.21
+    ],
+    "label_lonlat": [
+      20.740000000000002,
+      42.209999999999994
+    ],
+    "label_pdf_xy": [
+      348.2358312015873,
+      213.96052799999953
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.5,
+      41.5,
+      23.2,
+      46.5
+    ]
+  },
+  {
+    "page": 29,
+    "region_id": "mne-base",
+    "anchor_lonlat": [
+      19.2977252065104,
+      42.68803
+    ],
+    "label_lonlat": [
+      19.2977252065104,
+      42.68803
+    ],
+    "label_pdf_xy": [
+      210.3418201683094,
+      563.5108450046503
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 30,
+    "region_id": "mne-base",
+    "anchor_lonlat": [
+      19.2977252065104,
+      42.68803
+    ],
+    "label_lonlat": [
+      19.2977252065104,
+      42.68803
+    ],
+    "label_pdf_xy": [
+      210.3418201683094,
+      563.5108450046503
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 30,
+    "region_id": "alb-base",
+    "anchor_lonlat": [
+      20.006479017700045,
+      41.14564
+    ],
+    "label_lonlat": [
+      20.006479017700045,
+      41.14564
+    ],
+    "label_pdf_xy": [
+      279.5898664019428,
+      362.1450152930229
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 30,
+    "region_id": "mkd-base",
+    "anchor_lonlat": [
+      21.733097294156288,
+      41.598805
+    ],
+    "label_lonlat": [
+      21.733097294156288,
+      41.598805000000006
+    ],
+    "label_pdf_xy": [
+      448.2872904555623,
+      421.3077083999999
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 30,
+    "region_id": "mne-albanian",
+    "anchor_lonlat": [
+      19.1892475,
+      42.17792
+    ],
+    "label_lonlat": [
+      19.189247500000004,
+      42.17792000000001
+    ],
+    "label_pdf_xy": [
+      199.74311986200428,
+      496.91373053023256
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 30,
+    "region_id": "alb-greek",
+    "anchor_lonlat": [
+      20.26,
+      39.88
+    ],
+    "label_lonlat": [
+      20.26,
+      39.88
+    ],
+    "label_pdf_xy": [
+      304.3598675311587,
+      196.91012093023295
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 31,
+    "region_id": "mkd-albanian",
+    "anchor_lonlat": [
+      20.95,
+      41.529955
+    ],
+    "label_lonlat": [
+      20.950000000000003,
+      41.529955
+    ],
+    "label_pdf_xy": [
+      371.7755923524563,
+      412.3190366790697
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 31,
+    "region_id": "mkd-turkish",
+    "anchor_lonlat": [
+      21.0,
+      41.51
+    ],
+    "label_lonlat": [
+      21.0,
+      41.410731050404
+    ],
+    "label_pdf_xy": [
+      376.6607898032749,
+      396.75382325581353
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 31,
+    "region_id": "mkd-romani",
+    "anchor_lonlat": [
+      21.42,
+      42.04
+    ],
+    "label_lonlat": [
+      21.42,
+      42.040000000000006
+    ],
+    "label_pdf_xy": [
+      417.69644839015206,
+      478.90766511627885
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 31,
+    "region_id": "mkd-serbian",
+    "anchor_lonlat": [
+      21.3844,
+      42.1019
+    ],
+    "label_lonlat": [
+      21.3844,
+      42.201168949596
+    ],
+    "label_pdf_xy": [
+      414.2181878051688,
+      499.94898362790684
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 31,
+    "region_id": "mkd-aromanian",
+    "anchor_lonlat": [
+      21.2483,
+      41.3694
+    ],
+    "label_lonlat": [
+      21.2483,
+      41.369400000000006
+    ],
+    "label_pdf_xy": [
+      400.9206803440406,
+      391.357872
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 31,
+    "region_id": "alb-macedonian",
+    "anchor_lonlat": [
+      20.91,
+      40.79
+    ],
+    "label_lonlat": [
+      20.91,
+      40.79
+    ],
+    "label_pdf_xy": [
+      367.8674343918013,
+      315.7146418604649
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      18.3,
+      39.4,
+      23.3,
+      43.7
+    ]
+  },
+  {
+    "page": 32,
+    "region_id": "grc-base",
+    "anchor_lonlat": [
+      21.96853989641243,
+      39.071110000000004
+    ],
+    "label_lonlat": [
+      21.96853989641243,
+      39.071110000000004
+    ],
+    "label_pdf_xy": [
+      298.613949016678,
+      457.6791862436639
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13,
+      33.5,
+      35,
+      42.3
+    ]
+  },
+  {
+    "page": 32,
+    "region_id": "mlt-base",
+    "anchor_lonlat": [
+      14.415130895226826,
+      35.925195
+    ],
+    "label_lonlat": [
+      14.415130895226826,
+      35.92519500000001
+    ],
+    "label_pdf_xy": [
+      81.0757697825326,
+      342.859544406659
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13,
+      33.5,
+      35,
+      42.3
+    ]
+  },
+  {
+    "page": 32,
+    "region_id": "cyp-south",
+    "anchor_lonlat": [
+      32.98764927886179,
+      34.90532
+    ],
+    "label_lonlat": [
+      32.98764927886179,
+      34.90532000000001
+    ],
+    "label_pdf_xy": [
+      615.9642992312197,
+      305.63613493166827
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13,
+      33.5,
+      35,
+      42.3
+    ]
+  },
+  {
+    "page": 32,
+    "region_id": "cyp-north",
+    "anchor_lonlat": [
+      33.80880189064478,
+      35.343819999999994
+    ],
+    "label_lonlat": [
+      33.80880189064478,
+      35.34382
+    ],
+    "label_pdf_xy": [
+      639.6134944505698,
+      321.6405129728822
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      13,
+      33.5,
+      35,
+      42.3
+    ]
+  },
+  {
+    "page": 33,
+    "region_id": "bgr-base",
+    "anchor_lonlat": [
+      25.171803104824082,
+      42.773695000000004
+    ],
+    "label_lonlat": [
+      25.171803104824082,
+      42.773695000000004
+    ],
+    "label_pdf_xy": [
+      345.1594303082977,
+      265.2603149842107
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 33,
+    "region_id": "rou-base",
+    "anchor_lonlat": [
+      24.26878778826412,
+      45.947535
+    ],
+    "label_lonlat": [
+      24.26878778826412,
+      45.947534999999995
+    ],
+    "label_pdf_xy": [
+      297.8293488974016,
+      499.70018268947354
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 33,
+    "region_id": "mda-base",
+    "anchor_lonlat": [
+      28.817673165828054,
+      47.002250000000004
+    ],
+    "label_lonlat": [
+      28.817673165828054,
+      47.00225
+    ],
+    "label_pdf_xy": [
+      536.2517890273416,
+      577.6080939473682
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 33,
+    "region_id": "rou-hungarian-east",
+    "anchor_lonlat": [
+      25.121913854241626,
+      46.345055
+    ],
+    "label_lonlat": [
+      25.121913854241626,
+      46.345055
+    ],
+    "label_pdf_xy": [
+      342.54456625417356,
+      529.0635205421054
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 33,
+    "region_id": "rou-hungarian-west",
+    "anchor_lonlat": [
+      22.832323407650975,
+      47.256275
+    ],
+    "label_lonlat": [
+      22.832323407650975,
+      47.256274999999995
+    ],
+    "label_pdf_xy": [
+      222.53940106210564,
+      596.371984815789
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 33,
+    "region_id": "rou-german",
+    "anchor_lonlat": [
+      24.15,
+      45.8
+    ],
+    "label_lonlat": [
+      24.15,
+      45.62454790303963
+    ],
+    "label_pdf_xy": [
+      291.6032798750299,
+      475.8423157894735
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 34,
+    "region_id": "mda-gagauz",
+    "anchor_lonlat": [
+      28.688535,
+      46.135945
+    ],
+    "label_lonlat": [
+      28.688535,
+      46.13594499999999
+    ],
+    "label_pdf_xy": [
+      529.483221772935,
+      513.6173352473679
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 34,
+    "region_id": "mda-bulgarian",
+    "anchor_lonlat": [
+      28.66,
+      45.9
+    ],
+    "label_lonlat": [
+      28.66,
+      45.89999999999999
+    ],
+    "label_pdf_xy": [
+      527.987606085922,
+      496.18894736842077
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 34,
+    "region_id": "mda-transnistria",
+    "anchor_lonlat": [
+      29.199710481039325,
+      47.286625
+    ],
+    "label_lonlat": [
+      29.199710481039325,
+      47.286624999999994
+    ],
+    "label_pdf_xy": [
+      556.2756545137352,
+      598.6138274999995
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 34,
+    "region_id": "mda-moldovan-cyrillic",
+    "anchor_lonlat": [
+      29.64,
+      46.84
+    ],
+    "label_lonlat": [
+      29.64,
+      46.839999999999996
+    ],
+    "label_pdf_xy": [
+      579.3527146638987,
+      565.6232842105262
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19.8,
+      41,
+      31,
+      48.6
+    ]
+  },
+  {
+    "page": 35,
+    "region_id": "ukr-base",
+    "anchor_lonlat": [
+      33.90488655616456,
+      48.371145
+    ],
+    "label_lonlat": [
+      33.90488655616456,
+      48.37114499999999
+    ],
+    "label_pdf_xy": [
+      430.04445161977213,
+      323.00483574461475
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      21.5,
+      44,
+      41,
+      57
+    ]
+  },
+  {
+    "page": 35,
+    "region_id": "blr-base",
+    "anchor_lonlat": [
+      28.020147206443006,
+      53.695535
+    ],
+    "label_lonlat": [
+      28.020147206443003,
+      53.69553499999999
+    ],
+    "label_pdf_xy": [
+      268.40236977364356,
+      552.9300169569226
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      21.5,
+      44,
+      41,
+      57
+    ]
+  },
+  {
+    "page": 35,
+    "region_id": "ukr-hungarian",
+    "anchor_lonlat": [
+      22.64,
+      48.21
+    ],
+    "label_lonlat": [
+      22.64,
+      48.21
+    ],
+    "label_pdf_xy": [
+      120.6204301828563,
+      316.0460492307689
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      21.5,
+      44,
+      41,
+      57
+    ]
+  },
+  {
+    "page": 35,
+    "region_id": "ukr-romanian",
+    "anchor_lonlat": [
+      25.92,
+      48.15
+    ],
+    "label_lonlat": [
+      25.92,
+      48.14999999999999
+    ],
+    "label_pdf_xy": [
+      210.71550439891107,
+      313.4550461538457
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      21.5,
+      44,
+      41,
+      57
+    ]
+  },
+  {
+    "page": 35,
+    "region_id": "ukr-russian",
+    "anchor_lonlat": [
+      35.611665,
+      47.34711
+    ],
+    "label_lonlat": [
+      35.611665,
+      47.347109999999994
+    ],
+    "label_pdf_xy": [
+      476.9262597196857,
+      278.7835384799995
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      21.5,
+      44,
+      41,
+      57
+    ]
+  },
+  {
+    "page": 36,
+    "region_id": "arm-base",
+    "anchor_lonlat": [
+      44.84022761389865,
+      40.07678
+    ],
+    "label_lonlat": [
+      44.840227613898655,
+      40.07678
+    ],
+    "label_pdf_xy": [
+      334.54332314488596,
+      328.9611415255291
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      39.5,
+      38.5,
+      51,
+      44
+    ]
+  },
+  {
+    "page": 36,
+    "region_id": "aze-base",
+    "anchor_lonlat": [
+      47.753241333333335,
+      40.185370000000006
+    ],
+    "label_lonlat": [
+      47.753241333333335,
+      40.185370000000006
+    ],
+    "label_pdf_xy": [
+      495.03771380869597,
+      336.9187367606456
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      39.5,
+      38.5,
+      51,
+      44
+    ]
+  },
+  {
+    "page": 36,
+    "region_id": "geo-base",
+    "anchor_lonlat": [
+      43.63580654650926,
+      42.286955
+    ],
+    "label_lonlat": [
+      43.63580654650926,
+      42.28695499999999
+    ],
+    "label_pdf_xy": [
+      268.18495894506685,
+      490.92520864747786
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      39.5,
+      38.5,
+      51,
+      44
+    ]
+  },
+  {
+    "page": 36,
+    "region_id": "geo-abkhazia",
+    "anchor_lonlat": [
+      41.4516186150113,
+      43.00343
+    ],
+    "label_lonlat": [
+      41.451618615011306,
+      43.003429999999994
+    ],
+    "label_pdf_xy": [
+      147.84570038879684,
+      543.4292886371613
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      39.5,
+      38.5,
+      51,
+      44
+    ]
+  },
+  {
+    "page": 36,
+    "region_id": "geo-ossetia",
+    "anchor_lonlat": [
+      44.2,
+      42.276105
+    ],
+    "label_lonlat": [
+      44.20000000000001,
+      42.276104999999994
+    ],
+    "label_pdf_xy": [
+      299.26956521739197,
+      490.1301086539149
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      39.5,
+      38.5,
+      51,
+      44
+    ]
+  },
+  {
+    "page": 37,
+    "region_id": "rus-base",
+    "anchor_lonlat": [
+      88.39720324880754,
+      59.464265
+    ],
+    "label_lonlat": [
+      88.39720324880754,
+      59.464265
+    ],
+    "label_pdf_xy": [
+      313.42601228847496,
+      410.719332968944
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      19,
+      41,
+      180,
+      79
+    ]
+  },
+  {
+    "page": 38,
+    "region_id": "rus-tatar",
+    "anchor_lonlat": [
+      50.72148275600101,
+      55.328305
+    ],
+    "label_lonlat": [
+      50.721482756001,
+      55.32830499999999
+    ],
+    "label_pdf_xy": [
+      363.80245115248744,
+      367.65846860166494
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      40,
+      52.5,
+      61,
+      59.9
+    ]
+  },
+  {
+    "page": 38,
+    "region_id": "rus-bashkir",
+    "anchor_lonlat": [
+      55.58278945575698,
+      54.5315
+    ],
+    "label_lonlat": [
+      55.58278945575697,
+      54.5315
+    ],
+    "label_pdf_xy": [
+      510.4750190079819,
+      324.4426954174096
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      40,
+      52.5,
+      61,
+      59.9
+    ]
+  },
+  {
+    "page": 38,
+    "region_id": "rus-chuvash",
+    "anchor_lonlat": [
+      47.14590364708094,
+      55.47553
+    ],
+    "label_lonlat": [
+      47.14590364708094,
+      55.47552999999999
+    ],
+    "label_pdf_xy": [
+      255.9221214662135,
+      375.6434112250825
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      40,
+      52.5,
+      61,
+      59.9
+    ]
+  },
+  {
+    "page": 38,
+    "region_id": "rus-mari",
+    "anchor_lonlat": [
+      47.918785518387566,
+      56.57692
+    ],
+    "label_lonlat": [
+      47.91878551838756,
+      56.57692
+    ],
+    "label_pdf_xy": [
+      279.2410716404932,
+      435.37875478769536
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      40,
+      52.5,
+      61,
+      59.9
+    ]
+  },
+  {
+    "page": 39,
+    "region_id": "rus-mari",
+    "anchor_lonlat": [
+      47.918785518387566,
+      56.57692
+    ],
+    "label_lonlat": [
+      47.91878551838756,
+      56.57692
+    ],
+    "label_pdf_xy": [
+      279.2410716404932,
+      435.37875478769536
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      40,
+      52.5,
+      61,
+      59.9
+    ]
+  },
+  {
+    "page": 39,
+    "region_id": "rus-udmurt",
+    "anchor_lonlat": [
+      52.756877598459766,
+      57.179244999999995
+    ],
+    "label_lonlat": [
+      52.75687759845976,
+      57.179244999999995
+    ],
+    "label_pdf_xy": [
+      425.21322125638596,
+      468.04664791488017
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      40,
+      52.5,
+      61,
+      59.9
+    ]
+  },
+  {
+    "page": 39,
+    "region_id": "rus-mordovia",
+    "anchor_lonlat": [
+      44.56785172947297,
+      54.420735
+    ],
+    "label_lonlat": [
+      44.56785172947297,
+      54.42073499999999
+    ],
+    "label_pdf_xy": [
+      178.13861218067012,
+      318.43520912307855
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      40,
+      52.5,
+      61,
+      59.9
+    ]
+  },
+  {
+    "page": 40,
+    "region_id": "rus-komi",
+    "anchor_lonlat": [
+      53.10182676031825,
+      63.804465
+    ],
+    "label_lonlat": [
+      53.10182676031825,
+      63.80446499999999
+    ],
+    "label_pdf_xy": [
+      369.76442484934165,
+      566.8104362799999
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      35,
+      43,
+      69,
+      70
+    ]
+  },
+  {
+    "page": 40,
+    "region_id": "rus-kalmyk",
+    "anchor_lonlat": [
+      45.435460724100224,
+      46.50392
+    ],
+    "label_lonlat": [
+      45.435460724100224,
+      46.503919999999994
+    ],
+    "label_pdf_xy": [
+      281.7861757237666,
+      207.09750463999998
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      35,
+      43,
+      69,
+      70
+    ]
+  },
+  {
+    "page": 41,
+    "region_id": "rus-adyghe",
+    "anchor_lonlat": [
+      40.14043642502567,
+      44.47355
+    ],
+    "label_lonlat": [
+      40.14043642502567,
+      44.47355
+    ],
+    "label_pdf_xy": [
+      145.3079312016429,
+      465.8792285995628
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      38.5,
+      41.8,
+      48.4,
+      46
+    ]
+  },
+  {
+    "page": 41,
+    "region_id": "rus-karachay",
+    "anchor_lonlat": [
+      41.7066522773751,
+      43.82682
+    ],
+    "label_lonlat": [
+      41.7066522773751,
+      43.82682
+    ],
+    "label_pdf_xy": [
+      245.5457457520064,
+      408.4360863587901
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      38.5,
+      41.8,
+      48.4,
+      46
+    ]
+  },
+  {
+    "page": 42,
+    "region_id": "rus-kabardin",
+    "anchor_lonlat": [
+      43.41970353552994,
+      43.460755
+    ],
+    "label_lonlat": [
+      43.41970353552994,
+      43.460755
+    ],
+    "label_pdf_xy": [
+      355.18102627391636,
+      375.92186270383615
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      38.5,
+      41.8,
+      48.4,
+      46
+    ]
+  },
+  {
+    "page": 42,
+    "region_id": "rus-ossetian",
+    "anchor_lonlat": [
+      44.271791490597906,
+      43.19101
+    ],
+    "label_lonlat": [
+      44.271791490597906,
+      43.19101
+    ],
+    "label_pdf_xy": [
+      409.714655398266,
+      351.9628683727592
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      38.5,
+      41.8,
+      48.4,
+      46
+    ]
+  },
+  {
+    "page": 42,
+    "region_id": "rus-ingush",
+    "anchor_lonlat": [
+      45.00432695590277,
+      43.119654999999995
+    ],
+    "label_lonlat": [
+      45.00432695590277,
+      43.11965499999999
+    ],
+    "label_pdf_xy": [
+      456.5969251777773,
+      345.625052878518
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      38.5,
+      41.8,
+      48.4,
+      46
+    ]
+  },
+  {
+    "page": 42,
+    "region_id": "rus-chechen",
+    "anchor_lonlat": [
+      45.7647149899813,
+      43.261495
+    ],
+    "label_lonlat": [
+      45.7647149899813,
+      43.26149499999999
+    ],
+    "label_pdf_xy": [
+      505.2617593588033,
+      358.2234096818691
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      38.5,
+      41.8,
+      48.4,
+      46
+    ]
+  },
+  {
+    "page": 43,
+    "region_id": "rus-dagestan",
+    "anchor_lonlat": [
+      46.937394969169404,
+      43.09689
+    ],
+    "label_lonlat": [
+      46.937394969169404,
+      43.09689
+    ],
+    "label_pdf_xy": [
+      346.1482128931667,
+      401.1540228000008
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      45.4,
+      41.1,
+      48.7,
+      45.3
+    ]
+  },
+  {
+    "page": 44,
+    "region_id": "rus-dagestan",
+    "anchor_lonlat": [
+      46.937394969169404,
+      43.09689
+    ],
+    "label_lonlat": [
+      46.937394969169404,
+      43.09689
+    ],
+    "label_pdf_xy": [
+      346.1482128931667,
+      401.1540228000008
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      45.4,
+      41.1,
+      48.7,
+      45.3
+    ]
+  },
+  {
+    "page": 45,
+    "region_id": "rus-altai",
+    "anchor_lonlat": [
+      86.9611815494292,
+      50.871494999999996
+    ],
+    "label_lonlat": [
+      86.96118154942917,
+      50.871494999999996
+    ],
+    "label_pdf_xy": [
+      130.1315608490951,
+      334.93998845820033
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      82,
+      48,
+      117,
+      59
+    ]
+  },
+  {
+    "page": 45,
+    "region_id": "rus-khakas",
+    "anchor_lonlat": [
+      90.36517704267257,
+      53.3763
+    ],
+    "label_lonlat": [
+      90.36517704267254,
+      53.37630000000001
+    ],
+    "label_pdf_xy": [
+      191.7536049782094,
+      411.17130994701546
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      82,
+      48,
+      117,
+      59
+    ]
+  },
+  {
+    "page": 45,
+    "region_id": "rus-tuva",
+    "anchor_lonlat": [
+      94.14606178099967,
+      51.727014999999994
+    ],
+    "label_lonlat": [
+      94.14606178099966,
+      51.727014999999994
+    ],
+    "label_pdf_xy": [
+      260.19842126975385,
+      360.9769135522139
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      82,
+      48,
+      117,
+      59
+    ]
+  },
+  {
+    "page": 45,
+    "region_id": "rus-buryat",
+    "anchor_lonlat": [
+      111.06947019721477,
+      53.580529999999996
+    ],
+    "label_lonlat": [
+      111.06947019721474,
+      53.580529999999996
+    ],
+    "label_pdf_xy": [
+      566.560466198722,
+      417.38685278873777
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      82,
+      48,
+      117,
+      59
+    ]
+  },
+  {
+    "page": 46,
+    "region_id": "rus-sakha",
+    "anchor_lonlat": [
+      129.26748818455943,
+      64.75333499999999
+    ],
+    "label_lonlat": [
+      129.26748818455943,
+      64.75333499999999
+    ],
+    "label_pdf_xy": [
+      296.58467522894756,
+      433.0832199032014
+    ],
+    "pdf_coordinate_origin": "bottom-left",
+    "page_size_pt": [
+      1152,
+      813.6
+    ],
+    "axes_extent_lonlat": [
+      105,
+      53,
+      165,
+      75
+    ]
+  }
+]
